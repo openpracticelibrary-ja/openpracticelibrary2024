@@ -1,12 +1,11 @@
 ---
 templateKey: practice-page
-title: Metrics Based Process Mapping (MBPM)
-subtitle: Map your process in detail and collect key baseline metrics
+title: メトリクス ベース プロセス マッピング
+subtitle: プロセスの詳細なマッピングと基礎となるメトリクスの収集
 date: 2020-08-03T18:28:36.558Z
 authors:
   - prakritiverma
   - mtakane
-  - itblaked
 tags:
   - value
 mobiusTag: discovery
@@ -14,78 +13,65 @@ icon: /images/mbpm2.jpg
 whatIs: >-
   
 
-  * A detailed process mapping practice that captures process steps, responsible actors, and key time and quality metrics
+  * 詳細なプロセスのマッピングプラクティス：1つ1つのプロセス、責任者、主要な時間と品質のメトリクスをとらえる
 
-  * Metrics-Based Process Mapping (MBPM) is a third generation lean process improvement techniques, optimizable for an extended organizational transformation effort.
+  * メトリクス ベース プロセス マッピング（MBPM）は第3世代のリーンプロセス改善手法で、組織改革の取り組みに最適化することができる
 whyDo: >-
-  * MBPM can be used to view the detailed, micro picture and make tactical
-  improvements with frontline workers
+  * MBPMは、現場の作業者とともに詳細なミクロの世界を見みたり、戦術的な改善に使うことができる
 
-  * It is an ideal practice for process/workflow improvement related activities. For example, it's ideal for use when adopting technology automation solutions to automate a business process. 
+  * プロセスを具体的な指標（メトリクス）で見ることで、そのプロセスの重要な側面を計測することができる
 
-  * Use the practice to determine a performance baseline, such as the quantity of resources and time involved before automation or process improvement is performed and again after to measure the value gained from automation or process improvement.
+  * プロセスマッピングはハンドオーバーの回数を確認し、どのステップが最適化できるか判断するのに役立つ
 
-  * The practice highlights key performance points in processes which makes it easy to identify and prioritise areas for improvement in measurable, incremental steps.
+  * 古い測定値と新しい測定値を使用すると、かんたんに比較して結論を導き出すことができる
 
-  * The visualisation of the process is an invaluable output.
-
-  * The clear metrics can help build a business case for changes to the process to be made.
+  * メトリクスの数値は数字で議論する場合に役立つ
 howTo: >-
-  **Facilitation Materials Needed**
+  **ファシリテーション用の資材が必要です**
 
 
-  The practice is often performed on whiteboards, paper and sticky notes or a digital canvas.
+  ホワイトボードを好むチームもありますが、多くの場合、模造紙と付箋を使います。
+
+  * 模造紙
+
+  * 色違いの長方形の付箋
+
+  * 付箋に書き込むためのペン
+
+  * 付箋同士を繋ぐ線を引くためのチャコールペンシル（消したり書いたりする）
+
+  * チョークでも可（必須ではありません）
 
 
-  If performing the practice in person:
+  メトリクス ベース プロセス マッピングは参加者が合意したプロセスのステップに対して行います。ファシリテーションを通じて、各プロセスのステップを責任者に合わせて定義します。各ステップに対して、以下のメトリクスを見積もります。
 
 
-  * Drawing paper roll
+  * **プロセスタイム** - 実際の作業にかかる時間
 
-  * Different colored wide format sticky notes like the 4x6 sticky notes
+  * **リードタイム** - 作業が可能になったタイミングから、作業が完了し次のステップに移るまでの時間
 
-  * Markers for the sticky notes
-
-  * Charcoal pencil and eraser to draw lines between sticky notes
-
-  * Chalk line can be useful, but not required
+  * **完全正解率 (%C/A)** - 下流の顧客が、受け取った仕事を修正、追加、明確化することなくタスクを実行できる割合
 
 
-  If performing the practice remotely:
-
-
-  * Consider using a digital canvas solution such as miro.com or any other visualisation tool which you prefer. Ideally the tool enables contributions from multiple participants concurrently as they can add steps and metrics to the process.
-
-
-  Metrics-Based Process Mapping should be used to map out specific process steps for an agreed upon process. Through facilitation, work together to define each process step, aligned to responsible actors. For each step, estimate any or all of the following metrics as appropriate:
-
-
-  * **Resources** - The quantity of resources (e.g. number of people needed to complete the step) 
-
-  * **Process time** - the time it takes to actually perform the work
-
-  * **Lead time** - the elapsed time from the work is made available to when it is completed and passed onto the next step
-
-  * **% Complete & Accurate** - % time downstream customer can perform the task without having to correct, to add, or to clarify the incoming work
-
-
-  Mapping the process together builds shared understanding around the process and adds visibility into the pain points and bottlenecks. These observations can help the team identify potential improvements.
+  プロセスを共同でマッピングすることで共通理解を作り上げ、ペインポイントやボトルネックを可視化することができます。これらの観察によって、チームは潜在的な改善ポイントを特定することができます。
 
 
   **How does it fit?**
+  **どのようにフィットさせるか？**
 
 
-  MBPM documents a current state map, and then designs a future state map for subsequent implementation(s).
+  MBPM は現在の状態をマップし、その後の実装のために将来の状態をマップします。
 
 
-  * The current state map is typically done in the Why area of the Discovery of the Open Practice Library.
+  * 現在の状態のマップは通常、Open Practice Library のディスカバリーの Why エリアで行われる
 
-  * The future state map is typically done as part of the Outcomes area of the Discovery of the Open Practice Library.
+  * 将来の状態のマップは通常、Open Practice Library のディスカバリーのアウトカムのエリアで行われる
 
 
-  MBPM can be paired with [Value Stream Mapping](https://openpracticelibrary.com/practice/vsm-and-mbpm/). Used together, a MBPM visually details an implementation-level segment of the strategy-level value stream map. One or more Metrics-Based Process Maps may align to segments within the higher-level map.
+  MBPM は [Value Stream Mapping](https://openpracticelibrary-ja.netlify.app/practice/vsm-and-mbpm/)と組み合わせることができます。MBPM と併用することで、戦略レベルのバリューストリームマップの実装レベルのセグメントを視覚的に詳細化することができます。1つまたは複数のメトリクス ベース プロセス マップが、上位のマップ内のセグメントと整合することもある。
 mediaGallery:
   - link: https://www.youtube.com/watch?v=g1XSbEwR3bU
+  - link: https://www.youtube.com/watch?v=Bh1RwpLvGp8
   - link: https://github.com/openpracticelibrary/opl-media/blob/master/MBPM2.jpg?raw=true
   - link: https://github.com/openpracticelibrary/opl-media/blob/master/MBPM.JPG?raw=true
   - link: https://github.com/openpracticelibrary/opl-media/blob/master/MBPM3.jpg?raw=true
@@ -119,9 +105,9 @@ participants:
 jumbotron: /images/mbpm-delta-air4-cluster-vm-provisioning.png
 area: discovery-loop-why
 people: 2+
-time: 2+ hours
+time: 4+ hours
 perspectives: []
-difficulty: easy
+difficulty: hard
 jumbotronAlt: Example photo of a facilitated MBPM run
 ---
 ## What is it?

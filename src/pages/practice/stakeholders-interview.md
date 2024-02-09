@@ -1,7 +1,7 @@
 ---
 templateKey: practice-page
-title: Stakeholders Interview
-subtitle: Help identify concrete objectives, targets and main priority areas
+title: ステークホルダインタビュー
+subtitle: 具体的な目標や優先すべき領域を特定する
 date: 2021-02-09T09:45:51.714Z
 authors:
   - dsunwar
@@ -11,65 +11,60 @@ tags: []
 mobiusTag: discovery
 icon: /images/screenshot-2021-02-05-at-16.11.47.png
 whatIs: >-
-  * One on one conversation to help better understand what stakeholders want and
-  need from the product. * An opportunity to gather useful information from
-  three main areas, and more for e.g:\
-    User needs, Business goals and Technical limitations to gather valuable insights.
-  * Analyze various viewpoints of perceptions and aspirations of each stakeholder who have a product success interest
+  * ステークホルダインタビューは、ステークホルダがプロダクトに何を求めているかをより深く理解するために行うステークホルダとの対話です。
+  
+  * 適切なインタビューからはユーザーのニーズ、ビジネスの目標、技術的な制限の3つの観点から有用な情報や洞察を得ることができるでしょう。
+  
+  * プロダクトの成功に関心を持つステークホルダ達の認識や要望を分析していくための足がかりとなります。
 
 
-  ** Who: are stakeholders? **
+  ** ステークホルダとは誰のこと？ **
 
-    * Within the organisation, stakeholders are anyone who can offer useful product advice and ultimately help simplify the design process.
-    * Stakeholders can be anyone from the organisation, depending on the projects high level employees, lower-level employees or even influential users. The job title varies across various organisations. For e.g: Product Owner, Head of IT, Head of Data, IT Manager, Marketing Manager etc.
+    * ステークホルダのうち組織内にいる者は、製品に関する有益なアドバイスを行い、デザインプロセスを簡素化するのに役立つ人物です。
+    * 組織内の誰もがステークホルダになり得ます。誰がステークホルダになるかはプロジェクトによりけりですが、役員等の上位職、一般の従業員、影響力のある社内ユーザー等が該当します。例えば、プロダクトオーナー、IT部門長、データ部門長、ITマネージャー、マーケティングマネージャー等です。
 whyDo: >-
   
+  ステークホルダインタビューによって、
 
-  * Better understanding and learning about the product, its vision and context through different lenses.
 
-  * Identifying priorities: helping to identify concrete objectives, targets and identify main priority areas
+  * 製品とそのビジョン、コンテキストについての自分以外のステークホルダ達の視点から深く理解することができるようになります。
 
-  * Understanding business requirements, their team and culture
+  * 優先事項の特定：ビジネスの具体的な目標や優先領域の決定に役立ちます。
 
-  * Understanding their target market and customer awareness (users)
+  * ビジネス要件、チーム、文化の理解に役立ちます。
 
-  * Compile both qualitative and quantitative data
+  * ステークホルダが目標市場と顧客認知をどう考えているか理解することができます。
 
-  * Avoid expensive, intense, conventional research time
+  * 定性的および定量的なデータの収集に役立ちます。
+
+  * 時間とコストがかかっていた従来型の市場/顧客ニーズ探索の代替となりえます。
 howTo: >-
-  * **Outcome:** Align goal with the PO on the purpose and intent of the
-  interview understand the Big WHY
+  * **得られる成果(Outcome):** インタビューの目的と意図についてプロダクトオーナーと合意します。
 
-  * **Stakeholders Map:** Finding the relevant stakeholders is key. Go through stakeholders mapping workshops to understand their role and how they impact certain projects.
+  * **ステークホルダマップ:** 関連するステークホルダーを見つけることが重要です。各ステークホルダの役割と、プロジェクトにどのように影響を与えるかを理解するために、ステークホルダーマッピングのワークショップを実施します。
 
-  * **Prep questions:** work collaboratively, categorise with the areas that need further investigation. Helpful practice: Affinity map
+  * **質問の準備:** インタビューで明らかにしたい領域をカテゴリ分けします。アフィニティ・ダイアグラム（親和図）が有効です。（訳注：類似点を見出してグループ分けする手法。様々なステークホルダを付箋で書き出し、彼らを興味や影響力等の観点でグループ分けする。）
 
-  * **Logistics:** Discuss date, time and environment you will conduct interviews for e.g: face to face, virtual meeting, technologies suitable for both parties and many more.
+  * **インタビューの調整・手配:** インタビューの日時や環境について合意します。対面/リモート、場所/リモート会議ツール、等。
 
-    **Some Helpful Tips:**
+    **役に立つであろう情報:** 
 
-    * **Establish psychological safety:** It is essential for the participants to create a secure and comfortable atmosphere. And they feel relaxed and safe. For example, clarify the intention of the interview, when, how and to whom the information will be shared, promote active listening, encourage them to reflect and answer.
-    * **Pair up with the other team members:** This will validate a lot of technical, business, marketing buzzwords
-    * **Silence is good:** let them think and reflect back and answer, it’s not awkward.
-    * **Time of the interview:** No longer than 45mins to 1 hours
-    * **Methodologies/ Practices that are helpful to visualise the data collected:** empathy mapping, Affinity mapping, User Journey Mapping, Proto-personas
-    * **Questions:** Don’t lead the interviewee with direct questions. Ask open ended questions
-    * **What if:**
-      There is a project manager and who you have agreed on the project plan should you skip the stakeholders interview? Absolutely not.\
-      \
-      \
-      **Helpful links:**
+    * **心理的安全性の確率:** 参加者がリラックスして話しやすい雰囲気を作り出すことが不可欠です。インタビューの意図を明確にし、情報がいつ、どのように、誰に共有されるかを明示し、アクティブリスニングを促して回答できる状況を作りましょう。
+    * **他のチームメンバーとペアになる:** 技術、ビジネス、マーケティングの専門用語の検証に役立ちます。
+    * **質問者は多くを喋らない:** インタビューを受ける人に考え、反芻し、回答させるようにしましょう。沈黙を気まずく感じる必要はありません。
+    * **インタビュー時間を区切る:** 45分から1時間程度が良いとされます。
+    * **データを可視化する手法:** 共感マッピング（Empathy Mapping）、親和図（Affinity Mapping）、ユーザー（カスタマー）ジャーニーマッピング（User Journey Mapping）、プロトペルソナ（Proto-personas）
+    * **質問の仕方:** インタビューを受ける人を誘導するような質問はやめましょう。オープンクエスチョン（Yes/Noで答える形式の質問ではなく、◯◯はどうですか？などのフリーテキストで答える形式の質問）が望ましいです。
+    * **こんな場合は？:**
+      プロジェクトマネージャーとプロジェクト計画に合意済みの場合、ステークホルダのインタビューをスキップも良いででしょうか？いいえ、絶対にスキップすべきではありません。
 
-      Preparatory research: \
-      <https://www.thisisservicedesigndoing.com/methods/preparatory-research>
+  **Helpful links:**
 
-      Tips for writing a discussion guide: <https://medium.com/design-research-methods/tips-for-writing-a-discussion-guide-c08459131a54>
+    * インタビューを実施する前の準備（Preparatory Research）: <https://www.thisisservicedesigndoing.com/methods/preparatory-research>
 
-      Empathy mapping: <https://openpracticelibrary.com/practice/empathy-mapping/>
+    * ディスカッションガイドを書くための留意点（Tips for Writing a Discussion Guide）: <https://medium.com/design-research-methods/tips-for-writing-a-discussion-guide-c08459131a54>
 
-      How to prepare interview: \
-      <https://medium.com/design-research-methods/tips-for-writing-a-discussion-guide-c08459131a54>
-mediaGallery:
-  - link: https://www.datocms-assets.com/16499/1571500958-stakeholderinterviewguide1.jpg?auto=format
-  - link: https://www.youtube.com/watch?v=MOlDhx_Wn50
+    * 共感マッピング（Empathy Mapping）: <https://openpracticelibrary.com/practice/empathy-mapping/>
+
+    * インタビューの準備方法（How to prepare interview）: (Sorry but the link is incorrect.)
 ---

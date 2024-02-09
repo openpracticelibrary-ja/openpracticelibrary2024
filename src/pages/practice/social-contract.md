@@ -1,7 +1,7 @@
 ---
 templateKey: practice-page
-title: Social Contract
-subtitle: Build a constructive, fun team culture
+title: チームの規範
+subtitle: 建設的で楽しいチーム文化を築く
 date: 2017-11-21T05:00:00.000Z
 authors:
   - mtakane
@@ -10,144 +10,143 @@ authors:
   - springdo
   - infosec812
   - ilaria66
-  - kattekrab
-  - rmarting
 tags:
   - culture
 mobiusTag: foundation
-icon: /images/social-contract.png
+icon: /images/social-contract.jpg
 whatIs: >-
-  The Social Contract is a simple and effective way to enable team autonomy and
-  self accountability for engagements. The Social Contract or Agreement is
-  created by and for the team. It looks to codify the behaviors and expectations
-  of the team. It also provides a mechanism for the team to radiate and share
-  its desired behaviours with management and other stakeholders.
+  Social Contract（直訳すると「社会的契約」、意訳で「チームの規範」、「チームでの約束事」）は、
+  チームの自律と自己責任を促進するシンプルながら非常に効果的な手法です。
+  この規範は、チームによって、チームのために作られ、チームの行動と期待に規律を与えます。
+  またこれは、チームが取ろうとしている行動を管理職やステークホルダに発信する手段でもあります。
 
 
-  To effectively use this practice you should look to create the following outcomes:
+  以下の成果を目標に置くことで、このプラクティスをより効果的に活用することができます。
+
+  * 「チームでの規範」を誰でも見える場所に掲示しましょう。
 
 
-  * Public display of the social contract.
+  * この規範はチームで合意したものです。誰かが勝手に変更することを許してはなりません。
 
-  * Nobody is above the contract.
 
-  * The team agreed holds each other accountable to the contract. Having every team member physically sign the contract can provide a good starting point for this.
+  * チームメンバーが互いに契約に従うことを合意しましょう。規範に自筆で署名することで、約束を守る雰囲気を醸成することができます。
 
-  * Revisit the social contract often and update it as necessary.
+
+  * 規範の内容を頻繁に確認し、必要に応じて更新しましょう。
 whyDo: |-
-  * Provides a quick means to clearly determine team dynamics and expectations.
-  * Promote autonomy and self-governing of team behavior.
-  * Keeps the team consciously aware of how they work together.
-  * Establish empathy and context for future conversations between team members.
-  * E﻿nables psychological safety within the group.
+  * チームの期待値を明確に判断する迅速な手段です。
+
+  * チームの行動の自律性と自己管理を推進します。
+
+  * チームがどのように協働するかを明示する。
+
+  * チームでのこの先の活動と話し合いのために、共感と文脈の下地を作ります。
 howTo: >-
-  ### Workflow
+  ## Social Contractの実践に必要なもの
 
 
-  1. I﻿ndividually, write down your expectation about working together.
-     * T﻿hink about behaviors exhibited by really great teams that you've worked with.
-     * C﻿onsider the behaviors of any terrible teams that you've worked with.
-  2. T﻿ogether, review, and group the behaviors.
+  * 付箋を貼り付けるための壁
 
-  3. A﻿fter reaching consensus, sign the contract.
+  * ホワイトボードマーカー
 
-  4. D﻿isplay the contract in a visible place.
+  * 付箋（様々な大きさや色があるとよい）
 
-  5. E﻿stablish your name team (naming things is hard).
+  * 大きなポスター用紙
 
 
-  Note that this is a living document so the team can revisit it later, change it, and initial it to indicate that everyone has agreed to the change.
+  ポスター用紙を壁に貼り付け、タイトルとして「チームの規範」（またはSocial Contract）と書いておきましょう。
 
 
-  ### Materials Needed
+  チームにこれからやることを説明します。
 
 
-  * Wall space which will hold sticky notes.
+  * チームで醸成したい文化の定義
 
-  * Whiteboard markers.
+  * ガイドラインの設定
 
-  * Stickies (preferably a wide variety).
-
-  * Large poster paper.
+  * このガイドラインに対して互いに責任を持たせること
 
 
-  ### Facilitation Tips and Example Questions
+  チーム自身が望む働き方についてオープンな質問を行います（訳注：はい/いいえで答えさせる質問ではなく、フリーフォーマットで答えさせる質問。どうしたいですか？など）。回答にチームの皆が同意したら、その回答を付箋に書いてポスター用紙に貼ります。合意が得られない場合は、付箋を捨てるか、後で議論するためにParking Lot（アイデアの駐車場）に置きます。
 
 
-  Try to guide the team to a contract that encourages positivity, autonomy, and respect. E﻿nsure that things in the Social Contract are actionable, for example "Be Open" has good intent, but lacks specificity. Ask questions to tease our greater meanings.
+  最後に、チームにお願いして規範に署名をしてもらい、見えやすい場所に掲示します。これが効力をもつ有効な文書であり、チームが後でこれを見直し、修正し、全員が変更に同意したことを示すために署名を更新することができます。
 
 
-  * What sort of team culture do you want to build?
-
-  * Open, positive, blame-free, constructive, listen to others, give space to anyone
-
-  * Fun!
-
-  * No magic, no wizardry, no ninjas - build shared understanding
-
-  * Celebrate success
-
-  * What core hours do you want to work? 10am - 3pm?
-
-  * The idea is *not* to encourage a clock-in/clock-out mindset. It's about giving people the freedom to work the hours that make sense for them while ensuring that the team can still meet together.
-
-  * What are your thoughts on pair programming? Mob programming? Mob to learn; pair to build? Focus, then share what you learned?
-
-  * Respect individual working styles
-
-  * How should we handle devices in meetings? Laptops closed and phones down? Step out if you need to work on something else?
-
-  * How do you want to track tasks? Jira? Paper stickies? This helps us avoid missing important stuff or duplicating work.
-
-  * Embrace creative chaos
+  チームが前進すると時として意見の不一致が生じます。そんなときにはこの規範を参照するように勧めましょう。
 
 
-  ### Don't do this
+  ## 規範のサンプル
 
 
-  Avoid building a social contract that encourages antagonistic, command-and-control behavior. Here's an example of a really bad social contract:
+  前向きで、自主性を重んじ、尊重を促す規範にチームを導くように努めてください。どんなチーム文化を築きたいですか？
+  
+  * オープンで、ポジティブで、非難のない、建設的なチーム
+
+  * 楽しい！
+
+  * 魔法も、魔術も、忍者もなし - 共有理解を培う
+
+  * 成功を祝う
+
+  * コアタイムは何時から何時までにしますか？10時から15時？
+
+  * 時計を見て出勤/退勤するマインドセットを奨励することは良いアイデアではありません。チームが集まって会議を開くことができる一方で、人々が自分にとって意味のある時間に働く自由を与えましょう。
+
+  * ペアプログラミングやモブプログラミングについてのあなたの考えは？学びを得るためにやるのでしょうか、効率的な構築のためでしょうか？学んだことを共有するためでしょうか？
+
+  * 個々の働き方を尊重する
+
+  * ミーティングでのラップトップPCやスマートフォンの扱いはどうすべきですか？パソコンは閉じて、携帯も触らない？他の作業をする場合は退出すべき？
+
+  * タスク管理の方法は？Jira？紙の付箋？うまく管理することで重要なことを見逃したり、作業を重複させたりするのを防ぐことができます。
+
+  * 創造的な混乱を受け入れよう！
+
+  ## ダメな例
+
+  対立を助長したり、上から命令を下すような行動を奨励するチームの規範を作らないようにしてください。以下に、規範の良くない例を挙げます。
+
+  * コアタイムは9時から19時です。（デスクにいる時間が長ければ長いほど、より多くの仕事ができるという考え方）
+
+  * 複数のプロジェクトを同時にこなすことで生産性を向上させます。
+
+  * プロダクトが壊れたときには、誰かを責めることで責任を明確にします。
+
+  * 本番環境へのデプロイでトラブルを起こすと我々が怒られてしまいます（上記項目に記載の通り）。恐ろしい！デプロイの回数・頻度はなるべく少なくしましょう。
+
+  * 何かを学んだときには、自分がどれほどのニンジャ、ロックスター、魔法使い、ユニコーン（すごい能力を持った人や動物の喩え）であるかを皆に誇示するために、それを自分だけのもの成果にしておきましょう。
 
 
-  * Core hours are 9am-7pm. The more time you spend at a desk, the more you'll accomplish.
-
-  * Be more productive by juggling several projects at once.
-
-  * Ensure accountability by finding someone to blame when things break.
-
-  * Deploying to production is scary because it's an opportunity to get blamed for something (see above). Code should be deployed as infrequently as possible.
-
-  * When you learn something, be sure to keep it to yourself so that everyone can see what a ninja rockstar wizard unicorn you are.
+  ## リモートワークで気をつけること
 
 
-  ### Tips for remote sessions
+  1. リモートワークに適したチームの規範を考えましょう。参加者の意見に基づいて追加や変更を行います。
+
+  2. 各自、自分の名前が書かれた付箋で署名します。
+
+  3. チームの規範にリモートワーキングの要素を追加します（入室時はミュートにする、ビデオをオンにするなど）。
+
+  4. チーム横断で適用するコミュニケーションの規範と、個々のチームでカスタマイズしたルールを確立します（応答時間、ライティングスタイル、トーンなど）。
+
+  5. 以下のような例を用います：
 
 
-  1. Consider to have a “pre-canned” social contract that is good for remote meetings, then allow people to add/change based on their thoughts.
+  > * １度に進めるのは１つの話題のみとする。
 
-  2. Everyone signs with a Sticky-note with his/her name.
+  > * 前向きな意図を仮定する（訳注：おそらく、リモートワークの場合、相手の表情やしぐさなどのノンバーバルなコミュニケーション要素が読み取りづらいため、不確かな部分はまずはポジティブに解釈しようという意味）。
 
-  3. Add remote working elements to the social contract (mute on entry, video on etc).
+  > * 他人の貢献を勝手に削除・移動しない。
 
-  4. Establish global communication norms and individual teams exceptions: response time, writing style, and tone, etc.
+  > * 自分たちの目標に集中し、反復的に作業をすすめる。
 
-  5. Use examples:
+  > * 休憩を尊重する
 
+  > * 他の人の邪魔をしない（メール、チャットなど）
 
-  > * One conversation at a time
+  > * 必要に応じて規範を更新する。
 
-  > * Assume positive intent
-
-  > * Do not delete or move others contribution
-
-  > * Stay focused on our goal working iteratively
-
-  > * Respect breaks
-
-  > * Avoid other distractions like mail, and chat
-
-  > * A contract can be updated based on needs...
-
-  > * Agree on the above adding a sticky w/name & location
+  > * 上記に同意し、名前と場所を署名する。
 mediaGallery:
   - link: https://www.youtube.com/o1le81ZgVLk
   - link: https://openpracticelibrary.github.io/opl-media/images/social-contract.jpg
@@ -155,18 +154,30 @@ resources:
   - link: https://anchor.fm/openpracticelibrary/embed/episodes/Social-Contracts-w-Omar-McNeil-ecf9e1
     linkType: podcast
     description: Learn more by listening to the Open Practice Podcast episode!
+  - link: https://openpracticelibrary.com/practice/retrospectives/
+    linkType: web
+    description: Retrospectives
+  - link: http://www.funretrospectives.com/collaborative-face-drawing/
+    linkType: web
+    description: Collaborative Face Drawing
+  - link: https://www.scrumalliance.org/community/articles/2014/january/work-agreements-for-a-scrum-team
+    linkType: web
+    description: Working Agreements for a Scrum Team
+  - link: https://theagileexecutive.com/tag/social-contract/
+    linkType: web
+    description: Social Contract
+  - link: https://leanpub.com/dynamicreteaming
+    linkType: web
+    description: Dynamic Reteaming
   - link: https://medium.com/@springdo/social-contracts-6c62c4588b6e
     linkType: web
     description: Social Contracts - The best thing your teams aren't doing
-  - link: https://theagileexecutive.com/tag/social-contract/
+  - link: https://app.mural.co/template/ad9c8315-03b7-4f21-98b0-a8dac0d56601/f5a36cb3-25d3-4014-bf46-34417b460d29
     linkType: web
-    description: Social Contract - The Agile Executive
-  - link: https://resources.scrumalliance.org/Article/facilitate-powerful-working-agreements
+    description: Social Contract MURAL Template
+  - link: https://openpracticelibrary.com/blog/facilitation-tips-for-remote-sessions/
     linkType: web
-    description: Facilitate powerful working agreements - Scrum Alliance
-  - link: https://www.oreilly.com/library/view/dynamic-reteaming-2nd/9781492061281/
-    linkType: purchase
-    description: Dynamic Reteaming - Book - Heidi Helfand
+    description: Remote Facilitation Tips
 participants:
   - Facilitator
   - Team Members

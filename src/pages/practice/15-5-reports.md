@@ -1,7 +1,7 @@
 ---
 templateKey: practice-page
-title: 15/5 Reports
-subtitle: Reporting for people who don't have time for reports
+title: 15/5 レポート
+subtitle: 時間のない人のためのレポーティング
 date: 2021-06-04T11:06:35.789Z
 authors:
   - tom-geraghty
@@ -10,85 +10,75 @@ tags:
 mobiusTag: foundation
 icon: /images/person-pencil.jpeg
 whatIs: >-
-  Originally created by Yvon Chouinard, founder of the clothing brand Patagonia,
-  and inspired by the Scrum standup questions, 15/5 reports are a great way to
-  keep a regular pulse across teams and organisations. They should take no more
-  than 15 minutes to write, and no more than 5 minutes to read.
+  15/5 レポートはチームや組織で定期的に状況を共有共有するための素晴らしい方法で、スクラムのデイリースクラムでたずねる質問に触発されたものです。これは、書く時間が15分以内、読む時間が5分以内になるようになっています。
 
 
-  When you create a weekly cadence of 15/5 reports, you can use them to inform 1-1 meetings you have, and it helps you report up and across to other team leaders or managers.
+  15/5レポートを毎週作成すると、1 on 1 ミーティングに活用したり、他のチームリーダーやマネジャーへの報告もしやすくなるでしょう。
 whyDo: >-
-  Ensuring that everyone knows what's going on in an organisation can be hard.
-  None of us want to spend lots of time writing or reading reports, but only
-  communicating verbally can take a lot of time and risk losing granularity or
-  accuracy of information.
+  組織の中で何が起きているか、全員に知らせることは難しいことです。レポートを読んだり書いたりすることに多くの時間を費やしたいと思う人はいませんが、口頭でのコミュニケーションだけでは、たいへん時間がかかりますし、情報の粒度が粗くなったりや精度が低くなるリスクがあります。
 
 
-  Some people find it easier to communicate in written form, because it gives them more time to think about what they're saying and how to say it. 
+  文章で伝えるほうが、何をどのように言うべきか考える時間があるため、多くの人が楽だと感じています。
 
 
-  By using weekly 15/5 reports, people know there's always a space to report anything good, bad, or interesting.
+  週次の15/5レポートを実施するようになると、良かったこと、悪かったこと、あるいは興味深かったことなどを報告するための場が常にあるようになります。
 howTo: >-
-  You will probably want to use different questions to the below, and you should
-  also evolve your questions as you and your teams evolve too.
+  下記のような質問を使い分けるとよいでしょう。チームが進化するにつれて、質問も進化させていきましょう。
 
 
-  Use the below as a starting point though, and see how you get on. There should be around three "mandatory" questions (though people are free to state "I have nothing to report on", or similar) and you can include a few optional questions that add extra context and ideas.
+  下記の例を参考にしてどのように進むかみてみてください。例には3つの必須の質問と、あなたの考えや文脈を考慮した質問を追加してもよいでしょう。（答える側は「レポートすることはないです」などと宣言しても構いません）
 
 
-  It can be useful to ask people to have 15/5 reports to you for the end of the week, a Friday morning, for example. This means you have time to digest them before the weekend. Choose the timing and cadence that works best for your team. Suggest to your team that they don't wait until the day to write them - instead, make notes through the week, and then writing it should be really easy - because you already know what to write.
+  例えば、毎週金曜日に15/5レポートを提出してもらうと、週末の前にレポートを消化する時間が取れため、やりやすいかしれません。あなたのチームにとってベストなタイミングとケイデンス（回転数、頻度）を選んでください。チームには「書く日」まで書くのを待つのではなく、その週を通してメモを取っておくようにおすすめしましょう。そうすれば、何を書けばよいのかわかるので楽にレポートが書けます。
 
 
-  Even if you have around ten or more people sending reports to you, this is a very effective method of ensuring you can support your team in the best way possible, and can keep yourself and the rest of the organisation informed about progress, challenges, and opportunities.
+  もし10名以上の人があなたに報告するのだとしても、効果的にチームをサポートし、進捗やチャレンジ、機会について、あなた自身や組織が常に情報を得られるようにするには、この方法は非常に効果的です。
 
 
-  Be sure to respond to every report - even if it's a quick acknowledgement and thanks - because it can be very demotivating for people to write these without receiving a response.
+  たとえ、ちょっとした感謝やお礼であっても、すべてのレポートに返信しましょう。なぜなら、返信のないレポートを書くのは、モチベーションが下がってしまうからです。
 
 
+  質問の例：
 
 
-  Example questions:
+  **今週やり遂げたことは何ですか？あなたが最も誇りに思うこと、または、満足したものはなんですか？**
 
 
-  **What are your main achievements this week? What are you most proud of or satisfied with?**
+  この質問は、うまく言ったことをハイライトすることから始めることになります。報告者は仕事以外の成果も加えるよう、推奨されるべきです。
 
 
-  This question means the report starts with highlighting success. And people should be encouraged to add non-work achievements too.
+  **仕事または仕事以外で何か心配事はありますか？**
 
 
-  **Is there anything worrying or concerning you in or outside of work?**
+  これは本当に重要な質問です。1 on 1 などでこれらの心配事を特定できることがあります。もし複数の人から同じ心配事が上がってくるようであれば、大きくなりすぎる前に手を打つことができるでしょう。
 
 
-  This is a really important question. You can address these concerns in your 1-1s, and if multiple people raise the same concern, you can get in front of it before it becomes too big.
+  **体調や気分はどうですか？あなたの周りのチームメンバーの士気はどうですか？**
 
 
-  **How are you feeling, and what is the morale of your team around you?**
+  この質問に対して正直に安全に答えられるようになるには数週間から数ヶ月かかるかもしれません。しかし、大変重要な質問です。これは、チームの文化や士気を把握するための重要な方法の一つです。
 
 
-  This question may take weeks or months before people begin to answer honestly and safely, but it's really important. This is one of the key ways you can keep a pulse on the team culture and morale.
+  **私がしていることで、もっとよい方法、これまでと違う方法、または、あなたに助けになる方法はないでしょうか？**
 
 
-  **Is there anything I could be doing better, differently or more of that would help you?**
+  リーダーとして重要なのは、常に一貫してフィードバックを求めることです。毎週、重要なフィードバックが得られるとは限りませんが、定期的にたずねることで、フィードバックを得るためのスペースを確保することができます。受け取ったフィードバックには、必ず前向きに反応し、行動してください。
 
 
-  As a leader, it's important that you constantly and consistently ask for feedback. Whilst you might not get any significant feedback every week, asking regularly helps to provide the space to do so. Ensure that you react positively to any feedback you get, and act on it.
+  **オプショナルな質問:**
 
 
-  **Optional questions:**
+  **あなたが直面している課題や障害はどこにありますか？**
 
 
-  **Where are you facing any challenges or blockages?**
+  課題や障害は生産性やプロセスを改善する機会です。リーダーとしての大きな役割は、チームが何にも邪魔されることなく仕事ができるようにすることです。
 
 
-  This is your opportunity to improve productivity and process. As a leader, a huge part of your role means ensuring that your team can work without anything getting in their way.
+  **職場環境やチーム、組織について、何か変えたいことはありますか？**
 
 
-  **What would you change about the work environment, the team, or the organisation?**
+  頻繁にこの質問をすると、すばらしいアイデアが生まれることがあります。受け取った提案は必ず行動に移すようにしましょう。
 
-
-  Some great ideas come out of this question, especially if you ask it often. Be sure to try to act on any suggestions you receive.
-mediaGallery:
-  - link: https://cdn.britannica.com/09/157609-050-54CC600B/person-pencil.jpg?w=400&h=300&c=crop
 resources:
   - link: https://www.inc.com/leigh-buchanan/patagonia-founder-yvon-chouinard-15five.html
     description: 15/5 Reports - How Patagonia's Roving CEO Stays in the Loop

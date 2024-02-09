@@ -1,112 +1,80 @@
 ---
 templateKey: practice-page
-title: Test Automation
-subtitle: Shortening the feedback loop and increasing the quality of code.
-date: 2021-04-13T00:30:23.187Z
 authors:
   - syvanen
   - Zenigata
   - itblaked
-  - rmarting
+howTo: >-
+  これらのテストは通常、継続的インテグレーション（CI）ツールによって実行される。
+  例：[ Jenkins ](https://jenkins.io/)、[TravisCI](https://www.travis-ci.com/)。
+
+
+  アプリケーションをビルドした直後や、コードがソースコントロールにプッシュまたはマージされた際に簡単かつ迅速にテストを実行することができる。
+
+
+  これらのテストの多くは並行して実行することができ、複数のテストを実行するためにかかる全体の時間を短縮できる。
+resources:
+  - link: https://jenkins.io/
+    linkType: web
+    description: Jenkins
+  - link: https://en.wikipedia.org/wiki/Test_automation
+    linkType: web
+    description: Wikipedia Article - Test automation
+  - link: https://www.travis-ci.com/
+    linkType: web
+    description: TravisCI
+participants:
+  - Team members
+area: foundation-technical
+title: テスト自動化
+subtitle: フィードバックのループを短縮し、ソースコードの品質を高める。
+date: 2021-04-13T00:30:23.187Z
 tags:
   - methods
 mobiusTag: foundation
 icon: /images/final_test-automation.png
 whatIs: >-
-  Test Automation allows teams to remove the slow and manual testing cycles
-  related to software development. Test Automation can include such things as:
+  テスト自動化により、チームはソフトウェア開発における遅くて手動のテストサイクルを排除することができる。
+  テスト自動化には、以下のようなものが含まれる：
 
+  * 静的コード解析
 
-  * Static code analysis
+  * Lint処理
 
-  * Linting
+  * ユニットテスト
 
-  * Unit tests
+  * E2E テスト
 
-  * End-to-end tests
-
-  * Configurations and policy checks
-
-  * Security tests (dependencies, vulnerabilities, and pen tests)
-whyDo: >-
-  * ﻿Improved quality: Applying patterns like Test-Driven Development or
-  Behavior-Driven Development drives up shared understanding Increase code
-  quality.
-
-  * Deliver reliably at speed: As features are produced, you can confidently release without a large manual registration each time.﻿ 
-
-  * Fewer bottlenecks: Without automated tests, queues form in front of testers.
-
-  * Faster feedback: Identifying earlier any potential failure before promote changes into production environments.
-
-  * Standardise approach to testing: Defining a way of working where testing is another goal and benefit for the product team.
-howTo: >-
-  T﻿hese tests are steps of the Continuous Integration (CI) and Continuous
-  Delivery pipeline, such other main steps of the software delivery life cycle.
-
-
-  Easy and quick tests can be executed right after building (compiling) an application or when code is pushed or merged in source control. End-to-End and Security tests usually are executed one the software is deployed in some non-production environment.
-
-
-  Many of these tests can be run in parallel, decreasing the overall time taken to run a collection of tests.
-
-
-  Tools such as [Tekton](https://tekton.dev/), [Jenkins](https://jenkins.io/) or [TravisCI](https://www.travis-ci.com/) could be used to execute these tests.
-
-
-  P﻿ublishing and visualizing the execution reports of the test is another key aspect of the Test Automation, as these reports provide a rapid visualization about the status of the quality, and results of all these steps along the life cycle of the software.
-
-
-  T﻿ools such as [SonarQube](https://www.sonarsource.com/products/sonarqube/), [OWASP ZAP](https://www.zaproxy.org/) provide test reporting dashboards.
+  * セキュリティテスト
+whyDo: |-
+  * コード品質の向上
+  * 迅速なフィードバック
+  * テスト手法の標準化
 mediaGallery:
   - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/test%20automation.jpg?raw=true
-  - link: https://github.com/openpracticelibrary/openpracticelibrary/blob/main/static/images/testing-pyramid.png?raw=true
-  - link: https://github.com/openpracticelibrary/openpracticelibrary/blob/main/static/images/measuring-test.png?raw=true
-resources:
-  - link: https://openpracticelibrary.com/practice/test-driven-development/
-    linkType: web
-    description: Test-Driven Development
-  - link: https://openpracticelibrary.com/practice/behavior-driven-development/
-    linkType: web
-    description: Behavior-Driven Development
-  - link: https://en.wikipedia.org/wiki/Test_automation
-    linkType: web
-    description: Wikipedia Article - Test automation
-  - link: https://tekton.dev/
-    linkType: web
-    description: Tekton - Cloud Native CI/CD
-  - link: https://jenkins.io/
-    linkType: web
-    description: Jenkins
-  - link: https://www.travis-ci.com/
-    linkType: web
-    description: TravisCI
 people: 1+
 difficulty: moderate
-participants:
-  - Team members
-area: foundation-technical
 ---
-## What is it?
+## これは何？
 
-Test automation allows teams to remove the slow and manual testing cycles related to software development. Test automation can include such things as:
+テスト自動化により、チームはソフトウェア開発における遅くて手動のテストサイクルを排除することができる。テスト自動化には、以下のようなものが含まれる：
 
-- Static code analysis
-- Linting
-- Unit tests
-- End-to-end tests
-- Security tests
+- 静的コード解析
+- Lint処理
+- ユニットテスト
+- E2E テスト
+- セキュリティテスト
 
-These tests are typically executed by a build automation tool, for example [Jenkins](https://jenkins.io/). Easy and quick tests should be ran right after building (compiling) your application, such as unit tests and static code analysis. Also many of these tests can be run in parallel, decreasing the overall time taken to run the tests.
+これらのテストは通常、ビルド自動化ツールによって実行される。例えば、[Jenkins](https://jenkins.io/) などがありる。アプリケーションのビルド（コンパイル）直後に実行すべき簡単で迅速なテストには、ユニットテストや静的コード解析などがある。また、これらのテストの多くは並行して実行することができ、テストの実行にかかる全体の時間を短縮できる。
 
-## Why use it?
+## なぜ使うの？
 
-- It increases the code quality.
-- It shortens feedback loops.
-- It tells if your change broke some previously working code.
+- コードの品質を向上させる。
+- フィードバックループを短縮する。
+- 以前動作していたコードに対して、変更が影響を与えたかどうかを示す。
 
-## How to do it?
+## どうやって使うの？
 
-## Further Information
+## さらに他のリソース:
 
 - [Wikipedia Article - Test automation](https://en.wikipedia.org/wiki/Test_automation)

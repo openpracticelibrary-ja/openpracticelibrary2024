@@ -1,7 +1,7 @@
 ---
 templateKey: practice-page
-title: Motivation Mapping
-subtitle: Understanding the motivation
+title: モチベーションマッピング
+subtitle: 自分達自身や顧客のモチベーションを整理して理解する
 date: 2021-08-11T06:54:19.420Z
 authors:
   - gotost-rh
@@ -9,61 +9,52 @@ tags:
   - validate
   - value
 mobiusTag: discovery
-icon: /images/motivationmapping.png
-whatIs: >-
-  Motivation Mapping is an exercise to understand the motivation for ourselves
-  or the customer. We use a canvas divided in 5 sections and identify the
-  persona, context, outcomes, motivations, and obstacles.\
-
-  \
-
-  *A﻿ttribution: This practice comes from Gabrielle Benefield's Mobius Navigator Toolkit*
+icon: /images/screen-shot-2021-08-11-at-3.57.03-pm.png
+whatIs:
+  モチベーションマッピングは、自分達自身や顧客のモチベーション（行動原理、成し遂げたいこと、プロダクトにお金を払う理由など）を理解するためのプラクティスです。
+  6つのセクションに分割されたキャンバスを使用し、チームやプロダクトのゴール、なぜそのゴールを達成すべきなのかの理由、背景、障害になりうるもの、目指すべき成果を定義します。
 whyDo: >-
-  Motivation Mapping uses a simple canvas to organize the following
+  モチベーションマッピングでは以下の要素をキャンバス上で整理します。
 
 
-  1﻿. **Persona** - Who are we creating this map for? This could be our own organization, a specific target customer, or a corporate client. 
+  1. 背景/Context - 我々や顧客を取り巻く環境は何か？我々はどのようなプラットフォームの上で活動しているか？その環境に影響を与える要因は何か？
+  
+  
+  2. ゴール/Goals - 我々や顧客は何を目指しているのか？何を達成したいのか？
 
 
-  2﻿. **Context** - What is the environment surrounding the persona? What platform are we operating on? What are the factors impacting our environment?
+  3. ゴールの理由/Reasons for the Goals - なぜこのゴールを設定したのか、動機は何か？
 
 
-  3﻿. **Outcomes** - What goals does the persona have? What do they want to achieve? What state should they be in to say that they have reached their goals?
+  4. 障害/Obstacles - ゴール達成の進行を阻む障害は何か？
 
 
-  4﻿. **Motivations** - Identify why they set these outcomes. Why is this person pursuing these goals?
+  5. 目指す成果/Target Outcome - 何を以ってゴールを達成したと言えるのか、その定義は何か？
 
 
-  5﻿. **Obstacles** - What is preventing them from making progress on their objectives? What are the impediments?
 howTo: >-
-  * Divide a canvas into 5 sections. Two boxes on top, three boxes below. The
-  top-left box is WHO we are understanding the motivation for. The top-right box
-  is the CONTEXT. The bottom three boxes are MOTIVATIONS/JOBS, OUTCOMES, and
-  OBSTACLES.
+  * キャンバスを6つのセクションに分けます。上段に1枠、中段に2枠、下段に3枠という構成です。
+    * 上段の枠は、私たちがモチベーションを理解しようとしている対象の人物/Whoを記載します。
+    * 中段は目標/Objectiveと背景/Contextです。
+    * 下段は目標を目指す動機/Motivation、障害/Obstacle、目指す成果/Target Outcomeです。
 
-  * Gather the team, department, business unit, or organization into one place. 
+  * チーム、部署、事業部、または組織のメンバーを一箇所に集めます。
 
-  * First identify **WHO** (top-left) the Motivation Map is for, then work on the other boxes. If this is a specific customer, be sure to narrow down the persona. Don't forget to give the persona a name!
+  * 最初に、誰のためのモチベーションマップを描くのかを決め、他の枠を記載します。
 
-  * Identify the **CONTEXT** (top-right) of the persona. This will help us understand what environment the persona is operating in and help us step into their shoes when filling in the other boxes.
+  * 「目指す成果」が定義されていることを確認します。これは私たちのモチベーションマップと顧客をつなげるために必要なものです。
 
-  * Define the **OUTCOMES** (bottom-middle). Try to think like the persona and define what they would like to achieve. Place the boxes vertically, as each box will need to link to an item in the next section.
+  * モチベーションマップは完成後、参加者が常に見ることができる場所に貼っておきます。モチベーションマップは最新の状態を示すステータスボードであり、定期的に更新する必要があります。
 
-  * Define the **MOTIVATIONS/JOBS** (bottom-left). For each outcome, define at least one motivation behind it. Think of why the persona wants to see that outcome.
-
-  * Define the **OBSTACLES** (bottom-right). For each outcome, identify what is preventing the persona from reaching that outcome.
-
-  * Once the Motivation Map is completed, hang it in a place where the team, department, business unit, or organization can see it at all times. This is not a static document. It's a status board that shows the current state, and it needs to be updated regularly. 
-
-  * Start by creating a Motivation Map for our own organization, then work on a Motivation Map for the customer or other business clients. 
-
-  * Ensure that the customer's outcomes are linked to our own outcomes. This helps us understand what products or services should be provided for our customers so that our own outcomes can be met at the same time.
+  * モチベーションマップは自分達自身のもの以外にも、顧客になりうる他の組織や、個々の顧客のためのモチベーションマップを作成することができます。
+    * 個々の顧客に対してモチベーションマップを作成する際はペルソナを定義しましょう。
+    * 顧客が期待する成果(Outcome)が、自分達が目指している成果(Outcome)と整合していることを確認しましょう。自分達の成果を達成するために、顧客に何を提供すべきかを理解するのに役立ちます。
 mediaGallery:
-  - link: https://github.com/openpracticelibrary/openpracticelibrary/blob/dfe979c10d5f092d05ae84ee831c50134df6d666/static/images/motivationmapping.png?raw=true
-  - link: https://github.com/openpracticelibrary/openpracticelibrary/blob/main/static/images/motivationmapexample.png?raw=true
+  - link: https://lh3.googleusercontent.com/pw/AM-JKLXK1J1FSYY-ERZA3cbuLx1jdLHF3qcGqvbkZ7D_MkNVoVN-t4EkrUYBMui-havcq-wFxuoM4u-kDDdnf49PHq587YwnWa1eZvnC4pBo6gILdI-F0u1WrBMqkRnZJlwqiyuzMViOEZmqmkjFaJ9HgBom=w1555-h876-no
+  - link: https://lh3.googleusercontent.com/pw/AM-JKLXX6Avym4qrpeYwg57go24I_KyV8wlE6Y4kjTORX26p5LXVfnDZftbZO6eDy2OsYe-pkXM75mhUBGIX30FVncavaLPn7xgh7jQK8UrVsMmyVbtItrDgS3ElM4EwBYTJekm8DeITgJfpcskgspvcO9qA=w1103-h624-no
 resources:
-  - link: https://www.mobiusnavigator.com/toolkit
+  - link: https://mobiusloop.com/kit/
     linkType: web
-    description: Mobius Navigator Toolkit
+    description: Mobius Toolkit
 participants: []
 ---
