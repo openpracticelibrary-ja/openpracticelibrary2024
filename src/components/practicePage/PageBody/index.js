@@ -23,7 +23,7 @@ const PageBody = ({
         {whatIs && (
           <>
             <Typography gutterBottom variant="h4" ref={whatIsRef}>
-              What Is {title}?
+              概要
             </Typography>
             <FullText source={whatIs} />
           </>
@@ -31,7 +31,7 @@ const PageBody = ({
         {whyDo && (
           <>
             <Typography gutterBottom ref={whyDoRef} variant="h4">
-              Why Do {title}?
+              メリット
             </Typography>
             <FullText source={whyDo} />
           </>
@@ -39,7 +39,7 @@ const PageBody = ({
         {howTo && (
           <>
             <Typography gutterBottom ref={howToRef} variant="h4">
-              How to do {title}?
+              実施方法
             </Typography>
             <FullText source={howTo} />
           </>
@@ -47,7 +47,7 @@ const PageBody = ({
         {mediaGallery && (
           <>
             <Typography gutterBottom ref={mediaRef} variant="h4">
-              Look at {title}
+              実施例
             </Typography>
             <MediaGallery
               practiceId={practiceId}
@@ -61,7 +61,7 @@ const PageBody = ({
         {resources && (
           <>
             <Typography gutterBottom variant="h4" ref={resourceRef}>
-              Links we love
+              参考
             </Typography>
             <Resources
               practiceTitle={title}

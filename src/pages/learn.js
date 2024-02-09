@@ -74,27 +74,20 @@ const Learn = () => (
         <div ref={scrollTo} />
         <Box my={6}>
           <Typography variant="h5" gutterBottom>
-            That can mean a lot of things to a lot of different kinds of people.
-            And the Open Practice Library can help all of them.
+            様々な役割ごとに様々な課題や取り組みがあります。オープン・プラクティス・ライブラリーは、そのすべての人々を助けることができます。
           </Typography>
           <Typography gutterBottom>
-            - A product owner who needs to build the right thing, the right way.
+            - 正しいものを正しい方法で作成する必要があるプロダクト・オーナー。
           </Typography>
           <Typography gutterBottom>
-            - A stakeholder who needs a roadmap to deliver metrics-based
-            business outcomes.
+            - メトリクスに基づくビジネス成果に向けてのロードマップを必要とするステークホルダー。
           </Typography>
           <Typography gutterBottom>
-            - A team lead who wants to get everyone’s input toward and aligned
-            to the same goal.
+            - 全員が同じ目標に向かって意見を出し合い、足並みを揃えることを望むチームのリーダー。
           </Typography>
           <Box marginTop={2}>
             <Typography component="p" variant="body1">
-              For everyone, these practices are created, tested and shared by
-              the people who use them day-to-day. The practices are for the
-              people looking to be inspired with new ideas to create better
-              experiences. And anyone who wants to find innovative, proven ways
-              to solve their challenges, big and small.
+              これらのプラクティスは、日々実践している人々によって作成され、テストされ、共有されています。プラクティスは、より良い経験を生み出すための新しいアイデアを求めている人々のためのものです。そして、大小を問わず、課題を解決するための革新的で実績のある方法を見つけたいすべての人のためのものです。
             </Typography>
           </Box>
         </Box>

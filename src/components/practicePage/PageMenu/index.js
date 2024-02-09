@@ -10,12 +10,12 @@ import {
 import SocialLinks from "./SocialLinks";
 
 const sections = [
-  { title: "What", ref: "whatIsRef" },
-  { title: "Why", ref: "whyDoRef" },
-  { title: "How", ref: "howToRef" },
-  { title: "Look", ref: "mediaRef" },
-  { title: "Links", ref: "resourceRef" },
-  { title: "Discuss", ref: "discussRef" },
+  { title: "概要", ref: "whatIsRef" },
+  { title: "メリット", ref: "whyDoRef" },
+  { title: "実施方法", ref: "howToRef" },
+  { title: "実施例", ref: "mediaRef" },
+  { title: "参考", ref: "resourceRef" },
+  { title: "コメント", ref: "discussRef" },
 ];
 
 export default function PageMenu(props) {
