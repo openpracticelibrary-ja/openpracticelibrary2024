@@ -1,7 +1,7 @@
 ---
 templateKey: practice-page
-title: Behavior-Driven Development
-subtitle: Creating a shared understanding of requirements in product teams
+title: 振る舞い駆動開発
+subtitle: プロダクトチームにおける要件理解の共有化
 date: 2023-02-09T16:56:48.187Z
 authors:
   - rmarting
@@ -10,43 +10,37 @@ tags:
 mobiusTag: foundation
 icon: /images/bdd.png
 whatIs: >-
-  Behavior-Driven Development (BDD) is a software development process focused on
-  a test-first, agile testing practice that provides built-in quality by
-  defining tests (and potentially automating them) specifying system behavior.
+  振る舞い駆動開発（BDD）は、テストファースト、つまりアジャイルなテストプラクティスにフォーカスしたソフトウェア開発プロセスであり、システムの振る舞いを指定したテストを定義（自動化も可能）することで品質の作り込みを実現します。
 
 
-  This practice is focused on the business value using patterns such as *Given/When/Then* to capture the behavior of the system from a conversation between business and technical people.
+  このプラクティスは、*Given/When/Then*のようなパターンを使って、ビジネス担当者と技術担当者の会話からシステムの振る舞いを捉えるという、ビジネス価値に焦点を当てたものです。
 whyDo: >-
-  This is a way for product teams to work that closes the gap between business
-  and technical people by:
+  これは、以下によって、ビジネス担当者と技術担当者の間のギャップを埋めるプロダクトチームの進め方です:
 
 
-  * Creating a shared understanding of requirements using an ubiquitous language
+  * ユビキタス言語による要件の共有化
 
-  * Helping guide development, decreasing rework, and increasing flow
+  * 開発をリードし、手戻りを減らし、フローを向上
 
-  * Creating business-facing scenarios that attempt to describe the behavior of a story, feature, or capability from a user’s perspective
+  * ストーリー、フィーチャー、ケイパビリティの動作をユーザーの視点から記述しようとする、ビジネス向けのシナリオを作成
 howTo: >-
-  The BDD process requires to specify the tests of any software in terms of the
-  desired behavior of the unit. The desired behavior consists of the
-  requirements set by the business that has business value for whatever software
-  unit under construction, this is referred to as an “outside-in” activity.
+  BDDプロセスでは、あらゆるソフトウェアのテストを、そのユニットの望ましい振る舞いの観点から特定する必要があります。望ましい振る舞いは、どのようなソフトウェア・ユニットであれ、ビジネス上の価値を持つ、ビジネスによって設定された要件で構成され、これは「アウトサイド・イン」活動と呼ばれます。
 
 
-  This process is based on conversations between business and technical people, sometimes identified as discovery workshops. Example Mapping, one of the examples of discovery workshops, is based on the idea that multiple examples of specific cases convey information better than a single bad abstraction of a concept.
+  このプロセスは、ビジネス担当者と技術担当者の会話に基づいており、ディスカバリーワークショップと呼ばれることもあります。ディスカバリー・ワークショップの一例であるExample Mappingは、特定のケースについて複数の例を挙げることで、1つの概念について下手な抽象化をするよりも情報をうまく伝えられるという考えに基づいています。
 
 
-  Finally, the technical people will use these tests as part of the acceptance criteria of the building activities, or could automate them to guide the development life cycle.
+  最終的に、技術担当者は、これらのテストを開発活動の受け入れ基準の一部として使用する、あるいは開発ライフサイクルをガイドするために自動化することができます。
 
 
-  This process could be summarized as:
+  このプロセスは次のように要約できる:
 
 
-  1. Set up the scenario or desired behavior of the system
+  1. システムのシナリオまたは望ましい動作を設定する。
 
-  2. Document the different tests during the discovery workshops
+  2. ディスカバリー・ワークショップでのさまざまなテストを文書化する。
 
-  3. Implement the tests or include them as part of the acceptance criteria of the development life cycle
+  3. テストを実施するか、開発ライフサイクルの受け入れ基準の一部に含める。
 mediaGallery:
   - link: https://github.com/openpracticelibrary/openpracticelibrary/blob/main/static/images/bdd.png?raw=true
   - link: https://github.com/openpracticelibrary/openpracticelibrary/blob/main/static/images/example-mapping.jpg?raw=true
@@ -54,9 +48,9 @@ resources:
   - link: https://en.wikipedia.org/wiki/Behavior-driven_development
     linkType: web
     description: Behavior-Driven Development (Wikipedia)
-  - link: https://openpracticelibrary.com/practice/example-mapping/
+  - link: https://openpracticelibrary-ja.netlify.app/practice/example-mapping/
     linkType: web
-    description: Example Mapping - Open Practice Library
+    description: 実例マッピング - Open Practice Library
 difficulty: moderate
 participants:
   - Product_Owner
