@@ -1,7 +1,7 @@
 ---
 templateKey: practice-page
-title: Blameless Postmortem
-subtitle: Turn incident into an investment in future reliability
+title: 非難しないポストモーテム
+subtitle: インシデントを将来の信頼性への投資に変える
 date: 2022-03-22T11:10:08.413Z
 authors:
   - jfilipcz
@@ -10,75 +10,64 @@ tags:
 mobiusTag: delivery
 icon: /images/markus-winkler-afw1hht0nss-unsplash.jpg
 whatIs: >-
-  Blameless Postmortem is a post-incident practice assessing an incident or
-  other types of outages, its timeline, environment conditions, and all possible
-  factors that lead an incident to happen. A postmortem typically also covers
-  incident timeline and all factors that in a given organization generate
-  incident, and impacts operators behavior before, during and after the outage
-  has happened. Practice allows participants and stakeholders to quickly form
-  conclusions on what were the most important factors contributing to the
-  incident. It also serves a learning purpose, both by providing in depth
-  experience for participants and by producing a postmortem summary which can be
-  shared with all interested parties. A postmortem can be treated as the
-  evolution of a Root Cause Analysis (RCA) which is done in almost all major IT
-  support organizations.
+  ポストモーテムとは、インシデントやその他のタイプのシステム停止、そのタイムライン、環境条件、およびインシデントの発生につながった可能性のあるすべての要因を評価する、インシデント後のプラクティスです。ポストモーテムは通常、インシデントのタイムラインと、ある組織においてインシデントを発生させたすべての要因、および停止が発生する前、発生中、発生後のオペレーターの行動への影響も対象とします。このプラクティスにより、参加者とステークホルダーは、インシデントに寄与した最も重要な要因について、迅速に結論を出すことができます。また、参加者に深い経験を提供し、すべての関係者と共有できる事後サマリーを作成することで、学習の目的も果たします。ポストモーテムは、ほとんどすべての主要なITサポート組織で行われている根本原因分析（RCA）の発展形として扱うことができます。
 
 
-  The major difference between an RCA and Blameless Postmortem is the way both of them are run, with the later putting emphasis not only establishing the root cause but also ensuring that there’s no form of possibly harmful judgement being made along the way. Often a postmortem is also carried out in a less formalized manner, making sure that the actual story comes before documentation.
+  RCAと非難しないポストモーテムの大きな違いは、両者の実施方法であり、後者は根本的な原因を特定するだけでなく、その過程で好ましくない判断がなされる可能性がないことを確認することに重点を置きます。多くの場合、ポストモーテムはあまり形式化されない方法で実施され、文書化よりも実際のストーリーが優先されます。
 
 
-  “Our job is not to point fingers at an unlucky engineer that applied a wrong configuration file, our job is to figure out why he picked the wrong one and what we personally and as an organization can do to prevent it in the future.”
+  “私たちの仕事は、間違った設定ファイルを適用した不運なエンジニアを非難することではありません、私たちの仕事は、そのエンジニアがなぜ間違った設定ファイルを選択したのか、そして今後それを防ぐために私たち個人や組織として何ができるのかを解明することなのです。”
 whyDo: >-
-  A Blameless Postmortem serves couple of important purposes:
+  非難しないポストモーテムには、いくつかの重要な目的があります:
 
 
-  * Identifying factors that lead to an incident and affected the incident timeline, both in good and bad way
+  * インシデントを引き起こし、インシデントのタイムラインに良い意味でも悪い意味でも影響を与えた要因を特定する
 
-  * Improves communication both within the team and across teams involved in the incident response and Postmortem itself - “if we can openly talk about failures, we can talk about anything”
+  * チーム内だけでなく、インシデント対応やポストモーテムに関わるチーム間のコミュニケーションを改善する - ”失敗についてオープンに話すことができれば、どんなことでも話すことができる”
 
-  * Promote the safe culture of “it’s alright to fail”
+  * ”失敗しても大丈夫”という安全文化を促進する
 howTo: >-
-  A successful Blameless Postmortem is build on two fundations:
+  非難しないポストモーテムの成功は、次の2つの土台の上に成り立っている:
 
 
-  * Availability of the information regarding the incident.
+  * インシデントに関する情報の入手可能性。
 
-  * Psychological safety of all participants that promotes speaking up openly
-
-
-  As much information as possible should be secured before the Postmortem meeting, and should include incident tickets, reports and most importantly, a list of actions taken during the incident remediation and resolution. Make sure that whatever the form of track of actions is, it has the information about what has been done, preferably what the outcome of the action was, along with timestamps. Tracking the order of actions and outcomes is often crucial in establishing the general “picture”. Make sure you also identify all parties involved in incident response, and ensure that all those parties are represented on Postmortem meetings. Key business stakeholders may want to participate in the blameless postmortem. It is strongly recommended they do not participate in the postmortem itself as their very presence can prevent others from speaking freely. The best time to involve stakeholders is after the postmortem has been drafted and reviewed by senior engineers for accuracy.
+  * オープンな発言を促す、参加者全員の心理的安全性。
 
 
-  Before the meeting, make sure expectations are set correctly - Postmortems are not being done with the intent to establish blame , it’s for establishing what went well and what went wrong. Conclusions of any sort should be respectful and only focus on atomic actions, psychological safety of all participants is the key to getting trustworthy results out of a Postmortem. If there’s a disagreement on an action that has been taken, make sure the subject of disagreement is explained in detail and an alternative approach is presented. A Blameless Postmortem assumes every incident participant acted with the best intentions based on the information they had at the time. It also acknowledges that things fail and human beings make mistakes. With those assumptions in mind, it is clear that it is the organization's responsibility to account for, and prepare for, failures and mistakes - the express intent of a Postmortem is to help and improve the organization.
+   可能な限り多くの情報をポストモーテム会議の前に確保し、インシデントチケット、報告書、そして最も重要なこととして、インシデントの修復と解決の間に取られたアクションのリストを集めるべきです。アクションの追跡の形式がどのようなものであれ、タイムスタンプとともに、何が行われたか、できればアクションの結果がどうであったかについての情報があることを確認します。行動と結果の順序を追跡することは、一般的な「状況」を把握する上で極めて重要でになります。また、インシデント対応に関与するすべての関係者を特定し、それらの関係者全員がポストモーテム会議に参加するようにします。主要なステークホルダーは、非難しないポストモーテムに参加したいと思うかもしれません。ステークホルダーがいると、他の利害関係者が自由に発言できなくなる可能性があるため、ポストモーテム自体には参加しないことを強く推奨します。ステークホルダーを参加させる最良のタイミングは、ポストモーテムが作成され、シニアエンジニアが正確性を確認した後です。
 
 
-  Given these rules are accepted by all participants, information is secured, and all parties are represented , you’re ready to run the meeting. Meeting course should be structured in a way that follows the timeline of the incident . Participants go through each item, starting with how the incident was identified, what actions have been taken etc. Consider discussing if all parties needed for incident resolution were involved in a timely manner. That doesn’t stop there as any item considered important for incident response should be also discussed. Think of role playing games, with the script being based on track of actions. Depending on granularity decided by participants, all major actions should be discussed. Be mindful of an action’s context and the information that was available at the point of time the action happened. Also, take advantage of hindsight to help choose better paths in the future. . In general, an action should be discussed in the dimensions of:
+  会議の前に、期待値が正しく設定されていることを確認します。ポストモーテムは、非難を確立する目的で行われるものではなく、何がうまくいき、何が悪かったのかを明確にするためのものです。どのような結論であれ、尊重されるべきであり、純粋な行動にのみフォーカスするべきです。ポストモーテムから信頼できる結果を得るためには、参加者全員の心理的安全が鍵となります。取られた行動に関して意見の相違がある場合は、相違の対象を詳細に説明し、別のアプローチを提示するようにします。非難しないポストモーテムでは、すべてのインシデント参加者が、その時点で持っていた情報に基づいて最善の意図で行動したと仮定します。また、物事は失敗するものであり、人間は過ちを犯すものであることも認めます。このような前提を念頭に置けば、失敗や間違いを説明し、それに備えることは組織の責任であることは明らかになります。
 
 
-  * What led to the action being taken?
-
-  * Is the action outcome considered positive or negative?
-
-  * What could we do differently knowing the outcome?
+  これらのルールが参加者全員に受け入れられ、情報が確保され、すべての関係者が召集されていれば、会議を運営する準備は整ったことになります。会議は、インシデントの時系列に沿った形で構成します。参加者は、インシデントがどのように確認されたか、どのようなアクションが取られたかなど、各項目を確認していきます。インシデントの解決に必要なすべての関係者がタイムリーに関与したかどうかについても議論します。それだけにとどまらず、インシデント対応に重要と思われる項目についても話し合います。ロールプレイングゲームを考え、スクリプトは行動の軌跡に基づきます。参加者が決定した粒度にもよるが、主要な行動はすべて議論されるべきです。アクションのコンテキストと、そのアクションが起こった時点で入手可能であった情報に留意します。また、後から振り返ることで、今後より良い道を選択できるようにします。. 一般的に、行動は次のような次元で議論されるべきです：
 
 
-  Discussion may unveil both small and large issues, and if there’s a general consensus specific thing impacted the incident response in either positive or negative way, be sure remediation is discussed. An Action Point should be raised to to track remediation, and decrease a risk level for reliability. Keep an open mind, some things may be solved by technical means, some are more procedurally based, but all come together in the end and all are important for lowering the risk of incident occurrence.
+  * なぜそのような措置が取られたか？
+
+  * アクションの結果はポジティブかネガティブか？
+
+  * その結果を知った上で、私たちにできることは何だろうか？
+
+
+  議論によって、小さな問題から大きな問題まで明らかになる可能性があります。また、特定の事柄がインシデント対応に肯定的または否定的な影響を与えたという一般的な意見がある場合は、必ずその改善策について議論してください。改善策を追跡し、信頼性のためのリスクレベルを下げるために、アクションポイントを上げるべきです。オープンマインドを保つこと、あるものは技術的な手段で解決できるかもしれないし、あるものはより手続き的なものに基づくかもしれないが、最終的にはすべてが統合され、インシデント発生のリスクを下げるためにはすべてが重要となります。
 
 
 
 
-  The meeting should be closed when all participants consider the incident to be explained and well understood, and the Postmortem summary prepared and accepted by all parties present. A postmortem summary that can be shared with stakeholders and other interested parties should be brief and precise, focusing on facts and leaving all personal factors aside. A summary should be prepared with aim of helping others not to make the same mistakes. Last but not least, be sure Action Points are looked up and dealt with. There’s no better booster for the next Postmortem, than participants' knowledge that the previous one wasn’t a waste of time and really improved the way organization works. Don’t forget about another useful practice, called Wheel-of-Misfortune for which Postmortem is a great provider of scripts and content.
+  参加者全員がインシデントについて説明し、よく理解したと判断した時点で会議を終了し、ポストモーテムサマリーを作成し、出席者全員に承認されるべきです。ステークホルダーやその他の関係者と共有できるようなポストモーテムサマリーは、事実に焦点を当て、個人的な要因はすべて脇に置いて、簡潔かつ正確に作成すべきです。サマリーは、他の人が同じ過ちを犯さないようにすることを目的として作成します。最後になるが、アクション・ポイントは必ず調べ、対処するべきです。次回のポストモーテムに向けては、前回のポストモーテムが時間の無駄ではなく、組織の働き方を本当に改善したという参加者の自信や達成感ほど、良いブースターとなるものはありません。ポストモーテムのために、スクリプトやコンテンツを提供してくれる「不幸の輪（Wheel-of-Misfortune）」と呼ばれる別の有用なプラクティスもお忘れなく。
 mediaGallery:
   - link: https://www.smartsheet.com/sites/default/files/2020-09/IC-Blameless-Post-Mortems-Five-Whys.png
   - link: https://www.smartsheet.com/sites/default/files/2020-09/IC-Blameless-Post-Mortems-Best-Practices-Infographic.png
 resources:
-  - link: https://openpracticelibrary.com/practice/new/
+  - link: https://openpracticelibrary-ja.netlify.app/practice/new/
     linkType: web
     description: "Measuring Psychological Safety "
   - link: https://extfiles.etsy.com/DebriefingFacilitationGuide.pdf
     linkType: web
     description: Debriefing Facilitation Guide
-  - link: https://openpracticelibrary.com/practice/wheel-of-misfortune/
+  - link: https://openpracticelibrary-ja.netlify.app/practice/wheel-of-misfortune/
     linkType: web
     description: Wheel-of-Misfortune
 participants: []
