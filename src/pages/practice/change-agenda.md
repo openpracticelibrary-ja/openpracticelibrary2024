@@ -1,8 +1,7 @@
 ---
 templateKey: practice-page
-title: Change Agenda
-subtitle: Capture and define the strategy changes or shifts that an organization
-  or engagement needs to achieve in order to realize their desired outcomes
+title: 変革アジェンダ
+subtitle: 組織やエンゲージメントが望ましい成果を実現するために達成すべき戦略の変化やシフトを捉え、定義する。
 date: 2022-01-13T18:24:18.983Z
 authors:
   - geoffprobst
@@ -10,87 +9,68 @@ tags:
   - validate
 mobiusTag: discovery
 icon: /images/change-agenda-cover.png
-whatIs: Change Agenda is a framework used to identify strategic shifts or
-  changes that an organization, team, or engagement needs to achieve in order to
-  realize their desired outcomes. These outcomes could be defined in a vision
-  statement, strategic destination, corporate goals, or an engagement
-  priorities/charter. A change agenda allows a team to identify and access the
-  current state and to define the future state of an environment, strategy or
-  situation via change dimensions. These change dimensions are where the shifts
-  in execution need to occur to realize the outcomes.
-whyDo: The Change Agenda is a powerful communication tool, providing rich
-  context to why the changes are being implemented and how far the organization,
-  team, or engagement is from reaching the desired outcomes, thus triggering
-  useful conversations of what needs to be done to close the execution gap. A
-  Change Agenda helps the leadership articulate and communicate the cultural,
-  structural, and operating changes necessary to transition from the past to the
-  future.
+whatIs: 変革アジェンダとは、組織、チーム、エンゲージメントが、望ましい成果を実現するために達成すべき戦略的なシフトや変化を特定するためのフレームワークです。これらの成果は、ビジョン・ステートメント、戦略的目的地、企業目標、またはエンゲージメントの優先事項/憲章で定義することができます。変革アジェンダによって、チームは、現在の状態を特定し、それにアクセスし、変化の次元を通じて、環境、戦略、または状況の将来の状態を定義することができます。これらの変化の次元は、成果を実現するために実行のシフトが必要なものです。
+whyDo: 変革アジェンダは、強力なコミュニケーション・ツールであり、なぜその変革が実行されようとしているのか、組織やチーム、あるいはエンゲージメントが望ましい成果に到達するまでにどれくらいの距離があるのかについて、豊かな文脈を提供します。変革アジェンダは、リーダーシップが、過去から未来へと移行するために必要な文化的、構造的、そして運営上の変化を明確にし、伝えるのに役立ちます。
 howTo: >-
-  The Change Agenda can be created from a client meeting, series of interviews,
-  standalone facilitated practice or as part of a workshop. The goal of this
-  process is to identify and define the strategic shifts that illustrate the
-  change gap the organization needs to address for their strategy and/or
-  engagement.
+  変革アジェンダは、クライアントとのミーティング、一連のインタビュー、単独でファシリテートするプラクティス、あるいはワークショップの一部として作成することができます。このプロセスの目的は、組織が戦略やエンゲージメントにおいて取り組むべき変革・ギャップを示す戦略的シフトを特定し、定義することです。
 
 
-  **Interviews**
+  **インタビュー**
 
 
-  From an interview process perspective, the interviewer identifies components of the change agenda (i.e. change dimensions, current states, and future states) during the conversation. Since an interview is very fluid, these three components could come in any order during the conversation.
+  インタビュープロセスの観点からは、インタビュアーは、会話の中で、チェンジ・アジェンダの構成要素 （すなわち、変化の次元、現在の状態、および将来の状態）を特定します。インタビューは非常に流動的なものであるため、これらの 3 つの構成要素は、会話中にどのような順番かは決まっていない可能性があります。
 
 
-  As the interviewer identifies any of the components of a change agenda entry, that component should be captured and documented. Follow-up questions should be asked to address the remaining components of that change agenda entry.
+  インタビュアーは、変更アジェンダ項目の構成要素のいずれかを特定した時点で、その構成要素 を把握し、文書化する必要があります。フォローアップの質問は、その変革アジェンダエントリの残りの構成要素に対処するために行われるべきです。
 
 
-  If time allows, the change agenda should be reviewed with the interviewee(s) to ensure alignment with client’s expectation of their vision statement, engagement goals, or strategic destination.
+  時間が許せば、変革のアジェンダをインタビュー対象者と一緒に確認し、クライアントが期待するビジョン・ステートメント、エンゲージメント・ゴール、または戦略的目的地との整合性を確認します。
+
+  インタビューのヒント:
 
 
-  Interview Tips:
+  * 現状の定義は通常、クライアントのペインポイントとして特定されます。
+
+  * 未来の状態の定義は、通常、クライアントの成功要因、最終状態、機会、目標などです。
+
+  * 変革の次元が、他の変革の次元のスーパーセットであることに注意します。
+
+  * 現在の状態の定義は、時間のスナップショットである。変更アジェンダのレビュー中にクライアントの反発があるかもしれません。
+
+  * すべての構成要素を確実に把握するために、3つの列からなるテンプレートがあると便利です。
 
 
-  * Current state definitions are usually identified as a client's pain point
-
-  * Future state definitions are usually as a client’s success factor, end state, opportunity, or goals
-
-  * Be on the lookout for change dimensions to being supersets of other change dimensions
-
-  * Current state definitions are snapshots in time. There might be client push back during a change agenda review as progress might have occurred from the time of the interview and the review
-
-  * A template with three columns is helpful when conducting to assist you in make sure you capture all components
+  **プラクティス / ワークショップ**
 
 
-  **Practice / Workshop**
+  変革のアジェンダをプラクティスとして、あるいはワークショップの一部として実施する場合、ファシリテーターはビジョン・ステートメント、エンゲージメント・ゴール、戦略的目的地から始め、参加者に変革の次元を生み出してもらいます。
 
 
-  Running a change agenda as a practice or part of a workshop, the facilitator starts with a vision statement, engagement goal, or strategic destination and has the participants generate change dimensions.
+  アフィニティマッピングは、変更の次元数を減らすために使用することができます。
 
 
-  Affinity mapping can be used to reduce the number of change dimensions
+  各変化の次元について、ファシリテーターはまず現在の状態から始め、参加者に現状の定義を作成させます。現状が完了したら、参加者は未来の状態を定義する必要があります。
 
 
-  For each change dimension, the facilitator starts with the current state and has the participants create a definition of the current situation. After the current state is complete, the participants need to define the future state.
+  現在の状態と将来の状態の両方について、説明的で色彩豊かな言葉を使い、読者が状態をイメージし、それぞれの状態間のギャップを認識できるようにします。
 
 
-  For both current and future states, use descriptive, colorful language so that readers will be able to visualize the states and recognize that gap between each state.
+  完成した変更アジェンダは、当初のビジョン・ステートメント、エンゲージメント目標、または戦略的目的地と照らし合わせて検証する必要があります。
 
 
-  The completed change agenda needs to be validated against the original vision statement, engagement goal, or strategic destination.
+  ファシティテーションのヒント:
 
 
-  Facilitation Tips:
+  * 参加人数が多い場合は、参加者をグループに分け、変化の次元をグループ間で分けることができます。こうすることで、プラクティスが8年生の作業鍛錬になるのを避けることができます。
 
+  * 最終的な読み上げの前に、各変革アジェンダの項目に関して参加者全員から意見を得るために、ウォーキングカフェ方式を採用することもできます。
 
-  * For large numbers of participants, the participants can be divided up into groups and change dimensions can be divided up amongst the groups. This avoids the practice from becoming an 8th grade work-smithing experience.
-
-  * A walking cafe approach can also be employed to get input from all participants on each change agenda entry before final readout.
-
-  * The change dimensions can be classified into perspectives that can be used in a strategy map practice.
-
+  * 変化の次元は、戦略マップのプラクティスで使用できる観点に分類することができます。
 
   ![](/images/change-agenda-example.png)
 
 
-  This an example of a completed change agenda for a retailer that was migrating an Order History application from on-premise facility to Cloud provider.
+  これは、オンプレミスからクラウドプロバイダーへ注文履歴アプリケーションを移行する小売業者のために作成した変革アジェンダの例です。
 mediaGallery: []
 resources: []
 people: 1 or more
