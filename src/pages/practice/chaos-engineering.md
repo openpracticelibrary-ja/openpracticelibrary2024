@@ -1,56 +1,51 @@
 ---
 templateKey: practice-page
-title: Chaos Engineering
-subtitle: Chaos engineering is a practice of testing distributed software that
-  deliberately introduces failure and faulty scenarios to verify its resilience
-  in the face of random disruptions.
+title: カオスエンジニアリング
+subtitle: 意図的に障害や欠陥のあるシナリオを導入して、ランダムな混乱に直面したときの回復力を検証する分散型ソフトウェアのテスト手法
 date: 2022-07-22T09:16:22.656Z
 authors:
   - sebw
 mobiusTag: delivery
 icon: /images/chaos-engineering.png
 whatIs: >-
-  Chaos Engineering is a practice where an organization tries to predict the
-  unpredictable. It can be used to achieve resilience against infrastructure
-  failures, network failures, and application failures.
+  カオスエンジニアリングは、組織が予測不可能なことを予測しようとするプラクティスです。インフラ障害、ネットワーク障害、アプリケーション障害に対する回復力を獲得するために使われます。
 
 
-  Typically test driven development is testing for mishaps that can be predicted, such as testing that 2 + 2 = 4 or testing that a database is available before writing to it.
+  一般的にテスト駆動開発とは、2＋2＝4であることをテストするとか、データベースに書き込む前にデータベースが利用可能であることをテストするといった、予測可能な不具合をテストすることです。
 
 
-  With chaos engineering, we introduce failures on purpose on production systems to see how they withstand the chaos.
+  カオスエンジニアリングでは、本番システムにわざと障害を導入し、そのカオスにどう耐えるかをチェックします。
 
 
-  Disruptions can be of different nature:
+  障害にはさまざまな性質がある:
 
 
-  * server shutdown such as shutting down a service, server or a whole datacenter
+  * サーバーのシャットダウン（サービス、サーバー、データセンター全体のシャットダウンなど）
 
-  * latency injection in order to simulate degradation or outages in a network
+  * ネットワークの劣化や停止をシミュレートするための遅延注入
 
-  * resource exhaustion such burning up a CPU or filling up a disk
-
-
-  These disruptions can cause applications to respond in unpredictable ways.
+  * CPUの高負荷やディスクの一杯といったリソースの枯渇
 
 
-  In case of disruption the application needs to be improved to withstand the specific failure scenario.
+  このような障害は、アプリケーションに予測不可能な反応を引き起こす可能性があります。
+
+
+  障害が発生した場合、特定の障害シナリオに耐えられるようにアプリケーションを改善する必要があります。
 whyDo: >-
-  * Allows developers to improve applications to withstand failure scenarios
-  that are hard to replicate in a CI/CD pipeline
+  * 開発者は、CI/CDパイプラインで再現するのが難しい障害シナリオに耐えられるよう、アプリケーションを改善することができます。
 
-  * Allows operations to test failure scenarios that are hard to implement in CI/CD pipelines (such as network latency)
+  * CI/CDパイプラインでは実装が困難な障害シナリオ（ネットワーク遅延など）をオペレーションでテストできます。
 
-  * Leads to application improvement
+  * アプリケーションの改善に繋がります。
 howTo: >-
-  [Chaos Mesh](<﻿https://chaos-mesh.org>) is a chaos engineering platform for
-  Kubernetes.
+  [カオスメッシュ（Chaos Mesh）](<https://chaos-mesh.org>) は、Kubernetesのためのカオスエンジニアリングプラットフォームです。
 
 
-  [Chaos Monkey](https://netflix.github.io/chaosmonkey/) randomly terminates instances in production
+  [カオスモンキー（Chaos Monkey）](https://netflix.github.io/chaosmonkey/) は、本番環境でランダムにインスタンスを停止します。
 
 
-  [Chaos Blade](https://chaosblade.io/) is a cloud-native chaos engineering platform that supports multiple environments, clusters, and languages.
+  [カオスブレイド（Chaos Blade）](https://chaosblade.io/) は、マルチ環境、マルチクラスタ、マルチ言語をサポートするクラウドネイティブなカオスエンジニアリングプラットフォームです。
+
 mediaGallery:
   - link: https://www.verica.io/wp-content/uploads/PrinciplesOfCE2-1.png
 resources:
