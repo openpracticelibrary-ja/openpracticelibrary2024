@@ -1,8 +1,7 @@
 ---
 templateKey: practice-page
-title: Chase the State
-subtitle: Assess progress and the current state of any type of software delivery
-  work in a holistic way
+title: 状況の管理
+subtitle: あらゆる種類のソフトウェア・デリバリー作業の進捗状況と現状を総合的に評価
 date: 2022-06-06T13:26:28.337Z
 authors:
   - keithdm
@@ -10,59 +9,42 @@ tags:
   - validate
 mobiusTag: discovery
 icon: /images/chase-the-state.jpg
-whatIs: Often when developing software, teams lose sight of the big picture, and
-  don’t truly understand where they are. This fast, structured  assessment
-  enables a team to quickly understand where they are with regards to their
-  software development. This game does it in a holistic fashion that will
-  complement any other progress measures in use, whether they are burn-ups,
-  burn-downs or some form of earned value. It takes the blinkers off and forces
-  the team to review all aspects of software development.
+whatIs: ソフトウェアを開発するとき、チームはしばしば全体像を見失い、自分たちが今どの段階にいるのかを本当に理解できていないことがあります。この迅速で構造化されたアセスメントによって、チームはソフトウェア開発に関して自分たちが今どの位置にいるのかを素早く理解することができます。このゲームは、バーンアップ、バーンダウン、あるいは何らかの形のアーンドバリューなど、他の進捗評価方法を補完する全体的な方法でそれを行います。これによりチームは、思考の妨げとなる情報を除外し、ソフトウェア開発のあらゆる側面を見直すことができます。
 whyDo: >-
-  Use this game to determine the state of your software development efforts and
-  help the team uncover risks, issues or actions that will help them progress
-  the work successfully and ensure they deliver value to their stakeholders.
-  Have you rushed ahead too fast without sufficient agreement about the
-  requirements? Is the team still working well together? This game prompts all
-  of these questions and many more, and helps pinpoint any risks or actions you
-  may need to take with some useful checklists.
+  このゲームを使用して、ソフトウェア開発作業の状態を判断し、チームがリスク、問題点、または作業を順調に進め、ステークホルダーに確実に価値を提供するためのアクションを発見できるようにします。要件について十分な合意がないまま、先を急ぎすぎていないか？チームはまだうまく機能しているだろうか？このゲームは、これらすべての質問とその他多くの質問を促し、いくつかの便利なチェックリストを使って、リスクや取るべき行動を突き止めるのに役立ちます。
 
-
-  This assessment uses an international OMG standard to provide the work states and the checklists. You can therefore be confident that the information on the cards is thoughtful, useful and applicable to all types of software development methodologies (e.g. scrum, kanban, waterfall project, etc).
+  このアセスメントでは、作業状態とチェックリストを提供するために、国際的なOMG標準を使用しています。したがって、カードに記載されている情報は、熟考された有用なものであり、あらゆる種類のソフトウェア開発方法論（スクラム、カンバン、ウォーターフォールプロジェクトなど）に適用可能です。
 howTo: >-
-  Use the link below to download and print (or screenshot) the Essence cards
-  required to play this game.  **Please note:**  these cards are covered by a
-  Copyright notice and not by a Creative Commons agreement: you are welcome to
-  print and use the cards but please retain and respect the copyright
-  limitations.    
+  このゲームをプレイするために必要なエッセンス・カードをダウンロードして印刷（またはスクリーンショット）するには、以下のリンクを使用してください。 **注意：** これらのカードには著作権表示があり、Creative Commonsの同意はありません。   
 
 
-  You will see these cards are organised in 7 groups (also known as "Alphas"), where each group has one overview card and a number of state cards which each contain a checklist for that state.
+  これらのカードは7つのグループ（「Alphas」とも呼ばれる）に分かれており、各グループには概要と、その状況のチェックリストが書かれた状況カードが何枚か入っています。
+  
+
+  各Alphaのカードを、最初のステータスが左、最後のステータスが右になるように、テーブルに一列に並べます。 
 
 
-  Lay out the cards for each Alpha in a row on the table with the first state on the left and the final state on the right. 
+  最初のAlphaから始めて、チェックリストをそれぞれ確認し、チームがそのステータスを達成したかどうかを評価します。
 
 
-  Starting with the first state card of the first Alpha, walkthrough the checklist and ask the players if the team has achieved that state. 
+  ステータスが達成されていれば、ステータスカードを左に移動させる。チームがまだ達成していないステータスに行き着くか、もしくはステータスがなくなるまで、次のステータスを続けます。
 
 
-  If the state has been achieved move the state card to the left. Continue with the next state until you reach a state that the team has not yet achieved, or you run out of states. 
+  対象のAlphasがどの状態にあるのかが明確でない場合は、プログレス・ポーカー（Progress Poker）で合意形成を図ることができます。
 
 
-  If it is not clear which state one of the Alphas is in then a quick round of Progress Poker can be used to help reach consensus. 
+  残りのすべてのAlphasについてこれを繰り返します。「Stakeholders：利害関係者」、「Opportunity：機会」、次に「Requirements：要件」、「Software System：ソフトウェア・システム」、「Team：チーム」、「Way of Working：働き方」、最後に「Work：仕事」が推奨の順序です。
 
 
-  Repeat for all of the remaining Alphas. We suggest you look at the "Opportunity" cards next, followed by "Requirements", "Software System", "Team", "Way of Working" and finally "Work" as the last set.  
+  理想的には、このアセスメントによって、チームが次の状態に進む前に、指定された状態内で関連するチェックリスト項目をすべて完了していることを確認されるべきです。そのため、このゲームは、チームが作業を順調に完了させ、ステークホルダーに確実に価値を提供するためのリスク、問題、アクションを特定するための優れた方法です。
 
 
-  Ideally we want to see from this assessment that the Team is  completing all the relevant checklist items within a given state before moving forwards to the next state; if this is not true then the work progress may not be entirely under control or may be at risk of becoming derailed.  As such this game is an excellent way to identify risks, issues or actions that will help the Team complete the work successfully and ensure they deliver value to their stakeholders.
+  このゲームをプレーする1つの戦略は、2つのパスを行うことである: 
 
 
-  One strategy to play this game is to do two passes: 
+  1. 最初のパス - 直感的に各カードをチームで振り返る。カードに書かれたチェックリストの項目の詳細については、あまり気にしないこと。
 
-
-  1. First pass – just intuitively reflect on each card with the team. Don’t worry too much about the detail of the checklist items on the cards. 
-
-  2. Second pass – working backwards check off the individual items on the check lists.
+  2. 2回目のパス - チェックリストの各項目を逆算してチェックする。
 mediaGallery:
   - link: https://www.ivarjacobson.com/files/styles/webp_large/public/field_iji_image/article/six_cards_-_high_res.webp?orig=png
 resources:
