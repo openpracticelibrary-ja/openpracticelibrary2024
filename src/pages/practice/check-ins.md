@@ -1,7 +1,7 @@
 ---
 templateKey: practice-page
-title: Check-ins
-subtitle: Foster deeper connections and belonging with simple questions
+title: チェック・イン
+subtitle: シンプルな質問で、より深いつながりと帰属意識を築く
 date: 2021-09-13T12:54:10.519Z
 authors:
   - acammies
@@ -11,47 +11,43 @@ tags:
 mobiusTag: foundation
 icon: /images/checkinclock-openpracticelibrary-kattekrab.png
 whatIs: >-
-  Start each session or gathering by inviting everyone to speak in turn,
-  uninterrupted, for an agreed amount of time.
+  各セッションや 集会の冒頭で、合意した時間内で、誰にも邪魔されずに順番に発言してもらいます。
 
 
-  In this practice, the main part is starting a collective interaction by being allowed to say something and be easily heard by everyone.
+  このプラクティスの主な役割は、何かを言うことを許可され、皆に簡単に聞かれることによって、グループでの交流を始めることである。
 whyDo: >-
-  Why is this important? It gives everyone the opportunity to speak up and be
-  heard. This prompts the behaviour and gives permission for each person to
-  share their own insights, establishing a good foundation for psychological
-  safety.
+  なぜこれが重要なのか？全員に発言し、話を聞いてもらう機会を平等に与えます。そうすることで、行動が促進され、各人が自分の洞察を共有する許可が与えられ、心理的安全性のための良い基盤が確立されます。
 
 
-  This is a great way in virtual setup to tests out microphones etc and sets the expectation that everyone can talk.
+  これは、バーチャルセットアップでマイクなどをテストするのに最適な方法であり、全員が話すことができるという期待をもたせるものです。
 
 
-  Check-ins also help teams begin their work together with a sense of unity as they share and hear about how each of them come in, establishing presence and purpose.
+  また、チェックインでは、各自がどのように参加し、存在感と目的を確立したかを共有し、それを聞くことで、チームが一体感をもって一緒に仕事を始めることができます。
 howTo: >-
-  Simply ask the following:
+  次のことを尋ねてください:
 
 
-  * How are you (really) doing?
+  * （本当に）調子はどうですか？
 
-  * In which state do you join?
+  * どの地域から参加していますか？
 
-  * Random non-work-related question e.g.: What do you hope to get out of this call/meeting/workshop?
+  * 仕事に関係のないランダムな質問 例： この電話／ミーティング／ワークショップで何を得たいですか？
 
-  * Pass on to someone else :)
-
-
-  If you're pairing this with a standup practice, the following questions are great for sharing information and for accountability and for creating feedback loops!
+  * 他の人に順番を回します :)
 
 
-  * What are your intentions for the day?
+  もしこれをスタンドアップのプラクティスと組み合わせるなら、以下の質問は情報を共有し、説明責任を果たし、フィードバックのループを作るのに最適です！
 
-  * How did yesterday’s intentions go?
 
-  * Do you see any blockers to our progress?
+  * 今日のあなたの目的は何ですか？
 
-  * What’s something that you’re grateful for in the team?
+  * 昨日の目的は何でしたか?
 
-  * What’s one thing you’d like help/advice with?
+  * 前身を阻害するものはあるか？
+
+  * チームの中で感謝していることは何ですか？
+
+  * 助けてほしいことは何ですか？
 mediaGallery:
   - link: https://raw.githubusercontent.com/openpracticelibrary/opl-media/master/images/check-in-clock.jpg
 resources:
