@@ -1,7 +1,7 @@
 ---
 templateKey: practice-page
-title: Comparing Concept Maps
-subtitle: Identify differences in team members' mental models
+title: コンセプトマップの比較
+subtitle: チームメンバーのメンタルモデルの違いを識別する
 date: 2023-09-05T10:28:09.614Z
 authors:
   - gvwilson
@@ -9,31 +9,19 @@ tags:
   - validate
 mobiusTag: discovery
 icon: /images/screenshot-2023-09-05-at-6.33.08-am.png
-whatIs: This is a short whole-team activity to uncover differences in how people
-  think about the project they are working on or the problem they are trying to
-  solve. As the accompanying image shows, a concept map (here, of a public
-  library, originally drawn by Amy Hodge) shows the key ideas making up
-  someone's mental model and (crucially) the relationships between those ideas
-  as well.
-whyDo: "It can be healthy for different members of a team to have different
-  mental models of the problem domain: for example, DevOps or Marketing may
-  think about the software in a different way than Development. However,
-  contradictions between different team members' mental models can also be a
-  source of friction, and missing elements or connections in models can lead to
-  oversights."
+whatIs: これは、取り組んでいるプロジェクトや解決しようとしている問題についての考え方の違いを明らかにするための、チーム全体の簡単なアクティビティです。下の画像が示すように、コンセプトマップ（これは公共図書館の例（Patron：利用者のコンセプトマップ）で、オリジナルはエイミー・ホッジが描いたもの）は、誰かのメンタルモデルを構成する主要なアイデアと、（重要なのは）それらのアイデア間の関係も示しています。
+whyDo: "チームのメンバーによって、問題領域のメンタルモデルが異なるのは健全なことです：例えば、DevOpsやマーケティングは、開発とは異なる目線でソフトウェアについて考えるかもしれません。しかし、チームメンバーのメンタルモデル間の矛盾は摩擦の原因にもなりうるし、モデルの要素やつながりが欠けていると、重大な見落としにつながることがあります。"
 howTo: >-
-  1. Each team member spends 5 minutes drawing a small concept map of what the
-  team is working on. Team members do this separately and without looking at
-  each other's work.
+  1. 各チームメンバーは、5分間かけて、チームが取り組んでいることの小さなコンセプト・マップを描きます。チームメンバーは、お互いの作業を見ずに、別々にこれを行います。
 
-  2. On the count of 3-2-1, team members reveal their concept maps to each other.
+  2. 3-2-1のカウントで、チームメンバーは互いのコンセプトマップを公開します。
 
-  3. The meeting moderator then leads a discussion of differences between those concept maps.
+  3. その後、司会者がこれらのコンセプトマップの違いについてディスカッションを行います。
 
 
-  This exercise is particularly useful for new team members at the end of their second or third week of onboarding, and again at the end of their first quarter.
+  このエクササイズは、新しいメンバーが参画してから2週間目か3週間目の終わりと、四半期の終わりに行うのが効果的です。
 mediaGallery:
-  - link: https://openpracticelibrary.com/static/7f740c255055f57d9c2b652cc62bf9b5/2af79/screenshot-2023-09-05-at-6.33.08-am.webp
+  - link: https://openpracticelibrary-ja.netlify.app/static/7f740c255055f57d9c2b652cc62bf9b5/2af79/screenshot-2023-09-05-at-6.33.08-am.webp
 people: 3 or more. The meeting moderator may be one of the participants (i.e.,
   may draw a concept map as well).
 time: 5 minutes to draw concept maps, 10-30 minutes to compare depending on team
