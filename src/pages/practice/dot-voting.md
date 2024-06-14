@@ -1,7 +1,7 @@
 ---
 templateKey: practice-page
-title: Dot voting
-subtitle: Quickly build consensus to prioritise available options
+title: ドット投票
+subtitle: 素早く合意形成し、選択肢に優先順位をつける手法
 date: 2023-11-03T00:33:13.471Z
 authors:
   - kattekrab
@@ -10,77 +10,72 @@ authors:
 mobiusTag: options
 icon: /images/11678089443_16a61b0fec_c.jpg
 whatIs: >-
-  Dot Voting is a collaborative decision-making technique. It helps people to
-  prioritise or select options from a range of choices. Participants use sticky
-  dots or simply draw dots with a marker to visually indicate their preferences
-  or priorities. 
+  Dot Voting（ドット投票）はチームで意思決定を行う手法です。
+  チームメンバーは、付箋やマーカーでドットを使っていいね！と思うアイディアやその優先順位を可視化します。
+
+  この手法は合意形成、意思決定、または工数配分を行うためのシンプルで効果的な方法です。
+  ドット数を合計することで、どの選択肢が最も人気があるか、重要かを素早く把握できます。
 
 
-  It is a simple and effective method for reaching consensus, making informed decisions, or allocating resources. Adding up the dots quickly shows 
-
-  which are the most popular or important options.
-
-
-  Photo: [Dot Voting Example](https://www.flickr.com/photos/jason_diceman/11678089443/) by Jason Diceman
+  参考: [ドット投票のサンプル](https://www.flickr.com/photos/jason_diceman/11678089443/) by Jason Diceman
 whyDo: >-
-  D﻿ot voting is quick and easy to facilitate, making it one of the most common
-  and popular ways to move from generating options, to acting on them!
+  ドット投票は、さっと簡単に実施できるため、最も一般的で人気のある方法の一つです。
+  オプションを生成する段階から、それを実行に移す段階に移行するのに役立ちます。
 
 
-  **Prioritisation**\
+  **優先順位付け**\
 
-  Dot Voting helps teams prioritise tasks, ideas, features, or projects. It allows members to focus on what is most important or valuable.
-
-
-  **Consensus Building**\
-
-  When a group needs to make a decision or reach a consensus, Dot Voting can highlight the most favoured options and guide discussion toward agreement.
+  ドット投票チームがタスク、アイデア、機能、プロジェクトの優先順位を決定するのに利用します。メンバーが最も重要、価値があると考えるものに注力できるようにします。
 
 
-  **Resource Allocation**\
+  **合意形成**\
 
-  Teams can use Dot Voting to allocate limited resources to different initiatives, such as time or budget.
-
-
-  **Idea Generation**\
-
-  In brainstorming sessions, Dot Voting can identify the most promising ideas, helping teams select which concepts they might want to explore further, or act on.
+  グループが意思決定や合意形成を行う際に、ドット投票は最も人気のある選択肢を可視化し、合意に向けた議論を促進します。
 
 
-  **Feedback Gathering**\
+  **リソース配分**\
 
-  Dot Voting is useful for collecting feedback or input from a large group quickly. It helps reveal the most common or important opinions.
+  チームは、ドット投票を使用して限られたリソース（時間や予算）を配分する際の参考になります。
+
+
+  **アイデア導出**\
+
+  ブレインストーミングセッションでは、ドット投票を使って最も有力なアイデアを選出し、チームがさらに探求したりトライしたいコンセプトを選択するのに役立ちます。
+
+
+  **フィードバック収集**\
+
+  ドット投票は、多くの人たちからすばやくフィードバックや意見を収集するのに役立ち、共通する意見や重要な意見を明らかにするのに役立ちます。
 howTo: >-
-  **You will need:**
+  **必要なもの:**
 
 
-  * List of options to be voted on (written on a whiteboard, poster, or online)
+  * 投票対象の選択肢リスト（ホワイトボード、ポスター、またはオンラインで記述）
 
-  * Space for participants to place their dots next to the options.
+  * 参加者がオプションの横にドットを投票するためのスペース
 
-  * *In person*: Sticky dots or markers (each participant should have the same number of dots)
+  * 対面の場合: 付箋やマーカー（各参加者に同じ数のドットを与える）
 
-  * *Online*: Create little circle shapes on your virtual whiteboard or canvas to use as dots and give the same number to each participant to use to vote on objects on the board.
-
-
-
-  **A﻿ction steps:**
+  * オンラインの場合: 仮想ホワイトボードやキャンバス上で各参加者に同じ数のドットを使って投票するようにする
 
 
-  1. *Prepare the Options*: Write down the list of options or ideas that the group needs to prioritize. Ensure that the options are clear and well-defined.
-
-  2. *Explain the Process*: Inform the participants about the purpose of Dot Voting and the number of dots they will receive. Typically, each person is given a specific number of dots (e.g., three or five), but you can adjust this based on the group size and the number of options.
-
-  3. *Vote*: Participants place their dots next to the options they consider the most important or their top choices. They can distribute their dots freely, placing multiple dots on a single option or spreading them across different options.
-
-  4. *Count the Dots*: After all participants have placed their dots, count the number of dots next to each option. The options with the most dots represent the group's collective preferences or priorities.
-
-  5. *Discussion* (Optional): Depending on the context, you can facilitate a discussion to explore the reasons behind the choices or to reach a final decision. This discussion can help participants understand the group's thinking and make any necessary adjustments.
-
-  6. *Final Decision*: Based on the results, make a final decision, allocate resources, or prioritize tasks accordingly.
+  **活動のステップ:**
 
 
-  Dot Voting is a versatile and inclusive method for decision-making and prioritisation.  It encourages participation, provides a visual representation of preferences, and helps groups make informed choices. Whether you're working in a team, planning a project, or looking for a way to gather feedback, Dot Voting is a valuable tool for reaching a collective consensus.
+  1. *選択肢の準備*: グループが優先順位を付ける必要がある選択肢やアイデアのリストを記述します。選択肢が明確になっていることを確認しましょう。
+
+  2. *ドット投票のやり方の説明*: 参加者にドット投票の目的と与えられるドットの数を伝えます。通常、各人に特定の数のドット（例：3つまたは5つ）を与えますが、グループの規模やオプションの数に応じて調整します。
+
+  3. *投票*: 参加者は、最も重要または自分のトップの選択肢と思う選択肢の横にドットを配置します。ドットを一つの選択肢に集中させても、複数のオプションに分散させても構いません。
+
+  4. *ドットの集計*: すべての参加者がドットを配置した後、各オプションの横のドットの数を数えます。最も多くのドットを集めた選択肢が、グループの総意や優先事項です。
+
+  5. *協議* (必要に応じて): 選択肢の背景や最終決定に向けた議論を促進することも可能です。この議論は、参加者がグループの考えを理解し、必要に応じて調整を行うのに役立ちます。
+
+  6. *Final Decision*: 結果に基づいて最終決定を行い、リソースを配分し、タスクの優先順位を決定します。
+
+
+  ドット投票は意思決定や優先順位付けのための多用途で包括的な方法です。人気の視覚的な表現を提供し、グループが情報に基づいた選択を行うのに役立ちます。チームで働くとき、プロジェクトを計画するとき、またはフィードバックを収集するときに、ドット投票は集団の合意形成に役立つ貴重なツールです。
 mediaGallery:
   - link: https://live.staticflickr.com/3771/11678089443_16a61b0fec_b.jpg
 resources:
