@@ -1,56 +1,43 @@
 ---
 templateKey: practice-page
-title: Defence in Depth
-subtitle: Layering security controls through your application
+title: 多重防御
+subtitle: アプリケーションを通じたセキュリティ制御のレイヤー化
 date: 2022-02-07T02:11:01.053Z
 authors:
   - attacus
 mobiusTag: foundation
 icon: /images/julia-joppien-g51k-d_klte-unsplash.jpg
 whatIs: >-
-  Defence/defense(**\***) in depth (sometimes referred to as "layered security")
-  is an approach to securing a system, service, or piece of software that
-  focuses on including strong security controls on all layers of a stack or
-  design, rather that focusing all effort on securing only the outward- or
-  user-facing parts of the solution. The aim of this practice is to build
-  redundancies into security controls so that, if one control fails (either
-  temporarily or permanently), the other controls will still be able to protect
-  the application.
+  多重防御(Defence/defense(**\***) in depth)（「階層化されたセキュリティ（Layered Security）」と呼ばれることもある）とは、システム、サービス、ソフトウ ェアの安全性を確保するためのアプローチであり、ソリューションの外向きの部分やユーザ向きの部分だけに全力を注ぐのではなく、スタックや設計のすべてのレイヤーに強力なセキュリティ制御を含めることです。このプラクティスのねらいは、セキュリティ対策に冗長性を持たせることで、1つの対策が（一時的あるいは恒久的に）破られても、他の対策でアプリケーションを保護できるようにすることです。
 
 
-  For example, a web application built with defence in depth principles in mind may have implemented a Web Application Firewall (WAF) as a first line of defence against malicious, user-submitted data, but will also have set strong security flags on application session cookies, implemented a strict Content Security Policy (CSP), and application logic that does not directly pass user-submitted strings as program variables. This requires the cooperation of the entire team involved in building the web application to ensure that security controls have been implemented correctly across the application and that those controls work together to prevent attempts to breach or maliciously manipulate the application.
+  例えば、多重防御の原則を考慮して構築されたウェブ・アプリケーションは、悪意のあるユーザが送信したデータに対する防御の第一線として、ウェブ・アプリケーション・ファイアウォール（WAF）を実装しているかもしれないし、アプリケーションのセッション・クッキーに強力なセキュリティ・フラグを設定し、厳格なコンテンツ・セキュリティ・ポリシー（CSP）を実装し、ユーザが送信した文字列をプログラム変数として直接渡さないアプリケーション・ロジックを実装しているかもしれません。これらを実現するためには、アプリケーション全体にわたってセキュリティ管理が正しく実装され、アプリケーションを侵害したり悪意を持って操作したりする試みを防止するために、ウェブアプリケーションの構築に関与するチーム全体が協力する必要があります。
 
 
-  **\*** "Defense" is the US English spelling. "Defence" is the UK/AU English spelling.
+  **\*** "Defense" はアメリカ英語、 "Defence"は、UK/AU英語。
 whyDo: >-
-  A team may practice defence in depth to ensure that the system or application
-  is able to defend against attacks even in the event of the failure of the
-  outermost layers of control. 
+  チームは、制御の最も外側のレイヤーに障害が発生した場合でも、システムやアプリケーションが攻撃から防御できるように、多重防御を実践することができます。
 
 
-  In this way, an attacker is less likely to be able to thoroughly exploit or penetrate the system because the team that designed it has not assumed that the outer layer of defences will hold up against all types of attack, or that there is no way past those defences that they have not anticipated.
+  こうすることで、攻撃者がシステムを徹底的に悪用したり、侵入したりする可能性は低くなります。なぜなら、システムを設計したチームは、外側の防御層があらゆるタイプの攻撃に対して持ちこたえられるとは想定しておらず、また、想定していない防御を突破する方法がないとも想定していない（つまり、各レイヤーで攻撃は突破される前提で防御の設計をしている）からです。
 howTo: >
-  Defence in depth can be practiced at any stage of the software development
-  lifecycle, but it is most effective when first considered during a threat
-  modelling exercise at the start of an iteration, or during project kickoff. It
-  involves assessing and implementing strong security controls to each element
-  of the design.
+  多重防御は、ソフトウェア開発工程のどの段階でも実践することができるが、イテレーションの開始時、あるいはプロジェクトのキックオフ時に、脅威モデリングのプラクティスの中で最初に検討するのが最も効果的です。これには、設計の各要素に対する強力なセキュリティ対策を評価し、実装することが含まれます。
 
 
-  Considerations may include (but are not in any way limited to):
+  考慮すべき事項には、以下が含まれます（ただし、これらに限定されるものではない）：
 
 
-  * the "principle of least privilege" (ensuring all users or accounts have only the minimum permissions required to perform their functions, and no more)
+  * ”最小特権の原則”（すべてのユーザーまたはアカウントが、その機能を実行するために必要な最小限の権限のみを持ち、それ以上の権限を持たないようにすること）
 
-  * authentication controls (e.g. password policies, multi-factor authentication)
+  * 認証管理（パスワードポリシー、多要素認証など）
 
-  * network security controls (e.g. firewalls, security groups, ingress and egress rules)
+  * ネットワーク・セキュリティ・コントロール（ファイアウォール、セキュリティ・グループ、イングレス・ルール、イグレス・ルールなど）
 
-  * physical controls (who can access critical infrastructure)
+  * 物理的管理（誰が重要インフラにアクセスできるか）
 
-  * insider threats (not just assuming that the only threats to your application will come from attackers outside of your organisation)
+  * インサイダーの脅威（アプリケーションに対する脅威は組織外の攻撃者からしか来ないと決めつけない。）
 
-  * "assume breach" (assuming you have already been breached, and thinking about what internal controls are in place)
+  * ”侵入を想定する”（すでに侵入されたと想定し、どのような内部統制があるかを考える）
 mediaGallery:
   - link: https://pronto-core-cdn.prontomarketing.com/2/wp-content/uploads/sites/3415/2015/11/ProactiveProtection_CircleChart.jpg
 resources:
