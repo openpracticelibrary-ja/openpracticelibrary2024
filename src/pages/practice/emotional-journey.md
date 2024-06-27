@@ -1,7 +1,7 @@
 ---
 templateKey: practice-page
-title: Emotional Journey
-subtitle: How users feel at each stage of the experience
+title: エモーショナル・ジャーニー
+subtitle: 体験の各ステージでユーザーがどのように感じているか
 date: 2022-01-17T09:19:28.996Z
 authors:
   - JordiOlive
@@ -12,94 +12,95 @@ tags:
 mobiusTag: discovery
 icon: /images/jordi-s-board-journey-map-1-1-.jpg
 whatIs: >-
-  Emotional Journey is a powerful research practice to **identify and visualize
-  how users feel** at each stage of the experience while they are using a
-  product or service.
+  エモーショナル・ジャーニーは、ユーザーがプロダクトやサービスを体験している各ステージで**どのように感じるかを特定し、視覚化する**ための強力なリサーチプラクティスです。
 
 
-  Mapping these metrics help the team to **understand, test and** **deliver a positive experience for the users**.
+  これらのメトリクスをマッピングすることで、チームは**ユーザーのポジティブな体験を理解し、テストし、提供する**ことができます。
 
 
-  The emotions of the user can be captured by dots, emojis, pictures, colours, curves or other forms and shapes that **represent the level of sentiment** from each moment of the journey.
+  ユーザーの感情は、ドット、絵文字、写真、色、グラフの曲線、その他、ジャーニーの各瞬間からの**感情レベルを表現する**フォームや形状によってとらえることができます。
 
 
-  The Emotional Journey is usually used asan **add-on to a User Journey Map or [Service Blueprint](https://openpracticelibrary.com/practice/service-blueprint/)** practices.
+  エモーショナル・ジャーニーは一般的には、**ユーザー・ジャーニー・マップや[サービス ブループリント](https://openpracticelibrary-ja.netlify.app/practice/service-blueprint/)のプラクティスのアドオン**として使用されます。
 whyDo: >-
-  **Craft a better user experience:**
+  **より良いユーザー体験を作り上げる:**
 
 
-  * Understand users point of view
+  * ユーザーの視点を理解する
 
-  * Bring more humanity
+  * 人間性を高める
 
-  * Identify faster the gaps on the journey where to improve the experience
+  * エクスペリエンスを向上させるジャーニーのギャップをより早く特定する
 
-  * Reveal the ideal experience through the user’s eyes
+  * ユーザーの視点から理想の体験を明らかにする
 
-  * Understand what the users feel rather than what you think they feel
+  * ユーザーが何を感じているかを理解する
 
-  * Find new opportunities
+  * 新しいチャンスを見つける
 
-  * Empathise with the users
+  * ユーザーの気持ちに寄り添う
 
-  * Analyse the peaks and lows of the emotional rollercoaster
-
-
-  **Improve business performance:**
+  * ジェットコースターのような感情の山と谷を分析する
 
 
-  * Ensure systems are customer focused
+  **ビジネス上のメリット:**
 
-  * Knowledge of customers behaviours and needs
 
-  * Drive ideation and innovation
+  * 顧客重視のシステム
 
-  * Decide what should be the top priorities
+  * 顧客の振る舞いとニーズに関する知識
 
-  * Introduce metrics for what matters most for the customers
+  * アイデアとイノベーションの推進
 
-  * Eliminate where customer experience is most likely to fail
+  * 何を最優先すべきかを決める
 
-  * Imagine future service experience
+  * 顧客にとって何が最も重要かを示す指標の導入
 
-  * Reflect customers needs and expectations while your business changes
+  * カスタマー・エクスペリエンスが最も失敗しやすい場所を排除する
+
+  * 未来のサービス体験を想像する
+
+  * ビジネスが変化する中で、顧客のニーズと期待を反映させる
 
     ![EmotionalJourneyMap](/images/jordi-s-board-journey-map-1-1-.jpg "Emotional Journey Map - Buying a movie ticket")
 howTo: >-
   
 
-  1. Define what experience you want to map. [User Stories](https://openpracticelibrary.com/practice/user-story-mapping/) and [Prioritisation Matrix](https://openpracticelibrary.com/practice/impact-effort-prioritization-matrix/) are useful practices that may help you to identify the user experience you want to address.
+  1.  どのような体験をマッピングしたいかを定義します。[ユーザーストーリーマッピング](https://openpracticelibrary-ja.netlify.app/practice/user-story-mapping/)と[インパクトと難易度の優先付け (マトリクス)](https://openpracticelibrary-ja.netlify.app/practice/impact-effort-prioritization-matrix/) は、あなたが取り組みたいユーザーエクスペリエンスを特定するのに役立つ有用なプラクティスです。
+  
+  
+  2. 調査や仮説から情報を収集します。[プロトペルソナ](https://openpracticelibrary-ja.netlify.app/practice/proto-persona/)や[共感マッピング](https://openpracticelibrary-ja.netlify.app/practice/empathy-mapping/)を作成し、ユーザーのブロッカー・阻害要因、機会、ニーズ、期待など、ユーザーの視点からのすべての洞察を視覚化することがお勧めします。
 
-  2. Collect information from research and assumptions. It’s recommended to build a [Persona](https://openpracticelibrary.com/practice/proto-persona/) or/and [Empathy Map](https://openpracticelibrary.com/practice/empathy-mapping/) in order to visualise all the insights from the user perspective like their blockers, opportunities, needs, expectations, etc.
+  3. 複数のペルソナを特定した場合は、それぞれのペルソナのエモーショナル・ジャーニーを構築してください。
 
-  3. If you identified more than one Personas then make sure you build an emotional journey for each of them because their journey and experience may be different.
+  4. ジャーニー中のユーザーの行動を時系列にマッピングし始めます。ジャーニー全体である必要はなく、エクスペリエンス中に注目したい部分だけでも構いません。
 
-  4. Start mapping the actions of the user during the journey in chronological order. It doesn’t have to be the entire journey, it may be just a part of it that you want to focus on during the experience.
+  5. 折れ線グラフや曲線グラフを使って、ユーザーがジャーニーの途中でどのように感じたるかを表します（↑うれしい ↓かなしい）。よりよく理解するために、ユーザーがジャーニーの行動中に何を感じ、何を考えているかについてのコメントを追加することを強くお勧めします。1つのユーザーアクションにつき1つ以上のコメントを追加することができます。
 
-  5. Use a line or curve graph to represent how the user feels during the journey.(↑Happy ↓Sad). It’s highly recommended to add a comment on what the user is feeling or thinking during the actions of the journey for a better understanding. You can add more than one comment per user action.
-
-  6. Analyse the map and improve where it is needed based on the peaks and lows.
-
-
-  ## Notes & Observations
+  6. マップを分析し、ピーク（最高点）とロー（最低点）に対して、必要な改善をします。
 
 
+  ## Tips & 考察
 
 
-  * There are many different ways to build an emotional journey depending on the approach and the quality of the research.
 
-  * You can first build the Emotional Journey and then use it to make the User Journey Map with Touchpoints, Pain points, Opportunities etc. or you can create it based on an existing Journey Map. The order of the practices doesn’t affect the final result.
 
-  * Adding an horizontal line in the middle of the Emotional Journey will help you to see faster where the opportunity is.
+  * エモーショナル・ジャーニーを書くには、アプローチやリサーチの質によってさまざまな方法があります。
 
-  * It’s recommended to have one Emotional Journey per user. In case you’re using it for a [Service Blueprint](https://openpracticelibrary.com/practice/service-blueprint/) where different actors are involved then you can use the same space to represent the Emotional Journey for each of them. If this is the case, remember to use dissimilar colours to represent the different actors. (See the following example)
+  * まずエモーショナル・ジャーニーを作成し、それを使ってタッチポイント、ペインポイント、機会などを含むユーザージャーニーマップを作成することもできますし、既存のジャーニーマップに基づいて作成することもできます。プラクティスの順番は最終結果に影響しません。
+
+  * エモーショナル・ジャーニーの真ん中に横線を入れることで、どこにチャンスがあるのかがより早くわかるようになります。
+
+  *  ユーザーごとに1つのエモーショナル・ジャーニーを作成することをお勧めします。異なるアクターが関与する[サービス ブループリント](https://openpracticelibrary-ja.netlify.app/practice/service-blueprint/)に使用する場合は、同じスペースを使ってそれぞれのエモーショナル・ジャーニーを表すことができます。この場合、異なるアクターを表現するために異なる色を使用することを忘れないでください。(次の例を参照してください）
+
 
     ![EmotionalJourneyServiceBlueprint](/images/service-blueprint-frame-6-1-.jpg "Emotional Journey with multiple actors")
-  * Having the User Story/Scenario, the [Persona](https://openpracticelibrary.com/practice/proto-persona/) and his/her goal near the board helps to have a clear and common understanding of what the Emotional Journey is representing.
+  * ユーザーストーリー／シナリオ、[プロトペルソナ](https://openpracticelibrary-ja.netlify.app/practice/proto-persona/) 、そして彼らのゴールをボードの近くに置くことで、エモーショナル・ジャーニーが何を表しているのかを明確かつ共通に理解することができます。
+  
 
-  * Emotional Journey can be used as a metric to compare As-is with To-be or Ideal User Journey experiences
+  * エモーショナル・ジャーニーは、AsIsとToBeまたは理想的なユーザー・ジャーニーの経験を比較する尺度として使用することができます。
 
-  * It can also be used as a low fidelity experience prototype to test with users.
+  * また、ユーザーとテストするための、忠実度の低い体験プロトタイプとしても使用できます。
 mediaGallery:
   - link: https://live.staticflickr.com/65535/51824897407_04571b0233_k.jpg
   - link: https://live.staticflickr.com/65535/51824909717_93ad5ad0b6_k.jpg
