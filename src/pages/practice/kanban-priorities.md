@@ -1,8 +1,7 @@
 ---
 templateKey: practice-page
-title: Kanban Priorities
-subtitle: Prioritise tasks on the board before daily standup to facilitate
-  better communication and team work
+title: カンバンの優先順位付け
+subtitle: デイリースタンドアップの前にボード上のタスクに優先順位をつけ、コミュニケーションと仕事の効率を上げる
 date: 2021-10-07T10:17:30.178Z
 authors:
   - skriesch
@@ -11,28 +10,26 @@ tags:
 mobiusTag: options
 icon: /images/kanban-board.png
 whatIs: >
-  The team can be really diverse and you can have also introverted people.
-
-
-  Agile principles can help with daily standups. Some people don't know which tasks should be taken first. Prioritizing in the evening before the next standup can help here.
-whyDo: Priorities of tasks can be changed daily with team meetings or finished
-  tasks in neighbor teams. If all tasks in the Kanban board are ordered in the
-  correct priority list in the morning, everybody can see and know the hot
-  topics of the day. So all team members can pick up the tasks in the best
-  possible order. That improves also the team work and the communication between
-  all.
+  カンバンの優先順位付けは、多様性のあるチーム、特に内向的なメンバーを含むチームにとって有効なプラクティスです。
+  アジャイルの原則を適用すればデイリースタンドアップを効果的に進行できますが、
+  チームの中には次に取り組むべきタスクの選択に迷う人もいます。
+  そこで、翌日のスタンドアップミーティングの前夜にタスクの優先順位付けを行うことが有効です。
+whyDo: タスクの優先順位は、チームミーティングや他チームのタスク完了状況により、日々修正される可能性があります。
+  朝、カンバンボード上のすべてのタスクが正しい優先順位リストに並べられていれば、誰もがその日の重要トピックを見て理解し、
+  最適な順序でタスクに取り組めるようになります。
+  これはメンバー間のコミュニケーションと仕事の効率も改善するでしょう。
 howTo: >-
-  * The Product Owner is going through the Kanban board in the evening.
+  * POがデイリースタンドアップの前の日の夕方にカンバンボードを確認します。
 
-  * The Product Owner has got an eye on what has happened and new priorities.
+  * POは何が起こったか、新しい優先事項は何かに注目します。
 
-  * The list of open tasks will be updated daily in the evening with the correct order of hot topics in the Kanban board.
+  * 未着手タスクのリストは、毎日夕方に更新され、カンバンボード上で重要トピックの正しい順序が反映されます。
 
-  * Team members are up to date about latest updates of priorities in the morning.
+  * チームメンバーは朝、優先順位の更新について把握します。
 
-  * Team members know about hot topics of the day and latest updates.
+  * チームメンバーはその日の重要トピックと最新の更新を知ります。
 
-  * Tasks are chosen in the correct order with highest priorities.
+  * タスクは優先順位の順序に従って選択されます。
 mediaGallery:
   - link: https://kanbanize.com/wp-content/uploads/website-images/kanban-resources/kanban%20color%20code.png
 participants: []
