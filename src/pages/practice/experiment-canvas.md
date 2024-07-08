@@ -1,8 +1,7 @@
 ---
 templateKey: practice-page
-title: Experiment Canvas
-subtitle: Be specific with your idea experiments to improve scope,
-  collaboration, and alignment
+title: 実験キャンバス
+subtitle: スコープ、コラボレーション、調整を改善するために、アイデアの実験を具体化する
 date: 2022-10-26T13:59:15.691Z
 authors:
   - heyjerrybecker
@@ -13,187 +12,179 @@ tags:
 mobiusTag: options
 icon: /images/experiment-canvas.jpeg
 whatIs: >-
-  T﻿he Experiment Canvas, created by Chris Stone, is a practice and artifact
-  that helps teams design focused experiments with clear guardrails around
-  scope, involvement, timeframe, and success criteria. It's a great tool to use
-  when a team has:
+  クリス・ストーン（Chris Stone）によって作成された実験キャンバスは、スコープ、関わり方、時間枠、成功基準に関する明確なガードレールによって、チームがフォーカスした実験をデザインするためのプラクティスであり、成果物です。これは、チームが以下のような問題を抱えているときに使うのに最適なツールとなります：
 
 
-  a﻿) a problem they want to solve
+  a) 解決したい問題
 
 
-  b﻿) an idea they want to implement
+  b) 実現したいアイデア
 
 
-  I﻿f you get the sense the team doesn't have quite enough of a firm grasp of the problem, you might try running something like an [Abstraction Ladder](https://openpracticelibrary.com/practice/abstraction-ladder/) practice to help the team explore and map out the problem space.
+   もしチームが問題を十分に把握できていないと感じたら、[アブストラクション・ラダリング](https://openpracticelibrary-ja.netlify.app/practice/abstraction-ladder/)のようなプラクティスを実施して、チームが問題を探索し、マップを作成することを補助することができます。
 whyDo: >-
-  When a team fills out an experiment canvas together, it forces conversations
-  that require the team to make decisions about specific areas that make up a
-  well-designed experiment. 
+  チームが一緒に実験キャンバスに記入することで、よくデザインされた実験を構成する具体的な領域について、チームが決定を下すための会話が強制されます。
 
 
-  By the end, all teams members have a clear sense of what's being done, thereby improving alignment, clarity, and speed while instilling a culture of ideation, collaboration, and experimentation as the vehicle to continuous improvement 💡 👩‍🔬 📈
+  最終的には、すべてのチームメンバーが、何が行われているのかを明確に把握することで、整合性、明確性、スピードを向上させ、継続的な改善の手段として、アイディエーション、コラボレーション、実験の文化を浸透させることができます 💡 👩‍🔬 📈
 howTo: >-
-  P﻿repare a blank Experiment Canvas on a wall or in your digital whiteboarding
-  tool of choice
-  ([Miro](https://miro.com/miroverse/the-experiment-canvas/?social=copy-link),
-  Mural, Jamboard, etc).
+  ブランクの実験用キャンバスを壁やデジタルホワイトボードツール（[Miro](https://miro.com/miroverse/the-experiment-canvas/?social=copy-link),Mural,Jamboardなど）で用意します。
 
 
-  W﻿ith the team, go through each section of the canvas 1 by 1 and fill in the required information, one idea per stickie.
+  チームと一緒に、キャンバスの各セクションを1つずつ見ていき、必要な情報を記入します。
+
+  キャンバスに記入する順番は、以下のように推奨されていますが、必須ではありません：
 
 
-  Y﻿ou can use the following recommended order to fill out the canvas, but it's not required:
+  **1. 問題（The Problem）**
 
 
-  **1﻿. The Problem**
+  どんな問題を解決しようとしているのか？
 
 
-  What problem are we trying to solve?
+  なぜ新しいことを実験する必要があるのか？
 
 
-  Why do we need to experiment with something new?
+  Tips: 
 
 
-  T﻿ips: 
+  * チームにすでに問題提起がある場合は、それをここに追加します。複数の問題提起がある場合は、チームにすべての問題提起をリストアップさせ、次に、それらの問題提起に優先順位をつけるための簡単な投票セッションを行い、一番上に投票された問題提起にフォーカスします。
 
 
-  * If the team already has a problem statement, insert it here. If they have multiple, have the team list all problem statements, then do a quick voting session to prioritize them and focus on the top-voted problem.
+  * チームが問題を明確にするのに苦労している場合、まず問題領域のコンテキストをマッピングするために、[アブストラクション・ラダリング](https://openpracticelibrary-ja.netlify.app/practice/abstraction-ladder/)アクティビティを実行するのが役に立つかもしれません。もしこれを行うのであれば、アブストラクション・ラダリングの最後にチームが投票した一番上の問題を取り出し、それを実験キャンバスのこの部分に挿入します。
+  
 
-  * I﻿f the team is struggling to articulate the problem, it might be helpful to run an [Abstraction Ladder](https://openpracticelibrary.com/practice/abstraction-ladder/) activity to help them map out the full context of the problem space first. If you choose to do this, take the top problem the team votes on at the end of the Abstraction Ladder and insert it into this portion of the Experiment Canvas.
-
-
-  **2﻿. The People**
+  **2. 人（The People）**
 
 
-  W﻿ho will be affected by our experiment? (Who experiences our problem statement?)
+  私たちの実験によって影響を受けるのは誰か？(問題提起に直面するのは誰か？）
 
 
-  W﻿ho do we need to engage and involve?
+  誰を関与させ、巻き込む必要があるのか？
 
 
-  T﻿ips:
+  Tips:
 
 
-  * Ask the question to the team and just have a group conversation. Capture ideas mentioned, 1 per stickie, then when ideas have stopped, playback what's captured with the team.
+  * チームに質問を投げかけ、グループで会話をします。付箋1枚につき1つずつ、挙げられたアイデアを記入し、アイデアが出なくなったら、書いた内容をチームで振り返ります。
 
-  * D﻿on't focus on the core team members yet - that comes in "The Scientists" section. This section should focus more on beneficiaries and people you may have to make aware that this experiment is happening or even occasionally collaborate with while the experiment runs....but the people in this section shouldn't be assigned to this experiment full-time. That's who The Scientists are.....we'll get to that section later!
-
-
-  **3﻿. The Outcome**
+  * このセクションは、恩恵を受ける人たちや、この実験が行われていることを知らせなければならない人たち、あるいは実験が行われている間、時折協力しなければならない人たちにもっと焦点を当てるべきでしょう...しかし、このセクションの人たちは、この実験にフルタイムで配属されるべきではありません。それが科学者たちなのだから......そのセクションは後ほど！
 
 
-  W﻿hat are our desired outcomes?
+  **3. アウトカム（The Outcome）**
 
 
-  W﻿hat are we hoping to achieve through the experiment?
+  私たちが望む成果は何か？
 
 
-  T﻿ips:
+  実験を通じて何を達成したいのか？
 
 
-  * A﻿nother group conversation.
-
-  * A﻿im for 3-5 outcomes. If there are more, have the team vote on the top 3-5 to bring focus.
+  Tips:
 
 
-  **4﻿. The Hypothesis** 
+  * またグループでの会話です。
+
+  * 3～5つのアウトカムを目指します。それ以上ある場合は、チームに上位3～5位を投票してもらい、絞ります。
 
 
-  W﻿hat's our hypothesis?
+  **4. 仮説（The Hypothesis）** 
 
 
-  T﻿ips:
+  我々の仮説は何か？
 
 
-  * T﻿his section will likely take the longest, but it's very important!
+  Tips:
 
-  * T﻿he facilitator will lead the discussion, creating stickies, then opening up to the team for discussion. With smaller groups, you can have the team start ideating as you capture ideas. For larger groups, or groups getting a bit stuck, you can facilitate this by nominating options and using your idea(s) as a starting point for the group to discuss.
+
+  * このセクションが一番長くなりそうだが、非常に重要です！
+
+  * ファシリテーターがディスカッションをリードし、付箋を作成した後、チーム内でディスカッションを行います。少人数のグループであれば、アイデアを把握しながら、チームにアイデアを出させることができます。大人数のグループや、少し行き詰っているグループの場合は、ファシリテーターが選択肢を提供したり、自分のアイデアを出発点にして、グループで話し合うようにします。
 
   * **IF:**
 
-    * r﻿eword the problem statement as if it were accomplished
-  * **B﻿Y:**
+    * 問題提起を達成したかのように表現する。
+  * **BY:**
 
-    * e﻿xplain the solution (if the team doesn't have a clear solution in mind, you might consider running a "How Might We..." practice to generate and vote on ideas)
-  * **W﻿ILL:**
+    * ソリューションを説明する（チームに明確な解決策がない場合は、「How Might We...」のプラクティスを行い、アイデアを出して投票することを検討してもよい）。
+  * **WILL:**
 
-    * t﻿he main outcomes the solution will achieve if successful (look to "The Outcome" section of the canvas for this)
-  * **B﻿ECAUSE:**
+    * ソリューションが実現した場合の主な成果（これについては、キャンバスの「成果」セクションを参照）。
+  * **BECAUSE:**
 
-    * a﻿ belief statement about why you think the solution will achieve the outcome. It helps to start this stickie with "We believe..."
+    * なぜその解決策が結果を達成できると考えるかについての信念の表明です。この付箋は、"We believe... "で始めると効果的です。
 
-  **5﻿. The Results**
-
-
-  H﻿ow will we know our hypothesis is true?
+  **5. 結果（The Results）**
 
 
-  H﻿ow will we know our hypothesis is false?
+  仮説が正しいことをどうやって知るのか？
 
 
-  * A﻿nother group conversation. Try to get the team to identify specific metric goals to hit that would indicate pass or fail (specific numbers are great to use, here...like "a 25% increase in conversion")
+  仮説が誤りであることをどうやって知るのか？
 
 
-  **6﻿. The Litmus Test**
+  * またグループでの会話です。合格か不合格かを示す具体的な指標目標をチームで考えます（ここでは具体的な数字を使うのがよい...「コンバージョンを25％増やす」など）。
 
 
-  W﻿hat metrics, data, or KPIs do we need to measure?
+  **6. リトマス試験（The Litmus Test）**
 
 
-  * A﻿nother group conversation.
-
-  * I﻿t's helpful to ask "what metrics do we need to capture in order to determine what we agreed on in "The Results" section?
+  どのような指標、データ、KPIを測定する必要があるのか？
 
 
-  **7﻿. The Trials**
+  * またグループでの会話です。
+
+  * 結果のセクションで合意したことを判断するためには、どのような指標を把握する必要があるのか？
 
 
-  W﻿hen will we measure results?
+  **7. トライアル（The Trials）**
 
 
-  W﻿hat are the next steps to bring this experiment to life?
+  いつ成果を測定するのか？
 
 
-  * A﻿nother group conversation.
-
-  * B﻿e sure the group identifies a specific timeframe to run the experiment.
-
-  * A﻿ssign names to action items to ensure someone is owning each one.
+  この実験を実現するための次のステップは？
 
 
-  **8﻿. The Scientists**
+  * またグループでの会話です。
+
+  * グループ内で、実験を実施する具体的な時間枠を確認する。
+
+  * アクション・アイテムに名前を付け、誰かがそれぞれを所有していることを確認する。
 
 
-  W﻿ho is carrying out the experiment?
+  **8. 科学者（The Scientists）**
 
 
-  W﻿hat are our roles & responsibilities?
+  誰が実験を行っているのか？
 
 
-  * A﻿nother group conversation.
-
-  * A﻿sk, "Now that we know what we want to do and the time we have, who should be part of this core team driving this experiment?"
-
-  * T﻿his is different than "The People" section because "The Scientists" are going to have the most time dedicated to running the experiment
+  私たちの役割と責任は？
 
 
-  **N﻿ext Steps**
+  * またグループでの会話です。
+
+  * "何をしたいのか、時間はあるのか、この実験を推進するコア・チームの一員になるべき人物は誰か。"と尋ねてみよう。
+
+  * これは "The People "のセクションとは異なります。"The Scientists "は実験の実施に最も時間を割くことになるからです。
 
 
-  * Have the owners of each "next step" carry out their step to get the experiment ready.
+  **次のステップ**
 
-  * O﻿nce prepared, begin the experiment and schedule a follow-up meeting as soon after the end date as possible.
 
-  * F﻿acilitate a team retrospective during the follow-up meeting to view the data collected and compare it to what was identified in "The Results"
+  * それぞれの「次のステップ」の所有者にそのステップを実行させ、実験の準備をさせます。
 
-  * A﻿sk the team what worked and what didn't work well
+  * 準備ができたら、実験を開始し、終了できるだけすぐにフォローアップを予定します。
 
-  * R﻿eview all information and make a team determination to...
+  * フォローアップで、収集したデータを確認し、"結果 "で明らかになったことと比較するために、チームの振り返りを行います。
 
-    1. Success = the experiment achieved the target outcomes. You can either move onto another experiment, or scale the solution to other teams, if applicable.
-    2. P﻿artial success = the experiment didn't quite achieve the results the team wanted, but we all feel it's on the right track. In this case, ask how the experiment might be improved in order to achieve the results, update the canvas with these changes, and determine a new timeframe in "The Trials" to run a second iteration of the experiment.
-    3. Failure = the experiment was way off on achieving the target outcomes, and the team feels it's best to try a different solution instead. In this case, start a new canvas with the new solution and run another experiment.
+  * うまくいったこと、うまくいかなかったことをチームに尋ねます。
+
+  * すべての情報を精査し、チームとしての判断を行います...
+
+    1. 成功（Success） = 実験が目標とする結果を達成した。別の実験に移ることもできるし、該当する場合は他のチームにソリューションを拡大することができます。
+    2. 一部成功（Partial success） = 実験はチームが望んでいた結果には至らなかったが、全員が正しい方向に向かっていると感じることができている。この場合、結果を達成するために実験をどのように改善すればよいかを話し合い、その変更点をキャンバスに反映させ、「トライアル」で新たな時間枠を決めて、実験の2回目を実行します。
+    3. 失敗（Failure） = 実験が目標結果の達成から大きく外れたため、チームは代わりに別のソリューションを試すのが最善だと感じています。この場合、新しいソリューションで新しいキャンバスを開始し、別の実験を実行します。
 mediaGallery:
   - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/Experiment%20Canvas.jpeg?raw=true
   - link: https://github.com/openpracticelibrary/opl-media/blob/master/Experiment%20Canvas.png?raw=true
