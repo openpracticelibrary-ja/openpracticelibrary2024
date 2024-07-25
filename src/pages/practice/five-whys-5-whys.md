@@ -1,7 +1,7 @@
 ---
 templateKey: practice-page
-title: Five Whys (5 Whys)
-subtitle: Get past the symptoms of a problem to the root cause
+title: なぜなぜ分析 (5 Whys)
+subtitle: 問題の根本原因を探る
 date: 2023-09-12T13:15:03.044Z
 authors:
   - tenfourty
@@ -9,48 +9,40 @@ tags:
   - methods
 mobiusTag: foundation
 icon: /images/fivewhys.webp
-whatIs: The "Five Whys" is a way to figure out what causes a problem. You keep
-  asking "why" until you find the real reason. It was made up by [Taiichi
-  Ohno](https://en.wikipedia.org/wiki/Taiichi_Ohno "Taiichi Ohno") at Toyota.
+whatIs: 「なぜなぜ分析(5 Whys)」は、問題の原因を突き止めるための手段です。本当の原因（真因）が見つかるまで「なぜ？」と問い続けます。これは、トヨタの[大野耐一](https://en.wikipedia.org/wiki/Taiichi_Ohno "Taiichi Ohno")が作ったものとして有名です。
 whyDo: >-
-  The Five Whys technique is a useful tool for identifying the root cause of a
-  problem. It can help teams get to the bottom of an issue quickly and
-  efficiently, leading to more effective solutions that address the underlying
-  cause rather than just treating symptoms. By asking "why" multiple times, you
-  can uncover deeper insights and gain a better understanding of the factors at
-  play. Additionally, using the Five Whys encourages a culture of continuous
-  improvement and problem-solving within an organization.
+  なぜなぜ分析（5 Whys）テクニックは、問題の根本原因を特定するための非常に有用なツールとなります。チームが迅速かつ効率的に問題の本質に迫り、単に症状を治療するのではなく、根本的な原因に対処する、より効果的な解決策を導き出すのに役立ちます。「なぜ？」を何度も問うことで、より深い洞察が得られ、問題の要因をより深く理解することができます。さらに、なぜなぜ分析（5 Whys）を活用することで、組織内の継続的な改善と問題解決の文化が促進されることが期待できます。
 
 
-  Here's an example problem: the car won't start.
+  例：車のエンジンがかからない。
 
 
-  1. *Why?* – The car battery is dead.
+  1. *Why?* – 車のバッテリーが動作しない。
 
-  2. *Why?* – The car alternator isn't working.
+  2. *Why?* – 車のオルタネーター（発電機）が作動していない。
 
-  3. *Why?* – The alternator belt broke.
+  3. *Why?* – オルタネーターベルトが切れた。
 
-  4. *Why?* – The alternator belt was old and worn out.
+  4. *Why?* – オルタネーターのベルトが古くなってすり減っていた。
 
-  5. *Why?* – The car wasn't maintained as recommended. (This is the real cause.)
-
-
-  You can ask "why" up to five times (or more) to find the real reason for a problem. It's important to avoid guessing and follow the cause-and-effect chain to the root cause. In this example, the fifth "why" shows a problem with a process or behavior that needs to be fixed.
+  5. *Why?* – 車が推奨通りに整備されていなかった。(これが本当の原因）。
 
 
-  The five-whys approach is about finding the root cause of a problem. It's important to look for a process that's not working well or not there at all. Sometimes people will say the problem is not enough time, money, or resources. But we can't control those things. So, we should ask why the process failed instead of just asking why.
+  問題の本当の原因を見つけるために、「なぜ」を最大5回（あるいはそれ以上）問うことができます。推測を避け、原因と結果の連鎖をたどって根本原因を突き止めることが重要になります。この例では、5回目の「なぜ？」は、修正すべきプロセスや行動に問題があることを示しています。
+
+
+  なぜなぜ分析(5 Whys)のアプローチは、問題の根本原因を見つけることです。うまく機能していない、あるいはまったく機能していないプロセスを探すことが重要になります。ときどき人は、時間やお金、リソースが足りないことが問題だと言う場合があります。しかし、私たちはそれらをコントロールすることはできません。だからこそ、ただ原因を問うのではなく、なぜそのプロセスが失敗したのかを問うべきです。
 howTo: >-
-  To use the 5 Whys:
+  使い方:
 
 
-  1. **Get a Team Together:** Get people who know about the problem and someone to keep everyone on track.
+  1. **チームを集める:** 問題について知っている人と、皆をうまくまとめられる人を集めます。
 
-  2. **Figure Out the Problem:** Look at the problem and write it down so everyone can see it.
+  2. **問題点を把握する:** 問題を見て、誰もがわかるように書き出します。
 
-  3. **Ask "Why?" the First Time:** Ask why the problem is happening, but use facts instead of guesses.
+  3. **最初の"なぜ?":** なぜ問題が起きているのかを尋ねるが、推測ではなく事実を用いることを意識します。
 
-  4. **Ask "Why?" Four More Times:** For each answer, ask "why?" four more times, based on the last answer.
+  4. **残り4回の"なぜ?":** その答えに対して、さらに「なぜ？」を尋ね、これを4回繰り返します。
 mediaGallery:
   - link: https://www.kattekrab.net/sites/default/files/styles/large/public/5whys.png
 resources:
