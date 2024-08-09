@@ -1,7 +1,7 @@
 ---
 templateKey: practice-page
-title: Hackathon
-subtitle: A collaborative event; encouraging teams to come together and build solutions
+title: ハッカソン
+subtitle: チームが一丸となって解決策を構築することを目的とした共同イベント
 date: 2022-04-05T12:20:35.361Z
 authors:
   - nick-woods
@@ -10,118 +10,114 @@ tags: null
 mobiusTag: discovery
 icon: /images/problem-3303396_1920.png
 whatIs: >-
-  A hackathon is an event where teams get together for a short period of time to
-  collaborate on a chosen topic. This event gives participants an opportunity
-  away to be creative in an open collaborative environment, working rapidly with
-  others towards a shared common goal. 
+  ハッカソンとは、チームが短期間集まり、選ばれたトピックについて共同作業を行うイベントです。このイベントは、参加者にオープンな共同作業環境の中で創造性を発揮する機会を与え、共通の目標に向かって他の参加者と迅速に作業を行います。
 
 
-  Hackathons give participants the opportunity to explore, discover and tackle problems that perhaps usually the team would not have the time or resources to look into. This event can be thought of as the start of a journey in tackling those problems, supporting honest and open conversations. 
+  ハッカソンは参加者に、普段はチームが調べる時間もリソースもないような問題を探求し、発見し、取り組む機会を与えます。このイベントは、正直でオープンな会話をサポートし、それらの問題に取り組むジャーニーの始まりとなります。
 
 
-  “Hackathon is a word creation of the words hack(-ing) and marathon. In this context, hacking stands for the development of software- or hardware-solution and the marathon describes the format, which is a 1–3 days lasting event.” (Schälchli)
+  「ハッカソンとは、ハック(-ing)とマラソンを組み合わせた造語である。この文脈では、ハッキングはソフトウェアやハードウェア・ソリューションの開発を意味し、マラソンは1〜3日間続くイベントの形式を表している。」 (Schälchli)
 whyDo: >-
-  * Harnesses creative problem solving 
+  * 創造的な問題解決
 
-  * Unmatched knowledge gain over a short period of time
+  * 短期間で比類ないナレッジを得る
 
-  * Gives the foundations to creating an open working environment 
+  * オープンな職場環境を作るための基礎を与える 
 
-  * Provides a space for participants to explore interests 
+  * 参加者が興味を探求する場を提供
 
-  * Creates an environment for exploration and discovery
+  * 探求と発見のための環境づくり
 
-  * An engaging way of working
+  * 魅力的な働き方
 
-  * Can involve a wide audience 
+  * 幅広い観客を巻き込むことができる 
 
 
-  If your team enjoys collaborative working sessions, mobbing on challenges; hackathons could be a great approach of working together and unlocking synergy across teams.
+  もしあなたのチームが共同作業セッションを楽しんだり、課題に取り組んだりするのであれば、ハッカソンは一緒に仕事をし、チーム間のシナジーを引き出す素晴らしいアプローチとなるでしょう。
 howTo: >-
-  Below, a suggested Miro template can be found which utilises various other
-  practices that can be found in the Open Practice Library. 
+  以下は、Open Practice Libraryにある他の様々なプラクティスを利用した、Miroのテンプレート案です。
 
 
-  ## Suggested Agenda
+  ## 推奨アジェンダ
 
-   Below you can find a suggested agenda for a one day hackathon.
+   以下は、1日ハッカソンのアジェンダ例です。
 
-  **Previous Day:**  
-
-
-  1. Team Building Social - quiz or similar activity
+  **前日:**  
 
 
-  **Hack Day:**
+  1. チームビルディング交流会 - クイズまたは同様のアクティビティ
 
 
-  1. Energiser 
-
-  2. Brief
-
-  3. Lean Coffee
-
-  4. Pairing & Mobbing Setup
-
-  5. LUNCH BREAK
-
-  6. Working Session One
-
-  7. BREAK
-
-  8. Working Session Two
-
-  9. Presentations
-
-  10. What's Next
+  **当日:**
 
 
-  ## Suggested Practices
+  1. チェックイン（Energiser） 
+
+  2. 概要（Brief）
+
+  3. リーンコーヒー
+
+  4. ペア＆モブのセットアップ
+
+  5. 昼休憩
+
+  6. ワーキングセッション１
+
+  7. 休憩
+
+  8. ワーキングセッション２
+
+  9. プレゼンテーション
+
+  10. ネクストクション
 
 
-  Below you can find the suggested practices and tools to take advantage of during a Hackathon.
+  ## 推奨プラクティス
 
 
-  * [Agile Agenda ](https://openpracticelibrary.com/practice/agile-agenda/)
-
-  * [Car Park](https://openpracticelibrary.com/practice/parking-lot-car-park/)
-
-  * [Mood Marbles ](https://openpracticelibrary.com/practice/mood-marbles/)
-
-  * [Real Time Retrospective ](https://openpracticelibrary.com/practice/realtime-retrospective/)
-
-  * Back / On Break
-
-  * Energisers
-
-  * [Check-ins](https://openpracticelibrary.com/practice/check-ins/) 
-
-  * [Lean Coffee ](https://openpracticelibrary.com/practice/lean-coffee/)
+  以下は、ハッカソンで活用すべき推奨プラクティスとツールです。
 
 
-  ## What do I need?
+  * [アジャイル アジェンダ](https://openpracticelibrary-ja.netlify.app/practice/agile-agenda/)
+
+  * [Parking Lot (アイデアの駐車場)](https://openpracticelibrary-ja.netlify.app/practice/parking-lot-car-park/)
+
+  * [ムードマーブルズ](https://openpracticelibrary-ja.netlify.app/practice/mood-marbles/)
+
+  * [リアルタイムレトロスペクティブ](https://openpracticelibrary-ja.netlify.app/practice/realtime-retrospective/)
+
+  * 復帰／休養中
+
+  * エナジャイザー
+
+  * [チェック・イン](https://openpracticelibrary-ja.netlify.app/practice/check-ins/) 
+
+  * [リーンコーヒー](https://openpracticelibrary-ja.netlify.app/practice/lean-coffee/)
 
 
-  * A Facilitator
-
-  * Participants 
-
-  * Miro (or similar) for virtual environments 
-
-  * In person environment:
-
-    * Writing utensils for all participants (markers are easier to read from a distance)
-    * Sticky notes (any medium size)
-    * Time keeping device
-    * Wall surface or table
-
-  ## How to use it?
+  ## 何が必要?
 
 
-  One of the key suggested elements to a hackathon event is the Lean Coffee. This practice enables participants create, plan, and prepare the topics in an open environment. Additionally, within the Lean Coffee, ways of working is highlighted and results in participants grouped together in pairs or mobs working towards a shared common goal.
+  * ファシリテーター
+
+  * 参加者 
+
+  * バーチャル環境のために、Miro (もしくは同様ツール)  
+
+  * オンサイト環境:
+
+    * 参加者全員分の筆記用具（遠くからでもマーカーがあると見やすい）
+    * 付箋紙（中サイズ）
+    * 時間を管理できるもの
+    * 壁面またはテーブル
+
+  ## どう使うか?
 
 
-  The other practices that have been included in the suggested agenda work as great complimentary pieces to the overall search for team discovery. The Miro template demonstrates how each practice works together to build an engaging team event.
+  ハッカソンイベントに提案される重要な要素のひとつに、リーンコーヒーがあります。このプラクティスにより、参加者はオープンな環境でトピックを作成、計画、準備することができます。さらに、リーンコーヒーでは、仕事の進め方が強調され、参加者がペアやモブでグループ化され、共通の目標に向かって働くことになります。
+
+
+  提案されたアジェンダに含まれている他のプラクティスは、チームのための全体的な探求を補完する素晴らしい部分として機能します。Miroのテンプレートは、魅力的なチームイベントを構築するために、各プラクティスがどのように連動するかを示しています。
 mediaGallery:
   - link: https://www.youtube.com/watch?v=LlqqM1a1GQI
   - link: https://i.pinimg.com/originals/3c/a7/cd/3ca7cd5c60f428d2993940cf9506748d.png
