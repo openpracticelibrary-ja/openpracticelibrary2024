@@ -1,8 +1,7 @@
 ---
 templateKey: practice-page
-title: Mission Statements
-subtitle: Capture and define an inspirational purpose of an organization as the
-  starting point of a strategy development process
+title: ミッションステートメント
+subtitle: 開発プロセスの最初のタスクとして組織のゴールを定義する
 date: 2023-06-27T16:21:36.150Z
 authors:
   - geoffprobst
@@ -10,74 +9,68 @@ tags:
   - validate
 mobiusTag: discovery
 icon: /images/graphic-for-opl-mission-statement.png
-whatIs: A mission statement is the starting point of crafting a strategy for any
-  type of organization, entity. It should briefly (typically one or two
-  sentences) define why an organization exists, and be an inspirational, clear
-  statement that explains and drives the organization to an overall strategic
-  destination.
+whatIs: ミッションステートメントは、組織の戦略策の出発点です。
+  組織が存在する理由を簡潔に（通常は1〜2文で）定義します。
+  組織が掲げるゴールへ導く明確なステートメントであるべきです。
 whyDo: >-
-  A Mission statement defines the fundamental purpose of an organization, entity
-  or engagement. It should inform everyone from executives to employees about
-  the overall goal they have come together to realize as a team. It can also be
-  used as a starting point for a large undertaking within a group.
-
-
-  A solid mission statement serves as the ultimate alignment tool for what an organization is trying to accomplish.
+  ミッションステートメントは、組織の基本的な目的を定義したものです。
+  経営者から従業員まで、チームとして実現するために集まった全員に、全体の目標を伝えることは重要です。
+  明確なミッションステートメントは、組織が達成しようとしていることに対する最終的な整合性確認のツールとして機能します。
 howTo: >-
-  The Mission Statement can be created from a client meeting, series of
-  interviews, standalone facilitated practice or as part of a workshop. The goal
-  of this process is to identify the overarching reason why the organization,
-  entity or engagement exists today. 
+  ミッションステートメントの作成は、クライアントミーティング、インタビュー、実践的な活動、ワークショップの一部の時間を使って行います。
 
 
-  **Interviews**
+  **インタビュー**
 
 
-  During interviews with customer sponsors for an engagement or executives of an entity, the interviewer should focus on main concepts in crafting a Mission statement. Those concepts are address via the questions listed below:
+  顧客スポンサーや経営陣へのインタビュー中、インタビュアーはミッションステートメントを作成する際の主要なインプット情報が得られるよう、下記のような質問をします。
 
 
-  1. Why do we exist?
+  1. 私たちはなぜ存在するのか？
 
-  2. Who does the organization/engagement serve?
+  2. 組織は誰を支えているのか？
 
-  3. Why does the organization/engagement care?
-
-
-  Make sure the interviewer asks the same questions to get consistent results. Varying the questions makes it difficult to find patterns in the results. Consistency is key.
+  3. なぜ組織は関心を持つのか？
 
 
-  From each of the interviews, the information should be aggregated and synthesized into one or two sentences to be reviewed with sponsors or executives. Depending on the number of sponsors or executives, the review could be handled via email or a short meeting. If there are several participants, a workshop approach is most likely a better option. Results from an interview process with multiple interviewees can be used as the initial draft(s) of the mission statement.
+  インタビュアーは同じ質問をして同じ結果が得られることを確認してください。
+  質問を変えると、結果にパターンを見つけるのが難しくなります。一貫性が重要です。
 
 
+  各インタビューから得られた情報を集約し、1〜2文に要約しましょう。
+  スポンサーや経営陣の人数に応じて、要約結果のレビューはメールや短いミーティングで行うことができます。
+  参加者が多数いる場合、ワークショップ形式で意見の集約を行うのも良いでしょう。
+  複数のインタビュイーからのインタビュー結果は、ミッションステートメントの最初の草案として使用できます。
 
 
-  **Practice/Workshop**
+  **実践/ワークショップ**
 
 
-  A﻿ mission practice or workshop follows a similar approach to the interviews. All of the main concept questions are addressed as a group. There are a couple of ways to approach this workshop.
+  実践やワークショップは、インタビューに似たアプローチをとります。
+  このワークショップに取り組むためのいくつかの方法があります。
 
 
-  This approach is good for a small number of executives/leaders.
+  下記は少人数の経営者/リーダーとのワークショップに適しています。
 
 
-  1. (30 min) Using silent collaboration, ask the attendees each of the key questions. Give 10 minutes for individuals to write down their answers and post all answers for each question in place where everyone can view them
+  1. (30分) サイレントコラボレーションを使用して、参加者に下記の質問を投げかけます。個々の回答を記入するために10分間を与え、それぞれの質問に対する全回答をすべての人が見られる場所に掲示します。
+     * 「私たちはなぜ存在するのか？」（10分）
+     * 「組織は誰を支えているのか？」（10分）
+     * 「なぜ組織は関心を持つのか？」（10分）
 
-     * Ask: “Why do we exist?” (10 min)
-     * Ask: “Who does the organization/engagement serve?” (10 min)
-     * Ask: “Why does the organization/engagement care?” (10 min)
-  2. (15 min) Have each individual craft their own personal mission statement based on all the information shared by all team members.  Once again, remind everyone that the statement must be inspirational and concise (1-2 sentences).
+  2. (15分) 各個人が全チームメンバーが共有した情報に基づいて自分の個人的なミッションステートメントを作成します。ステートメントはインスピレーションを与え、かつ簡潔（1〜2文）であることの必要性を全員に伝えます。
 
-  3. (30 min) Go around the group and have every individual share their statement.  Note which phrases are compelling or invoke emotion.
+  3. (30分) グループ内を回り、各個人が自分のステートメントを共有します。感情を呼び起こすような表現に注意を払います。
 
-  4. (20-40 min) Keep reviewing and iterating until the group reaches a consensus.
+  4. (20〜40分) グループが合意に達するまで、レビューと反復を続けます。
 
-  5. (10 min) Once the final mission statement is agreed to, try asking these questions as a litmus test:
+  5. (10分) 最終的なミッションステートメントが合意されたら、下記の観点から検証してみましょう。
 
-     * D﻿oes the final mission statement invoke emotion?
-     * W﻿ould you wear the mission statement on a t-shirt?
-     * W﻿ould your associates / staff wear the mission statement on a t-shirt?
+     * 最終的なミッションステートメントは感情を呼び起こすか？
+     * そのミッションステートメントをTシャツに印刷したいと思うか？
+     * あなたの同僚/スタッフはそのミッションステートメントをTシャツに印刷して着たいと思うか？
 
-     H﻿int: Review the video at the bottom of this practice for additional tips on mission statements.
+     ヒント：ミッションステートメントに関する追加のヒントについては、この実践の下部にあるビデオを確認してください。
 mediaGallery:
   - link: https://www.youtube.com/watch?app=desktop&v=zoFKzLf6qSU
 resources:
