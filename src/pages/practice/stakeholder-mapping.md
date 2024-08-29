@@ -1,7 +1,7 @@
 ---
 templateKey: practice-page
-title: Stakeholder Mapping (Mobius Outcome Delivery)
-subtitle: Who is impacted and has a stake in the game?
+title: ステークホルダマッピング (Mobius Outcome Delivery)
+subtitle: プロジェクトに影響があるのは誰で、どんな利害関係を持っているのか？
 date: 2023-09-12T04:57:25.849Z
 authors:
   - gotost-rh
@@ -10,39 +10,38 @@ tags:
   - value
 mobiusTag: discovery
 icon: /images/stakeholdermapping.png
-whatIs: S﻿takeholder Mapping is an exercise to identify who is impacted and has
-  a stake in the business. We use a set of concentric circles to identify the
-  most important stakeholder, followed by additional stakeholder with less
-  influence as we move outward.
+whatIs:
+  ステークホルダーマッピングは、誰がビジネスに影響を受け、影響を与え、どのような利害関係を持っているかを明確化するための作業です。
+  同心円を使って、最も重要なステークホルダーを特定し、次に影響力が低くなるステークホルダーを外側に向かって順に配置していきます。
 whyDo: >-
-  S﻿takeholder Mapping helps us identify the following.
+  ステークホルダーマッピングは、次のことを明確化するのに役立ちます。
 
 
-  * T﻿he most important stakeholder, who might be the end user of the product or someone we are targeting when thinking about our product design.
+  * 最も重要なステークホルダーを明確にします。これには、製品のエンドユーザーや、製品設計を考える際にターゲットとする人物が含まれます。
 
-  * Secondary stakeholders that the end user would interact with directly, such as a sales person, agency, or call center. 
+  * エンドユーザーと直接関わる二次的なステークホルダーを特定します。例えば、営業担当者、代理店、またはコールセンターのスタッフなどです。
 
-  * Other stakeholders that the secondary stakeholders interact with, such as a loan officer, actuary, or other internal decision maker.
+  * 二次的なステークホルダーと関わる他のステークホルダーを特定します。例えば、ローンオフィサー、アクチュアリー、または内部の意思決定者などです。
 
-  * B﻿y identifying these stakeholders and determining the links in the interactions, we can narrow down which user experience we want to target for our product.
+  * これらのステークホルダーを特定し、相互作用のつながりを明確にすることで、製品においてどのユーザー体験に焦点を当てるかを絞り込むことができます。
 howTo: >-
-  * P﻿repare a diagram with three concentric circles. Label the innermost circle
-  "Primary Stakeholder," then "Secondary Stakeholder" for the next circle, then
-  "Other Stakeholders" for the outermost circle. 
+  * 三つの同心円を描いた図を準備します。最も内側の円には「主要ステークホルダー」、次の円には「二次的ステークホルダー」、最も外側の円には「その他のステークホルダー」とラベルを付けます。
 
-  * Place one box in the innermost circle and identify one Primary Stakeholder. This may be the end user of the product or someone we are targeting directly. Be sure to narrow down this person as much as possible. We don't want generic phrases like "customer" or "user."
+  * 最も内側の円に1つのボックスを配置し、1人の主要ステークホルダーを明確化します。ここには通常、製品のエンドユーザーや、直接ターゲットとする人物を置きます。この人物をできるだけ具体的に絞り込んでください。「顧客」や「ユーザー」といった一般的な表現は避けましょう。
 
-  * M﻿ove to the next concentric circle and think about the Secondary Stakeholders. Who does the Primary Stakeholder interact with when using our product or working with our business? This could be a salesperson, online chat representative, or and agent, for example. Draw lines from the Primary Stakeholder to the Secondary Stakeholders to show that there is a direct interaction.
+  * 次の同心円に移動し、二次的なステークホルダーを考えます。主要ステークホルダーが製品を使用する際やビジネスと関わる際に、誰と接触するかを考えます。例えば、営業担当者、オンラインチャットの担当者、または代理店などが考えられます。主要ステークホルダーから二次的ステークホルダーへの直接の関わりを示すために、線を引きます。
 
-  * M﻿ove to the outermost circle and think about the Other Stakeholders. Who do the Secondary Stakeholders interact with? This could be a loan officer, actuary, or internal decision maker, for example. Draw lines from the Secondary Stakeholders to Other Stakeholders to show the interactions.
+  * 最も外側の円に移動し、その他のステークホルダーを考えます。二次的ステークホルダーが関わる人物や部門を考えます。例えば、ローンオフィサー、アクチュアリー、または内部の意思決定者などが考えられます。二次的ステークホルダーからその他のステークホルダーへの関わりを示すために、線を引きます。
 
-  * L﻿ook at the connections and identify which interaction you would like to focus on in your product design. There might be a connection from the end user to call center, then to an actuary. The product could focus on how to make this experience smooth and faultless. Once you decide on which interaction you want to focus on, draw a circle around that interaction.
+  * 関係性を見て、製品設計においてどの相互作用に焦点を当てたいかを明確化します。例えば、エンドユーザーからコールセンター、さらにアクチュアリーへの関係があるかもしれません。この体験をどのようにスムーズで欠陥のないものにするかを製品設計の焦点とすることができます。どの相互作用に焦点を当てるかを決めたら、その相互作用の周りに円を描いてください。
 
-    * W﻿e do not necessarily need a full connection from the Primary Stakeholder out to Other Stakeholders before moving on to design the experience. We could focus only on the Primary Stakeholder, the Primary Stakeholder to Secondary Stakeholder, or even Secondary Stakeholder to Other Stakeholder. The idea is to narrow down which stakeholders and interactions we are thinking of when designing the user experience. 
-    * N﻿ote that if you decide to not include the Primary Stakeholder in your experience, it may be a sign that you need to re-think who your Primary Stakeholder really is. 
-  * O﻿nce you complete the Stakeholder Mapping, hang it in a place where the team, department, business unit, or organization can see it at all times. This is not a static document. It's a status board that shows the current state, and it needs to be updated regularly.
+    * 主要ステークホルダーからその他のステークホルダーへの関係性を描く前に、体験設計を進める必要はありません。主要ステークホルダー、主要ステークホルダーから二次的ステークホルダー、または二次的ステークホルダーからその他のステークホルダーへの相互作用にのみ焦点を当てることもできます。ユーザー体験を設計する際に、どのステークホルダーと相互作用を考慮しているかを明確化することが目的です。
 
-  * T﻿he next step is to create Motivation Maps for each of the stakeholders identified to be in the interactions that you want to explore.
+    * 主要ステークホルダーを体験設計に含めないことを決定した場合、それは主要ステークホルダーが本当に誰であるかを再考する必要があるかもしれません。
+
+  * ステークホルダーマッピングが完了したら、チーム、部門、ビジネスユニット、または組織全体が常に見られる場所に掲示します。これは一度作れば完成というものではありません。現在の状態を示すステータスボードであり、定期的に更新する必要があります。
+
+  * 次のステップは、明確化したステークホルダーのそれぞれについて、探索したい相互作用に基づいてモチベーションマップを作成することです。
 mediaGallery:
   - link: https://raw.githubusercontent.com/openpracticelibrary/openpracticelibrary/2f4b056af5f03f4e1146ae29900d300dd6fcdf55/static/images/stakeholdermapping.png
   - link: https://github.com/openpracticelibrary/openpracticelibrary/blob/cms/practice/stakeholder-mapping/static/images/stakeholdermapexample.png?raw=true
