@@ -1,8 +1,7 @@
 ---
 templateKey: practice-page
-title: Independent Service Heuristics (ISH)
-subtitle: Sparking collaborative conversations to identify software boundaries
-  that facilitate fast flow.
+title: インディペンデント・サービス・ヒューリスティック (ISH)
+subtitle: 高速フローを実現できるソフトウェアの境界を特定するために、コラボレーションを促進させる
 date: 2023-10-23T22:55:43.067Z
 authors:
   - matthewskelton
@@ -11,95 +10,90 @@ authors:
 mobiusTag: discovery
 icon: /images/opl-tt-ish2.png
 whatIs: >-
-  Independent Service Heuristics (ISH) is a set of questions teams can use to
-  find where to set team and software boundaries that will enable Fast Flow of
-  value. T﻿his technique was invented by the authors of *Team Topologies*,
-  Matthew Skelton and Manuel Pais, and subsequently refined by other members of
-  the wider Domain Driven Design community.
+  インディペンデント・サービス・ヒューリスティック（ISH）とは、価値の高速フローを可能にするチームとソフトウェアの境界をどこに設定すべきかを見つけるために、チームが使用できる一連の質問セットでです。このテクニックは、*Team Topologies*の著者であるMatthew SkeltonとManuel Paisによって考案され、その後、より広いドメイン駆動設計コミュニティの他のメンバーによって改良されました。
+  
 
-
-  You'll find more information via the [Independent Service Heuristics GitHub Repository](https://github.com/TeamTopologies/Independent-Service-Heuristics) which is openly provided via the CC BY-SA license.
+  より詳細な情報は、[Independent Service Heuristics GitHub Repository](https://github.com/TeamTopologies/Independent-Service-Heuristics)をご覧ください。
 whyDo: >-
-  ***C﻿hoosing an area of focus***
+  ***フォーカスエリアの選択***
 
 
-  T﻿his practice helps teams to get started and avoid analysis paralysis by using a series of questions to help identify where to focus attention, or quickly decide an area of focus is not suitable for further discovery after all.
+  このプラクティスは、一連の質問を使って、どこに注目すべきかを特定したり、注目すべき領域が結局さらなる発見に適していないと素早く判断したりすることで、チームが分析麻痺を回避するのに役立てることができます。
 
 
-  > "When designing organizations for fast flow of change, we need to find effective boundaries between different streams of change… The ISH approach covers many typical situations in modern software but not all. It's designed to stimulate conversation and provide a frame for thinking, not as a perfect "catch-all" tool."
+  > 「変化の流れが速い組織を設計する際には、さまざまな変化の流れの間に効果的な境界線を見つける必要がある...ISHのアプローチは、現代のソフトウェアにおける典型的な状況の多くをカバーしているが、すべてではない。ISHは、会話を刺激し、思考のフレームを提供するために設計されており、完璧な”キャッチオール”ツールではない。」
 
 
-  I﻿SH is a good way to enable people with a range of skills and backgrounds to have meaningful conversations, and create alignment across organisational boundaries.
+  ISHは、さまざまなスキルや経歴を持つ人々が有意義な会話を交わし、組織の垣根を越えた連携を生み出す良い方法となります。
 howTo: >-
-  S﻿tart by asking “Could this thing be run as a cloud-hosted (SaaS) service or
-  product?”
+  まず、こう問いかけます。「これはクラウドホスティング（SaaS）のサービスや製品として運営できるか？」
 
 
-  * A﻿sk the team to think about, and write down aspects of the business, relevant tasks, software applications, and customer journeys which could become an independent domain, service, or value stream.
+  * チームに、独立したドメイン、サービス、バリューストリームになりうるビジネスの側面、関連タスク、ソフトウェアアプリケーション、カスタマージャーニーについて考え、書き出してもらう。
 
-  * Remove duplicates and cluster similar ideas.
+  * 重複を取り除き、似たようなアイデアをまとめる。
 
-  * Use this checklist to confirm, or discard areas of focus.
+  * このチェックリストを使って、重点的に取り組むべき分野を確認したり、取捨選択したりする。
 
 
-  1. **Sense-check**: \
-     Could it make any logical sense to offer this thing "as a service"?
+  1. **センス・チェック**: \
+     これを 「サービスとして 」提供することに論理的な意味があるのだろうか？
 
-     * Is this thing independent enough?
-     * Would consumers understand or value it?
-     * Would it simplify execution?
-  2. **Brand**: \
-     Could you imagine this thing branded as a public cloud service (like *AvocadoOnline.com* 🥑)?
+     * 独立性は十分か？
+     * 消費者はそれを理解し、評価するだろうか？
+     * 実行を単純化できるか？
+  2. **ブランド**: \
+     これがパブリッククラウドサービス（*AvocadoOnline.com* 🥑のような）としてブランディングされることを想像できるか？
 
-     * Would it be a viable business (or "micro-business") or service?
-     * Would it be a compelling offering?
-     * Could a marketing campaign be convincing?
-  3. **Revenue/Customers**: \
-     Could this thing be managed as a viable cloud service in terms of revenue and customers?
+     * それはビジネス（あるいは 「マイクロビジネス」）やサービスとして成り立つだろうか？
+     * それは魅力的な提案だろうか？
+     * マーケティング・キャンペーンに説得力があるだろうか？
+  3. **収益/顧客数**: \
+     これは、収益や顧客数という点で、クラウドサービスとして成り立つのだろうか？
 
-     * Would it be viable service with a paid offering?
-     * Would it bring recurring revenue with subscription plans?
-     * Is there a clearly-defined customer base or segment?
-  4. **Cost tracking**: \
-     Could the organisation currently track costs and investment in this thing separately from similar things?
+     * 有料のサービスでも成り立つのか？
+     * サブスクリプション・プランで定期的な収益をもたらすか？
+     * 明確に定義された顧客層やセグメントがあるか？
+  4. **コストのトラッキング**: \
+     その組織は現在、この件に関するコストと投資を、類似のものとは別に追跡することができるか？
 
-     * Are the full costs of running this thing transparent or possible to discover considering infrastructure costs, data storage costs, data transfer costs, licence costs, etc.?
-     * Is this thing fairly separate, disconnected from other things in the organisation?
-     * Does the organisation track this separately?
-  5. **Data**: \
-     Is it possible to define clearly the input data (from other sources) that this thing needs?
+     * インフラ費用、データ保管費用、データ転送費用、ライセンス費用などを考慮した場合、これを運営するための全費用は透明化されているのか、あるいは発見することが可能なのか？
+     * これは、組織内の他の事柄から切り離され、独立しているコストか？
+     * 組織は、これを個別に追跡しているか？
+  5. **データ**: \
+     これが必要とする（他のソースからの）入力データを明確に定義することは可能か？
 
-     * Is the thing fairly independent from any data sources?
-     * Are the sources internal (under our control, not external)?
-     * Is the input data clean (not messy)?
-     * Is the input data provided in a self-service way? Can the team consume the input data "as a service"?
-  6. **User Personas**: \
-     Could this thing have a small/well-defined set of user types or customers (user personas)?
+     * どのようなデータソースからも完全に独立しているのか？
+     * データソースは内部的なものか（外部ではなく、われわれの管理下にあるか）。
+     * 入力データはクリーン（乱雑でない）か？
+     * 入力データはセルフサービス方式で提供されるのか？チームは入力データを「サービスとして」利用できるか？
+  6. **ユーザー・ペルソナ**: \
+     ユーザータイプや顧客（ユーザーペルソナ）が小さく、適切に定義されているか？
 
-     * Is the thing meeting specific user needs?
-     * Do we know (or can we easily articulate) these user types and their needs?
-  7. **Teams**: \
-     Could a team or set of teams effectively build and operate a service based on this thing?
+     * 特定のユーザーのニーズに応えているか？
+     * 我々はこれらのユーザータイプとそのニーズを知っているのか（あるいは簡単に明確にできるのか）？
+  7. **チーム**: \
+     チームやチームのセットが、これをベースにしたサービスを効果的に構築し、運営できるだろうか？
 
-     * Would the cognitive load (breadth of topics/context switching) be bounded to help the team focus and succeed?
-     * Would significant infrastructure or other platform abstractions be unnecessary?
-  8. **Dependencies**: \
-     Would this team be able to act independently of other teams for the majority of the time to achieve their objectives?
+     * 認知的負荷（トピックの広さ／コンテクストの切り替え）は、チームが集中し成功するために制限されるだろうか？
+     * 重要なインフラやその他のプラットフォームの抽象化は不要だろうか？
+  8. **依存関係**: \
+     このチームは目的を達成するために、大半の時間、他のチームから独立して行動できるだろうか？
 
-     * Is this thing logically independent from other things?
-     * Could the team "self-serve" dependencies in a non-blocking manner from a platform?
-  9. **Impact/Value**: \
-     Would the scope of this thing provide a team with an impactful and engaging challenge?
+     * このことは他のことから論理的に独立しているのか？
+     * チームは、プラットフォームから非同期で依存関係を「セルフサービス」できるか？
+  9. **インパクト/価値**: \
+     その範囲は、チームにインパクトのある魅力的な課題を与えるだろうか？
 
-     * Is the scope big enough to provide an impact? Would the scope be engaging for talented people?
-     * Is there sufficient value to customers and the organization that the value would be clearly recognized?
-  10. **Product Decisions**: \
-      Would the team working on this thing be able to "own" their own product roadmap and the product direction?
+     * その範囲はインパクトを与えるのに十分な大きさか？その範囲は有能な人材にとって魅力的か？
+     * 顧客や組織にとって、その価値が明確に認識されるだけの十分な価値があるか？
+  10. **プロダクトの決定**: \
+      このことに取り組んでいるチームは、自分たちの製品ロードマップや製品の方向性を 「自分のもの 」にできるだろうか？
 
-      * Does this thing provide discrete value in a well-defined sphere of execution?
-      * Can the team define their own roadmap based on what they discover is best for the product and its users (so that the team is not driven by the requirements and priorities of other teams)?
+      * これは、明確に定義された実行領域において、個別の価値を提供するものなのか？
+      * チームが他のチームの要求や優先順位に振り回されることなく、製品やユーザーにとって何がベストなのかを発見し、それに基づいて独自のロードマップを定義できるか。
 
-  Answer these questions for each of the candidate streams you have identified. The more 'yes' or 'maybe' answers a possible stream has, the greater the chance that you have found a good candidate for being a separate stream of change.
+  特定した候補の流れそれぞれについて、これらの質問に答えてください。ある可能性のある流れについて、「はい」または「たぶん」という答えが多ければ多いほど、別の変化の流れとしてふさわしい候補が見つかった可能性が高くなります。
 mediaGallery:
   - link: https://www.youtube.com/watch?v=q8hwkDyL6Zs
 resources:
