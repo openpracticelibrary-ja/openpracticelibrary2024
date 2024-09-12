@@ -1,154 +1,147 @@
 ---
 templateKey: practice-page
-title: Measuring Psychological Safety
-subtitle: How to measure the Psychological Safety in teams and organisations
+title: 心理的安全性の測定
+subtitle: チームや組織でどのように心理的安全性を測定するか
 date: 2022-08-12T07:35:04.275Z
 authors:
   - tom-geraghty
 mobiusTag: foundation
 icon: /images/stagedive.jpg
 whatIs: >-
-  **Psychological safety is the most important factor in high performing
-  teams.**
+  **心理的安全性は、高いパフォーマンスを発揮するチームにとって最も重要な要素です。**
 
 
-  This practice will help you measure the degree of psychological safety in a team, and which aspects of psychological safety are strongest and weakest in the team, which provides you with the ability to identify opportunities for improvement.
+  このプラクティスによって、チームの心理的安全性の程度を測定し、心理的安全性のどの側面が最も強く、どの側面が最も弱いかを測定することができます。
 
 
-  Regularly measuring psychological safety will provide a barometer for the psychological health of the team, and in itself raise psychological safety by facilitating explicit discussion about safety and culture. In the early stages of a team (for instance, in the "Forming" or "Storming" Tuckman stages), it may be useful to carry this exercise out as regularly as once every 1-2 weeks. In more mature team stages, once every 2-3 months may be more appropriate.
+  心理的安全性を定期的に測定することで、チームの心理的健全性のバロメーターとなり、それが安全性と文化に関する明確な議論を促進することで心理的安全性を高めることになります。チームの初期段階（たとえば、タックマンモデルの「フォーミング：形成期」や「ストーミング：混乱期」の段階）では、このエクササイズを1～2週間に1回程度、定期的に実施することが有効です。より成熟したチームの段階では、2～3ヶ月に1回がより適切です。
 
 
-  Note: Be very, very careful and intentional when carrying out this practice. If this is done poorly, not followed up, timed badly, or used as a tool to incentivise, compare, or punish team members or managers, it will be destructive rather than constructive.
-whyDo: Before embarking on a journey to build a high performing team through
-  psychological safety, it’s important to understand where the team are now. By
-  measuring the degree of psychological safety felt by team members, we can more
-  intelligently utilise and adopt behaviours and practices that improve
-  psychological safety in different ways.
+  Note: このプラクティスを行う際には、細心の注意を払い、意図的に行うこと。やり方がまずかったり、フォローアップがなかったり、タイミングが悪かったり、チームメンバーやマネジャーにインセンティブを与えたり、比較したり、罰したりする道具として使われたりすると、建設的どころか破壊的なものになります。
+whyDo: 心理的安全性によって高いパフォーマンスを発揮するチームを作るジャーニーへ出る前に、チームの現状を理解することが重要です。チームメンバーが感じている心理的安全性の程度を測定することで、心理的安全性を向上させる行動や実践を、さまざまな方法でより賢く活用し、採用することができます。
 howTo: >-
-  Create a survey, using Google Forms, Microsoft Forms, Typeform, Survey Monkey,
-  or whichever tool suits best, containing the following statements.
+  Google Forms、Microsoft Forms、Typeform、Survey Monkey、もしくはその他最適なツールを使って、次のような内容のアンケートを作成します。
 
 
-  1. **On this team, I understand what is expected of me.**
+  1. **このチームでは、自分に何が求められているか理解している。**
 
-  2. **We value outcomes more than outputs or inputs, and nobody needs to “look busy”.**
+  2. **私たちはアウトプットやインプットよりもアウトカムを重視し、誰も"忙しそうに見せる"必要はない。**
 
-  3. **If I make a mistake on this team, it is never held against me.**
+  3. **このチームで私がミスを犯したとしても、決して恨まれることはない。**
 
-  4. **When something goes wrong, we work as a team to find the systemic cause.**
+  4. **何か問題が発生した場合、私たちはチーム一丸となってシステム的な原因を突き止めことができる。**
 
-  5. **All members of this team feel able to bring up problems and tough issues.**
+  5. **このチームのメンバー全員が、問題や困難な問題を提起できると感じている。**
 
-  6. **Members of this team never reject others for being different and nobody is left out.**
+  6. **このチームのメンバーは、他人と違うことを理由に拒絶することはなく、誰も仲間外れにされることはない。**
 
-  7. **It is safe for me to take a risk on this team.**
+  7. **このチームでリスクを取るのは安全だ。**
 
-  8. **It is easy for me to ask other members of this team for help.**
+  8. **このチームの他のメンバーに助けを求めるのは簡単だ。**
 
-  9. **Nobody on this team would deliberately act in a way that undermines my efforts.**
+  9. **このチームの誰も、私の努力を損なうような行動を意図的にとることはない。**
 
-  10. **My unique skills and talents are valued and utilised in my work as part of this team.**
+  10. **私のユニークなスキルや才能は評価され、チームの一員として仕事に活かされている。**
 
 
-  Ask your team to score agreement with each statement on a 5 point Likert scale similar to the below:
+  各ステートメントに対する同意を、以下のような5段階のリッカート尺度で採点してもらいます：
 
 
-  **1: Strongly disagree**
+  **1: 強く反対**
 
 
-  **2: Disagree**
+  **2: 反対**
 
 
-  **3: Neither agree nor disagree**
+  **3: 賛成でも反対でもない**
 
 
-  **4: Agree**
+  **4: 賛成**
 
 
-  **5: Strongly agree**
+  **5: 強く賛成**
 
 
-  Be conscious of the native language of team members. It may be beneficial to translate these statements into native languages in order to obtain the truest responses.
+  チームメンバーの母国語を意識する。真実の回答を得るためには、これらの文を母国語に翻訳することが有益な場合があります。
 
 
-  Ensure that responses *can* be anonymous (though they do not *need* to be). This will help team members feel confident being honest.
+  回答は匿名でもよい（匿名は必須ではない）。そうすることで、チームメンバーは自信を持って正直に答えることができます。
 
 
-  At the end of the survey, add a question which invites some qualitative feedback, such as “Please add any comments you would like to share to elaborate on or explain your responses. This will help identify ways to improve as a team.”
+  アンケートの最後に、次のような定性的なフィードバックを求める質問を追加します。「回答を詳しく説明するために、共有したいコメントがあればご記入ください。これは、チームとして改善する方法を特定するのに役立ちます。」
 
 
-  **From the results of the survey, identify the statements with the lowest average scores.**
+  **アンケートの結果から、平均点が最も低かった記述を特定します。**
 
 
-  Make a note also of statements with a *high variance*. This indicates that there is disagreement in the team about that aspect of psychological safety.
+  *バラツキ*が大きい記述もメモしておきます。これは、心理的安全性のその側面について、チーム内で意見の相違があることを示しています。
 
 
-  Use the context below to steer behaviours and actions to increase psychological safety on the team via open leadership and modern practices, before repeating the survey.
+  調査を繰り返す前に、オープンなリーダーシップとモダンなプラクティスを通じて、チームの心理的安全性を高めるためのアクションや振る舞いへ導くために、以下を理解します。
 
 
-  ## Context and Rationale for the Statements
+  ## アンケートの質問にある背景や根拠
 
 
-  **1 - On this team, I understand what is expected of me.**
+  **1 - このチームでは、自分に何が求められているか理解している。**
 
 
-  If team members don’t know what is expected of them, they are likely to feel less confident and comfortable in their work, and misunderstandings will be common. This includes expectations about both delivery (speed, quality, cost etc.) and behaviour (everything from dress code and punctuality to coding standards).
+  チームメンバーが自分に何が期待されているかを知らなければ、自分の仕事に自信と快適さを感じられず、誤解が生じやすくなります。これには、納期（スピード、品質、コストなど）と行動（服装や時間厳守からコーディング標準まで）の両方に関する期待も含まれます。
 
 
-  **2 - We value outcomes more than outputs or inputs, and nobody needs to “look busy”.**
+  **2 - 私たちはアウトプットやインプットよりもアウトカムを重視し、誰も"忙しそうに見せる"必要はない。**
 
 
-  Outcomes, such as revenue generated or satisfied customers, matter more than outputs, such as emails sent, lines of code written or meetings attended. When team members feel safe to focus on what matters to the business, they will make decisions that improve outcomes, even if those decisions reduce output and thus make them appear less busy.
+  売上高や顧客の満足度といった成果は、メールの送信数やコードの記述行数、ミーティングの出席数といったアウトプットよりも重要です。チームメンバーがビジネスにとって重要なことに安心して集中できるようになれば、たとえアウトプットが減って忙しなく見えたとしても、成果を向上させる意思決定をするようになります。
 
 
-  **3 - If I make a mistake on this team, it is never held against me.**
+  **3 - このチームで私がミスを犯したとしても、決して恨まれることはない。**
 
 
-  A psychologically safe team will never blame a member of the team for a mistake if their intentions were good. Indeed, by enabling mistakes to be made without a fear of blame, you enable innovation and risk taking that can drive your organisation ahead of the competition.
+  心理的に安全なチームは、チームのメンバーの意図が善意であったとしても、ミスを責めることは決してありません。実際、非難を恐れずにミスができるようにすることで、イノベーションとリスクテイクが可能になり、組織を競合他社より優位に立たせることができます。
 
 
-  **4 - When something goes wrong, we work as a team to find the systemic cause.**
+  **4 - 何か問題が発生した場合、私たちはチーム一丸となってシステム的な原因を突き止める。**
 
 
-  This one is related to the previous point but important enough to warrant its own question. If **blameless** retrospectives or Root Cause Analyses are used effectively to find the root causes of mistakes and failures, not only do team members feel safer, but every single “failure” offers an opportunity for shared learning and improvement. Incidents become a gift, not a threat.
+  これは前のポイントと関連しているが、独自の質問を保証することが重要になります。もし、ミスや失敗の根本原因を見つけるために、**責任のない**レトロスペクティブや根本原因分析が効果的に使用されれば、チームメンバーはより安全に感じられるだけでなく、すべての「失敗」は、共有された学習と改善の機会を提供するものとして認識できるようになります。インシデントは脅威ではなく、贈り物となります。
 
 
-  **5 - All members of this team feel able to bring up problems and tough issues.**
+  **5 - このチームのメンバー全員が、問題や困難な問題を提起できると感じている。**
 
 
-  In a psychologically safe team, all members of the team are able to raise difficult issues, ranging from personal struggles to concerns about other members of the team. This is crucial for ensuring the team is a space where members can be vulnerable enough to share when they need help, and courageous enough to have challenging conversations.
+   心理的に安全なチームでは、チームのメンバー全員が、個人的な苦悩から他のメンバーに関する懸念に至るまで、難しい問題を提起することができます。これは、チームのメンバーが、助けが必要なときに分かち合えるほど傷つきやすく、困難な会話をするのに十分な勇気を持てる空間であることを保証するために極めて重要です。
 
 
-  **6 - Members of this team never reject others for being different and nobody is left out.**
+  **6 - このチームのメンバーは、他人と違うことを理由に拒絶することはなく、誰も仲間外れにされることはない。**
 
 
-  Evidence shows that diversity in a team results in higher quality products and happier team members (See: [McKinsey: Why Diversity Matters](https://www.mckinsey.com/business-functions/organization/our-insights/why-diversity-matters)), but diversity in itself is not enough; it is crucial that all team members feel they belong. A sense of belonging can facilitate high performance because it means every member of the team feels included in the decisions made and invested in the outcomes generated. This is particularly crucial for remote and distributed teams, where it is more difficult to see if a team member is disengaged.
+  チーム内の多様性が、より質の高い製品を生み出し、チームメンバーの幸福度を高めるという証拠があります(参考: [McKinsey: Why Diversity Matters](https://www.mckinsey.com/business-functions/organization/our-insights/why-diversity-matters))、しかし、多様性だけでは十分ではなく、チームメンバー全員が自分の居場所を感じていることが重要です。帰属意識は、チームのメンバー全員が意思決定に参加し、生み出される成果に投資していると感じることを意味するため、高いパフォーマンスを促進することができます。このことは、チームメンバーがやる気を失っているかどうかを確認することが難しい、遠隔地や分散したチームでは特に重要となります。
 
 
-  **7 - It is safe for me to take a risk on this team.**
+  **7 - このチームでリスクを取るのは安全だ。**
 
 
-  Mistakes happen unintentionally, but risks are about knowingly taking actions that might not work, or may have unintended consequences. Some risk taking is essential for innovation and progress. Psychological safety provides the framework for positive, measured risk-taking, enabling innovation and competitive advantage.
+  ミスは意図せずに起こるものだが、リスクとは、うまくいかないかもしれない、あるいは意図しない結果を招くかもしれないことを承知の上で行動を起こすことです。イノベーションと進歩のためには、ある程度のリスクテイクは不可欠です。心理的安全性は、前向きで慎重なリスクテイクの枠組みを提供し、イノベーションと競争上の優位性を可能にします。
 
 
-  **8 - It is easy for me to ask other members of this team for help.**
+  **8 - このチームの他のメンバーに助けを求めるのは簡単だ。**
 
 
-  In psychologically unsafe teams, team members try to hide their perceived weaknesses or vulnerabilities, which prevents them from asking for help. If they can’t access the help they need, the performance of both that individual and therefore the whole team will be impacted. This is a key factor in why safe teams achieve better results than unsafe teams.
+  心理的に安全でないチームでは、チームメンバーは自分の弱点や弱みを隠そうとするため、助けを求めることができません。必要な助けを得られないと、その個人、ひいてはチーム全体のパフォーマンスに影響が出ます。これが、安全なチームが安全でないチームよりも良い結果を出す重要な要因となります。
 
 
-  **9 - Nobody on this team would deliberately act in a way that undermines my efforts.**
+  **9 - このチームの誰も、私の努力を損なうような行動を意図的にとることはない。**
 
 
-  In an unsafe team, members compete with each other to achieve their individual goals, and may even undermine other team members if they believe that may boost their own results or elevate their “rank” within the team or organisation. In a psychologically safe team, that counter-productive competition doesn’t exist, and the success of the team is more important than looking good in the eyes of others.
+  安全でないチームでは、メンバーは個人目標を達成するために互いに競い合い、自分の成果を上げたり、チームや組織内での「地位」を高めたりするために、他のメンバーを陥れることさえあります。心理的に安全なチームでは、そのような逆効果の競争は存在せず、チームの成功は、他人からよく見られることよりも重要です。
 
 
-  **10 - My unique skills and talents are valued and utilised in my work as part of this team.**
+  **10 - 私のユニークなスキルや才能は評価され、チームの一員として仕事に生かされている。**
 
 
-  We all bring our unique experiences, skills and knowledge to the teams that we’re in, but may not always feel safe to share these. Psychologically safe teams ensure that members are valued for being their true selves, and therefore provide space for each individual to maximise their potential from and share their unique skills and talents. If we do not utilise all the talents of the individuals on our teams, we are missing out on valuable opportunities for delivery and innovation.
+  私たちは皆、自分のユニークな経験やスキル、知識をチームにもたらしていますが、必ずしもそれを安心して共有できるとは限りません。心理的に安全なチームでは、メンバーがありのままの自分でいることが評価されるため、一人ひとりが自分の可能性を最大限に引き出し、ユニークなスキルや才能を共有できる場が提供されます。チーム内の個人の才能をすべて活かさなければ、成果やイノベーションの貴重な機会を逃してしまうことになります。
 mediaGallery:
-  - link: https://media.licdn.com/dms/image/C5612AQFKHiOOro58zg/article-inline_image-shrink_1000_1488/0/1624388484078?e=1686182400&v=beta&t=ZsgxBvr2iPIxwu64Jgl_jInQBjVOHZKt5esZYhxXhR0
   - link: https://www.youtube.com/watch?v=U_35pAviSnI
 resources:
   - link: https://rework.withgoogle.com/print/guides/5721312655835136/
