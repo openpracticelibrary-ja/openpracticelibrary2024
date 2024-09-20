@@ -10,7 +10,7 @@ authors:
 mobiusTag: discovery
 icon: /images/opl-tt-ish2.png
 whatIs: >-
-  インディペンデント・サービス・ヒューリスティック（ISH）とは、価値の高速フローを可能にするチームとソフトウェアの境界をどこに設定すべきかを見つけるために、チームが使用できる一連の質問セットでです。このテクニックは、*Team Topologies*の著者であるMatthew SkeltonとManuel Paisによって考案され、その後、より広いドメイン駆動設計コミュニティの他のメンバーによって改良されました。
+  インディペンデント・サービス・ヒューリスティック（ISH）とは、価値の高速フローを可能にするチームとソフトウェアの境界をどこに設定すべきかを見つけるために、チームが使用できる一連の質問セットです。このテクニックは、*Team Topologies*の著者であるMatthew SkeltonとManuel Paisによって考案され、その後、より広いドメイン駆動設計コミュニティの他のメンバーによって改良されました。
   
 
   より詳細な情報は、[Independent Service Heuristics GitHub Repository](https://github.com/TeamTopologies/Independent-Service-Heuristics)をご覧ください。
