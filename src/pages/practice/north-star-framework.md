@@ -1,7 +1,7 @@
 ---
 templateKey: practice-page
-title: North Star Framework
-subtitle: Helps achieve alignment on the 'why' and overall purpose.
+title: ノーススターフレームワーク
+subtitle: チームの活動の理由と目的を合致させる
 date: 2022-12-31T13:51:19.781Z
 authors:
   - tdbeattie
@@ -11,141 +11,142 @@ tags:
 mobiusTag: discovery
 icon: /images/northstar-dcp8.2.png
 whatIs: >-
-  Creating a shared purpose for a product can be achieved by setting a North
-  Star. The North Star Framework is a model for managing products by identifying
-  a single, crucial metric known as the North Star Metric. According to Sean
-  Ellis, who coined this term, this is the single metric that best captures the
-  core value that your product delivers to customers. 
+  ノーススター（北極星）とは、航海における目印のたとえであり、このプラクティスではプロダクトやチームの共有目的（ノーススター）を設定します。
+  ノーススターフレームワークは、ノーススターメトリクスと呼ばれる単一の重要な指標を特定することでプロダクトを管理するモデルです。
+  この用語を作ったショーン・エリスによれば、プロダクトが顧客に提供する核心的な価値を最もよく捉える単一の指標です。
 
-
-  The framework is equally useful for decisions related to the product as well as to operational aspects of the organization aligned to the product, e.g. Support, Customer Success, Product Marketing. The alternatives for a decision are evaluated against the potential impact on the metric.
+  
+  このフレームワークは、プロダクトに関連する意思決定だけでなく、サポート、カスタマーサクセス、プロダクトマーケティングなど、プロダクトに連動した組織の運用面にも同様に有用です。意思決定の選択肢は、その指標への潜在的な影響に基づいて評価されます。
 whyDo: >-
-  T﻿he North Star Framework is the perfect tool for translating strategy into
-  concrete product and organizational decisions with clear and measurable way to
-  evaluate their effectiveness towards achieving the strategy. 
+  ノーススターフレームワークは、戦略を具体的なプロダクトや組織の意思決定に翻訳し、その効果を戦略達成に向けて明確かつ測定可能な方法で評価するのに最適なツールです。
 
+  
+  ディスカバリーフェーズ中にノーススタープラクティスを使用することで、チームを正しい方向に導き、メンバー全員とステークホルダーとの整合性を実現できます。
+  また、ノーススターなしで進めていた場合でも、コース修正や再調整を図るのに役立ちます。
+  ノーススターの情報を壁に掲示し、チームメンバーや関心のあるステークホルダーの目に見えるようにすることで、焦点を維持し、チームをその方向に導くことができます。
 
-  Using the North Star practice during a discovery loop can help set teams off in the right direction and achieve alignment between all its members and its stakeholders. It can also help teams achieve course correction or re-alignment if they've been running without a North Star. Having a North Star's information radiated on the wall and clearly in view of team members and interested stakeholders can help maintain focus on it and steer the team toward it.
+  
+  [Amplitude](https://amplitude.com/north-star) は、ノーススターフレームワークに関する優れたプレイブックを無料で公開しているデジタルアナリティクス企業です。
+  その内容は、「ノーススターフレームワークとは何か」、「なぜ使うのか」、「どのように使うのか」を解説しています。（以下の「私たちが愛するリンク」をご覧ください）
 
+  
+  彼らはノーススターメトリクスについて、以下の7つのチェックポイントを挙げています：
 
-  [Amplitude](https://amplitude.com/north-star) is a digital analytics company that has freely released an excellent playbook regarding the North Star Framework – what it is, why you might use it, and how to use it.  (check the links we love below)
+  
+  1. **価値を表現する**：顧客にとってなぜ重要かが反映されている
 
+  2. **ビジョンと戦略を表す**：会社のプロダクトとビジネス戦略が反映されている
 
-  It lists the following seven checklist points about what a North Star Metric is:
+  3. **成功の先行指標である**：過去の結果ではなく、将来の結果を予測する
 
+  4. **行動可能である**：影響を与えるための行動を起こせる
 
-  1. It expresses value. We can see why it matters to customers reflected in it
+  5. **理解しやすい**：非技術的なパートナーでも理解できる平易な言葉で表現されている
 
-  2. It represents vision and strategy. Our company's product and business strategy are
+  6. **測定可能である**：プロダクトを計測して追跡できる
 
-  3. It's a leading indicator of success. It predicts future results, rather than reflecting past results.
+  7. **虚栄的な指標ではない**：変化があれば、その変化が意味と価値を持つと自信を持てる。チームの自己満足に過ぎず、長期的な成功を予測しないものではない
 
-  4. It's actionable. We can take action to influence it.
-
-  5. It's understandable. It's framed in plain language that non-technical partners can understand.
-
-  6. It's measurable. We can instrument our products to track it.
-
-  7. It's not a vanity metric. When it changes, we can be confident that the change is meaningful and valuable, rather than being something that doesn't actually predict long-term success, even if it makes the team feel good about itself.
 howTo: >-
-  A team using the North Star Framework identifies a single, meaningful metric
-  and a handful of contributing inputs. Product teams work to influence those
-  inputs, which, in turn, drive the metric. The North Star is a leading
-  indicator of sustainable growth and acts as connective tissue between the
-  product and the broader business.
+  ノーススターフレームワークを使用するチームは、単一の有意義な指標といくつかの関連する入力要素を特定します。
+  プロダクトチームはこれらの入力要素に影響を与えることで、その結果、指標を向上させます。ノーススターは持続的な成長の先行指標であり、プロダクトとビジネス全体をつなぐ役割を果たします。
 
+  
+  ノーススターを見つけるために、Amplitudeのプレイブックで提供されているようなシンプルなキャンバスを使用します：
 
-  To help find a North Star, we make use of a simple canvas, such as the one provided in Amplitude's playbook:
+  
+  ![ノーススターメトリクスを見つけるためのキャンバス](/images/north-star-canvas.png "Amplitudeのノーススタープレイブック")
 
+  
+  ノーススターフレームワークに不慣れなチームや組織では、ワーキングフレームワークを構築するために、以下のトピックを検討すると良いでしょう：
 
-  ![Canvas used to help find a north star metric](/images/north-star-canvas.png " North Star playbook from Amplitude")
+  
+  * 戦略と成功のための主要な指標を理解する
 
+  * 顧客の旅路と、価値創造・価値実現の重要な瞬間やイベントを理解する
 
-  Y﻿ou may want to consider several different topics in teams/organizations not experienced with the North Star Framework as a journey to get to a working framework:
+  * 会話率などの指標を分析し、主要なイベントや瞬間の先行指標を特定する（つまり、ノーススターメトリクスを特定する）
 
+  * その指標をすべての取り組み、主要なプロダクト機能、OKRなどに評価・リンクさせ、ノーススターフレームワークを構築する
 
-  * Understand strategy and key metrics of success
+  
+  選択したノーススターメトリクスが前述のリストすべてを満たしていない場合、ビジネスに限定的な影響しか与えず、貴重な時間や努力、資源を浪費するリスクが高まります。
+  良好な結果を得るためには、全体の社会技術システムを継続的に評価することが不可欠です。
 
-  * U﻿nderstand the customer journey and key moments and events of value creation and value realization
+  
+  ### 必要なメンバー
 
-  * A﻿nalyze metrics, incl. metrics of conversation to identify the leading indicators for the key events and moments, i.e. identify your North Star metric
+  
+  決まりはありませんが、このプラクティスは組織全体を戦略に合わせるため、さまざまな視点が必要です。
+  最低限、以下のロールの方を含めると良いでしょう：
 
-  * B﻿uild the North Star Framework by evaluating and linking the metric to all initiatives, major product features in the backlog, OKRs, etc.
+  
+  * プロダクト責任者／部長
 
+  * プロダクトマネージャー
 
-  I﻿f the chosen North Star metric doesn't check all of the boxes in the list mentioned earlier, you face a serious risk of wasting precious time, efforts and materials with limited impact on your business. A continuous evaluation of the whole sociotechnical system is essential for good results. 
+  * プロダクトチーム
 
+  * 営業部長
 
-  ### Who do you need
+  * プロダクトマーケティング
 
+  * カスタマーサクセス
 
-  T﻿here isn't a predefined list of people, yet do consider that this practice aligns the whole organization to the strategy. As such you need multiple different perspectives to be represented, which we attempt to achieve by the following minimum roles listed:
+  * サポート
 
+  
+  ### 推奨の所要時間
 
-  * C﻿hief/Head of product
+  
+  必要なだけ（ただし60〜120分に時間制限）
 
-  * P﻿roduct manager/s
+  
+  経験豊富なチームとファシリテーターであれば、120分ですべてを完了できます。
+  フレームワークを完成させる前に主要なトピックでの合意を得るため、いくつかのワークショップが必要かもしれません。
 
-  * T﻿he product team/s
+  
+  ### ファシリテーションに必要なもの
 
-  * H﻿ead of sales
+  
+  ホワイトボード、付箋紙。
 
-  * P﻿roduct marketing
+  
+  データ。とにかくデータが必要です。
 
-  * C﻿ustomer success
+  
+  ### リモートセッションのヒント
 
-  * S﻿upport
+  
+  バーチャルホワイトボードを使用します。高度なバーチャルホワイトボードが効果的です。Miroはおすすめのツールの１つです。
 
+  
+  ### 関連するプラクティス
 
-  ### Suggested Time
+  
+  ノーススターフレームワークは、ディスカバリー段階の多くのプラクティスとよく統合されます：
 
+  
+  * インパクトマッピング
 
-  As long as it takes, but time-boxed (60-120 minutes)
+  * サービスブループリント
 
+  * ジャーニーマップ
 
-  W﻿ith experienced teams and facilitators, it can be all done in 120 minutes. Others may need a few workshops to gain alignment on key topics before completing the framework
+  * OKR
 
+  
+  意思決定を評価する主要な方法として、ノーススターはオプションのピボット段階のプラクティスとも効果的に統合できます：
 
-  ### Facilitation Materials Needed
+  
+  * デザインスプリント
 
+  * 優先順位マトリックス
 
-  A whiteboard and plenty of post-it notes.
+  * バリュースライシング
 
+  * バックログリファインメント
 
-  D﻿ata, data, data - all of it in context of the user journey.
-
-
-  ### Tips for remote sessions
-
-
-  U﻿se a virtual whiteboard. More sophisticated virtual whiteboards work better. We love Miro.com
-
-
-  ### Related Practices
-
-
-  T﻿he North Star framework integrates really well with many practices in the Discovery part of the loop:
-
-
-  * Impact mapping
-
-  * Service blueprint
-
-  * Journey maps
-
-  * O﻿KRs
-
-
-  A﻿s key way to evaluate decisions, the North Star can be a great tool for integrating with practices in the Options pivot:
-
-
-  * D﻿esign Sprint
-
-  * P﻿rioritization matrices 
-
-  * V﻿alue Slicing
-
-  * B﻿acklog Refinement
 mediaGallery:
   - link: https://amplitudecom.wpenginepowered.com/wp-content/uploads/north_star_worksheet_-_spotify_-_shadow-1-1024x798.png
   - link: https://amplitudecom.wpenginepowered.com/wp-content/uploads/north-star_worksheet-1-1024x797.jpg
