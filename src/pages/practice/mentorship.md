@@ -1,7 +1,7 @@
 ---
 templateKey: practice-page
-title: Mentorship
-subtitle: Resource mentors and mentees with structured mentoring.
+title: メンターシップ
+subtitle: メンターとメンティーに体系的なメンタリングを提供。
 date: 2022-09-20T01:17:03.717Z
 authors:
   - john-remoteaf
@@ -11,218 +11,199 @@ tags:
 mobiusTag: foundation
 icon: /images/mentorship-kick-off-open-pattern-mentorship-agreement.jpg
 whatIs: >-
-  Mentorship as a general practice is one of the oldest forms of spreading
-  knowledge between people. In this version of the practice we leverage the use
-  of visual boards to provide clarity and alignment to the mentor and the
-  mentee. This practice is intended to be leveraged on an as needed basis, it’s
-  expected that for each mentorship there may be elements of the practice that
-  are less relevant. It is worth noting that mentorships may be completely
-  informal, this practice is designed to support mentorships that would benefit
-  from lightweight structure.
+  一般的なプラクティスとしてのメンターシップは、人々の間に知識を広める最も古い形態のひとつです。このプラクティスのバージョンでは、メンターとメンティーに分かりやすさと整合性を提供するために、ビジュアルボードを活用します。このプラクティスは、必要なときに活用されることを意図しており、メンターシップごとに関連性の低い要素となる場合もあります。 メンターシップは完全に非公式なものである可能性があり、このプラクティスは、軽量な構造から恩恵を受けるであろうメンターシップをサポートするように設計されていることに着目してください。
 
 
-  This framing of Mentorship has been developed based of research and co-designed by the remote:af community. A video of the event has been provided below.
+  このメンターシップのフレーミングは、リサーチに基づいて開発され、remote:afコミュニティによって共同デザインされました。イベントのビデオを以下に掲載します。
 
 
-  E﻿xample images of the Mentorship pattern in use have been provided in the share link with the templates.
-whyDo: Mentorship can provide organisations with reinforced channels of
-  information outside of hierarchy and providing ongoing learning and
-  development between people. As a learning and development practice,
-  mentorships are effective in providing nuanced career growth for the mentor
-  and the mentee.
+  メンターシップ・パターンの使用例画像は、テンプレートとの共有リンクで提供されています。
+whyDo: メンターシップは、組織のヒエラルキーにとらわれない情報チャネルを強化し、継続的な学習と能力開発を提供することができます。学習と能力開発のプラクティスとして、メンターシップは、メンターとメンティーにキャリアの成長をもたらす効果があります。
 howTo: >-
-  Mentorships can often be non-linear, over the course of a given mentorship you
-  may find the roles between mentor and mentee shift and change. To support a
-  wider range of contexts the practice has been segmented into three domains;
+  メンターシップはしばしば非線形であることがあり、メンターシップの過程で、メンターとメンティーの役割が変化することがあります。より幅広い文脈をサポートするために、プラクティスは3つの領域に区分されています；
 
 
-  * Alignment – between the Mentor and Mentee
+  * 調整（Alignment） – メンターとメンティーの間での調整
 
-  * Sessions – that facilitate growth and learning
+  * セッション（Sessions） – 成長と学習を促進するもの
 
-  * Reflection – on the mentorship and how it’s evolved
+  * 反応（Reflection） – メンターシップとその進化
 
 
-  Examples of each section completed is provided in the images section.
+  各セクションの完成例は画像セクションに掲載されています。
 
 
-  ## A﻿lignment
+  ## 調整（Alignment）
 
 
-  ### S﻿tory.Me Cards
+  ### Story.Meカード
 
 
-  Rapport is the cornerstone of relationships between people. The Story.Me Cards are a light exercise that encourages self-disclosures within boundaries to help people get to know each other better. This practice focuses specifically on the mentorship itself, if you don’t use Story.Me Cards as a rapport building exercise then it’s highly recommended to allow space for the mentor and mentee get to know each other. A link to the Story.Me Cards available on the Miroverse is listed below the practice.
+  ラポールとは人と人との関係の基礎となるものです。Story.Meカードは、境界線の中で自己開示を促し、お互いをよりよく知るための簡単なプラクティスです。このプラクティスは、特にメンターシップそのものに焦点を当てています。もしあなたがラポール構築の練習としてStory.Meカードを使わないのであれば、メンターとメンティーがお互いを知るためのスペースを確保することを強くお勧めします。Miroverseで入手可能なStory.Meカードへのリンクは、下に記載されています。
 
 
-  Recommend in section timebox: 10 minutes
+  推奨のセッション時間: 10 分
 
 
 
 
-  ### Mentor/ Mentee Context
+  ### メンター/ メンティーのコンテキスト
 
 
-  The first activity in this practice is allowing space for the Mentor and the Mentee to explore what they hope to achieve from the mentorship. This activity combined with the Story.Me Cards can useful preparation work for the first mentoring session
+  このプラクティスの最初のアクティビティは、メンターとメンティーがメンターシップから何を達成したいかを探求する場を設けることです。このアクティビティとStory.Meカードを組み合わせることで、最初のメンタリングセッションの準備ワークとして役立ちます。
 
 
 
 
-  #### M﻿otivations
+  #### モチベーション
 
 
-  The six questions in this section are posed to encourage reflection for the Mentor/Mentee. 
+  このセクションの6つの質問は、メンター／メンティーの考察を促すために提示されています。
 
 
-  1. What about your history is important to you?
+  1. あなたにとって重要な歴史は何ですか？
 
-  2. What is the most rewarding work you’ve done?
+  2. 最もやりがいを感じた仕事は何ですか？
 
-  3. What have you found exciting in the past year?
+  3. この1年でエキサイティングだったことは何ですか？
 
-  4. What do you hope to focus on in the future?
+  4. 今後は何に力を入れていきたいですか？
 
-  5. What will you find rewarding about your focus?
+  5. あなたは何にやりがいを感じますか？
 
-  6. What about your focus is going to be exciting?
+  6. あなたにとって何に集中することがエキサイティングですか？
 
 
-  Capture at least one answer to each question in the spaces provided on the card.
+  各質問に対する少なくとも1つの答えを、カードの空欄に記入します。
 
 
-  #### P﻿otential Goals
+  #### 潜在的ゴール
 
 
-  Reflect on your motivations and brainstorm some potential goals you’d like to achieve through this mentorship. Look for themes in your answers from the motivations section to get inspiration. It’s helpful to be ambitious here, since the Mentor/Mentee will agree on goals in the Mentorship Agreement.
+  あなたのモチベーションを振り返り、このメンターシップを通じて達成したい潜在的な目標をいくつかブレインストーミングしてください。モチベーションのセクションの回答からテーマを探し、インスピレーションを得ましょう。メンターとメンティーは、メンターシップ合意書の中で目標について合意することになるので、ここで向上心を持つことは有効です。
 
 
-  #### B﻿oundaries
+  #### 境界
 
 
-  An effective mentorship needs boundaries to maintain focus. This will also help the mentor and the mentee explore any conflicts in expectations at the start of the mentorship. Capture in the boundaries section any topics or concerns you have with the mentorship. It’s important to include considerations about confidentiality, limitations on personal inquiry and methods for sharing feedback.
+  効果的なメンターシップには、集中力を維持するための境界線が必要です。これはまた、メンターシップの開始時に、メンターとメンティーが期待することの矛盾を探るのにも役立ちます。境界線セクションには、メンターシップに関するトピックや懸念事項を記入してください。守秘義務、個人的な質問に対する制限、フィードバックの共有方法などについての配慮を含めることが重要です。
 
 
 
 
-  ### M﻿entorship Agreement
+  ### メンターシップ合意書
 
 
-  In this space we bring the contexts of the Mentor and Mentee together to agree on the rules of engagement, goals and rhythm of the mentorship. It is useful for the mentor and mentee to present their respective contexts to introduce this activity.
+  このスペースでは、メンターとメンティーのコンテクストを合わせて、メンターシップのルール、ゴール、リズムについて合意します。この活動を紹介するために、メンターとメンティーがそれぞれのコンテキストを発表することが有効です。
 
 
 
-  Recommend in session timebox: 30 minutes 
+  推奨のセッション時間:  30 分 
 
 
 
 
-  #### Our Boundaries
+  #### 私たちの境界
 
 
-  Discuss and agree on the boundaries important to both the mentor and the mentee. Create a shared view of what topics are out scope for the mentorship. Mitigate and conflicts between the boundaries of the mentor and mentee through compromise. If any conflicts aren’t reconcilable, shift to an open discussion around if this mentorship should continue.
+  メンターとメンティーの双方にとって重要な境界線について話し合い、合意します。どのようなトピックがメンターシップの範囲外であるかについて、共通の見解を作ります。歩み寄りによって、メンターとメンティーの境界線間の対立を緩和します。対立が調整できない場合は、このメンターシップを継続すべきかどうかについてのオープンな話し合いに移行します。
 
 
-  Note: there is a section regarding confidentiality in ‘agreed behaviours’
+  Note: 「合意された振る舞い」には、守秘義務に関する項目があります。
 
 
 
+  #### 成果/アウトカム
 
-  #### Outcomes
 
+  メンターシップの目標を立て、それに同意します。理想的には、メンターとメンティーが一つの目標を共有し、焦点を合わせることです。複数の目標を書く場合は、メンターとメンティーの潜在的な目標またはモチベーションのいずれかに関連していることを確認します。
 
-  Generate and agree on the goals of this mentorship. Ideally the mentor and mentee will share a single goal to provide focus, which can be updated later if needed. When writing multiple goals, ensure they relate to either the potential goals or motivations of both the mentor and the mentee.
 
 
 
+  #### 期間・間隔
 
-  #### Cadence
 
+  質問に対して適切な内容を把握します。混乱を避けるため、必要に応じて詳細を追加することを検討します。
 
-  Capture relevant in response to the questions. Consider adding additional details as needed to avoid confusion.
 
+  * メンターシップはいつ終わるのですか？
 
-  * When will the mentorship end? 
+  * どのくらいの頻度で会うのですか？
 
-  * How often will we meet? 
+  * 連絡を取り合うためにどんなツールを使うのか？
 
-  * What tools will we use to stay in touch?
 
 
 
+  #### 合意された振る舞い
 
-  #### Agreed behaviours
 
+   メンターシップにおいて示されることが期待される振る舞いを把握します。通常、メンターとメンティーの両者は、合意された振る舞いを維持する責任を等しく負うべきです。
 
-  Capture the behaviours expected to be demonstrated in the mentorship. Typically both the mentor and the mentee should be equally accountable for maintaining the agreed behaviours.
 
+  * 物事が難しくなったとき、私たちはどのようにコミュニケーションをとるのか？(対立を乗り越えるために）
 
-  * How will we communicate when things get difficult? (to help navigate conflict)
+  * 私たちは何を期待し合えるのか？(標準的な行動に対する期待）
 
-  * What can we count on each other for? (expectations for standard behaviour)
+  * 守秘義務の対象は？(守秘義務の具体性）
 
-  * What doe we need to keep confidential? (specificity regarding confidentiality)
 
 
 
+  ## セッション（Sessions）
 
-  ### Sessions
 
+  ### メンターシップのタイムライン
 
-  #### Mentorship Timeline
 
+  このタイムラインは、振り返りと継続的な学習をサポートするために、共に過ごす時間を共有する空間を提供するために存在します。感謝、学び、リソースの3つのセクションがあります。メンティーもメンターもタイムラインを守るように振る舞います。
 
-  The timeline exists to provide a shared space of your time together to support reflection and continuous learning. There are three sections; appreciations, learnings and resources. Both the mentee and the mentor should aim to contribute to the timeline.
 
+  感謝とは、メンターやメンティーが、メンターシップによって起こった何かに純粋に感謝する瞬間をとらえることです。
 
-  Appreciations is to capture the moments where the mentor or mentee genuinely appreciates something that occurred due to the mentorship. 
 
+  学習とは、メンターシップの結果として学んだことを把握することである。
 
-  Learnings is to capture what has been learned as a result of the mentorship.
 
+  リソースは、メンターシップの過程で議論された書籍、ウェブサイト、その他の推奨資料を記録するためのものです。「開始」と「終了」は、メンターとメンティーがメンターシップ期間中の成長を関連付けるのに役立つように用意されています。
 
-  Resources is to capture books, websites and other suggested material discussed during the course of the mentorship. A ‘Start’ and ‘Finish’ has been provided to help the mentor and mentee correlate their growth the mentorships duration.
 
 
+  ### メンタリング・セッション・カード
 
 
-  A ‘Start’ and ‘Finish’ has been provided to help the mentor and mentee correlate their growth the mentorships duration.
+  セッションカードは必要に応じて複製することを意図しており、比較的シンプルなものです。ワークスペースとアクションの2つのセクションがあります。ワークスペースは、メンターシップ中の会話を助ける視覚的な補助として使うことができます。
 
 
 
 
-  #### Mentoring Session Card
+  ## 反応（Reflection）
 
 
-  The session card is intended to be duplicated as needed and is relatively simple. There are two sections, the workspace and actions. The workspace can be used as a visual aide to assist in conversations during the mentorship and the actions space is reserved for the commitments made during a session.
+  ### メンターシップの振り返り
 
 
+  メンターシップの振り返りは、メンターシップの終結を支援するために考案されたものです。このセッションはシンプルですが、メンターシップの期間やメンターとメンティーの間に築かれた関係によっては、時間がかかることがあります。
 
 
-  ### Reflection
+  #### 成果/アウトカム
 
 
-  #### Mentorship Reflection
+  メンターシップのタイムラインと、メンターシップ契約に盛り込まれた成果を振り返ります。これは、祝福と学んだ教訓を振り返るためのスペースです。
 
 
-  The mentorship reflection is designed to support the closing of a mentorship. While simple, this session may take some time depending on the length of the mentorship and the relationship that has developed between the mentor and mentee.
+  #### ネットワーク
 
 
-  #### Outcomes
+  メンターまたはメンティーをさらに支援できるネットワーク上のつながりについて話し合います。誰が学習や進歩を増幅させることができるかを考慮します。
 
 
-  Reflect on the Mentorship Timeline and the Outcomes captured in the mentorship agreement. This is a space for celebration and reflection on lessons learned.
+  #### 次のステップ
 
 
-  #### Network
+  メンターシップの結果として、メンターとメンティーが次に何をするかについて、メンターとメンティーの意向を把握します。
 
-
-  Discuss any network connections that could provide further support to the mentor or mentee. Consider who could amplify the learning or progress made.
-
-
-  #### Next Steps
-
-
-  Capture the mentor’s and mentee’s intentions for what they will do next as a consequence of the mentorship.
 mediaGallery:
   - link: https://www.youtube.com/watch?v=2OPpJcbUAmw&t
 resources:
