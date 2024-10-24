@@ -1,29 +1,28 @@
 ---
 templateKey: practice-page
-title: Mutation Testing
-subtitle: Mutation testing is used to design new software tests and evaluate the
-  quality of existing software tests.
+title: ミューテーションテスト
+subtitle: ミューテーションテストは、新しいソフトウェアテストを設計し、既存のソフトウェアテストの品質を評価するために使用される。
 date: 2022-07-25T12:46:12.353Z
 authors:
   - sebw
 mobiusTag: foundation
 icon: /images/mutation-testing.png
 whatIs: >-
-  Mutation testing involves modifying a program in small ways.
+  ミューテーションテストでは、単体テストが完了したコードに作為的にバグを仕込みます。
 
 
-  Each mutated version is called a mutant and tests detect and reject mutants by causing the behavior of the original version to differ from the mutant. This is called killing the mutant.
+  バグが注入された各バージョンはミュータントと呼ばれ、テストはオリジナルバージョンの単体テスト結果とミュータントが異なる結果になるかを確認し、網羅性、期待値チェックなどテストの不備を検出、修正します。これをミュータントの破壊（kill）と呼びます。
 whyDo: >-
-  The goals of mutation testing are multiple:
+  ミューテーションテストの目的は複数あります：
 
 
-  * identify weakly tested pieces of code (those for which mutants are not killed)
+  * テストが弱いコード（ミュータントが死滅しないコード）を特定する。
 
-  * identify weak tests (those that never kill mutants)
+  * 弱いテスト（ミュータントを決して殺さないテスト）を特定する。
 
-  * compute the mutation score, the mutation score is the number of mutants killed / total number of mutants.
+  * 変異スコアは、死滅した変異体の数／変異体の総数である。
 
-  * learn about error propagation and state infection in the program
+  * プログラムのエラー伝播と状態感染について学ぶ。
 howTo: |-
   Python
 
