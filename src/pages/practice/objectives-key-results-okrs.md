@@ -1,8 +1,7 @@
 ---
 templateKey: practice-page
-title: Objectives & Key Results (OKRs)
-subtitle: Align people around a shared ambitious goal and then maintain focus
-  through measuring progress regularly
+title: 目標と主要な結果 (OKRs)
+subtitle: 意欲的な目標を共有し、定期的に進捗を測定することで集中力を維持する。
 date: 2023-08-07T14:08:25.440Z
 authors:
   - stellabella2022
@@ -14,119 +13,112 @@ tags:
 mobiusTag: discovery
 icon: /images/okr-triangle-1-.png
 whatIs: >-
-  OKRs are a collaborative goal-setting framework for organisations, teams and
-  individuals to set challenging, ambitious goals with measurable results. 
+  OKRsは、組織、チーム、個人が、測定可能な結果を伴うチャレンジングで野心的な目標を設定するための、コラボレーションによる目標設定フレームワークです。
 
 
-  O﻿KRs have two parts:
+  OKRsは二つのパートがあります:
 
 
-  1. **T﻿he Objective** - The what. The definition of the outcome that you are striving to achieve.
+  1. **目標：The Objective** - 何を。あなたが達成しようとしている結果の定義。
 
-  2. **T﻿he Key Result** - The how. The success criteria used to measure progress towards your outcome.
+  2. **主要な結果：The Key Result** - 方法。成果への進捗を測定するための成功基準。
 whyDo: >-
-  Communication - OKRs connect strategy and execution by enabling the
-  communication of your strategy to every person
+  **コミュニケーション** - OKRは、戦略をすべての人に伝えることを可能にすることで、戦略と実行を結びつけることができます。
 
 
-  **Focus** - Prioritising less, so you make big progress on less things, versus slight progress on lots of things.
+  **フォーカス** - 優先順位付けを減らすことで、少ないことを大きく前進させるのに対して、多くのことを少しずつ前進させる。
 
 
-  **Align** - Have everyone moving in the same direction as a team, aiming for the same Objectives and measureing progress with the same Key Results. They also help teams know what is happening around them (up, down and sideways), so teams can align and collaborate more easily. 
+  **調整** - 全員がチームとして同じ方向に進み、同じ目標を目指し、同じ主要成果で進捗を測定できます。また、チームが自分たちの周囲で起きていること（上下左右）を知ることができるため、チームの連携や協力がより容易になります。
 
 
-  **C﻿ommitment -** When you are part of a team defining the problem you are going to solve, and there is clarity on how success is defined. You have the ingredients for autonomy and empowerment. People will naturally commit.
+  **コミットメント** - 解決しようとする問題を定義するチームの一員である時、成功の定義が明確になります。自律とエンパワーメントのための材料が揃い、人は自然にコミットするようになります。
 
 
-  **Track** - Know how you are doing, so you can change if you need to. This transparency also fosters accountability... there are no locked cupboards or water melon reports
+  **追跡** - 自分がどのように行動しているかを知ることで、必要に応じて変更することができます。このような透明性は、説明責任も育みます...鍵のかかった戸棚やウォーターメロンの報告書は存在しなくなります。
 
 
-  **R﻿esults** - S﻿etting stretch goals and maintaining focus on them, will inspire and motivate people to do great work.  I﻿ndeed, teams that consistently used goal setting frameworks can achieved a 3X increase in productivity in 12 months (Source: Align)
+  **結果** - ストレッチゴールを設定し、それに集中し続けることは、素晴らしい仕事をするよう人々を鼓舞し、やる気を起こさせます。 実際、目標設定のフレームワークを一貫して使用したチームは、12カ月で生産性を3倍向上させることができました（出典：Align）。
 howTo: >-
-  Writing OKRs should be a bottom-up (80%) and top-down (20% process).  So
-  thinking about the top-down, you should definitely make sure you have sight of
-  the draft OKRs at the level above your team so you can align. If it's not
-  clear, then have a chat with someone or ideally get them to present to your
-  team as it's really key that your team all understand what bigger outcomes
-  your team is working towards. 
+  OKRの作成は、ボトムアップ（80％）とトップダウン（20％のプロセス）で進めるべきです。 トップダウンについて、チームより上位レベルでOKRのドラフトを確認し、足並みを絶対にそろえるべきです。もしそれが明確でないなら、チーム全員がチームが目指している大きな成果を理解することが本当に重要なので、誰かと話をするか、理想的はチームにプレゼンをしてもらうことが必要です。
 
 
   ## Step 1
 
 
-  For bottom-up input, have a think about your plans and goals as a team for the year. Ideally, g﻿et all people in the team together on a virtual call or in a room. S﻿tart by restating your mission and vision. (If you don't know this, you need to figure it out first, or get enough clarity that you're all pointing in roughly the same direction!)
+  ボトムアップの意見として、チームとしての今年の計画や目標について考えてみましょう。理想的なのは、チーム全員がバーチャル電話や会議室で一堂に会することです。まず、ミッションとビジョンを再確認することから始めよう。(これがわからない場合は、まずそれを把握するか、全員がほぼ同じ方向を向いていることを十分に明確にする必要があります！)
 
 
-  Think about what you want to acheive as a team in the medium to long term. I recommend using post-its, [1-2-4 ](https://openpracticelibrary.com/practice/1-2-4-all/ "https\://openpracticelibrary.com/practice/1-2-4-all/")to avoid groupthink and [dot voting](https://openpracticelibrary.com/practice/dot-voting/ "https\://openpracticelibrary.com/practice/dot-voting/") to keep momentum forward.  At this stage don't worry about expressing things as objectives, just capture the ideas. 
+  中長期的にチームとして何を達成したいかを考えます。ポストイットを使い、集団思考を避けるために[1-2-4-All](https://openpracticelibrary-ja.netlify.app/practice/1-2-4-all/) 、モメンタムを維持するために[ドット投票](https://openpracticelibrary-ja.netlify.app/practice/dot-voting/)を推奨します。この段階では、目標として物事を表現することを気にせず、ただアイデアとして捉えます。
 
 
   ## Step 2
 
 
-  When you have prioritised to a list of 5-8 ideas. It's worth thinking about blockers for success and just checking that doesn't raise any other key objective areas. Next, you need to identify your top 3-5 ideas. This is prioritisation and I recommend practice like [priority sliders](https://openpracticelibrary.com/practice/priority-sliders/ "https\://openpracticelibrary.com/practice/priority-sliders/") or the [$100 game](https://medium.com/devlix-blog/prioritization-100-dollar-method-and-scale-9c3ccfcfe9f1 "https\://medium.com/devlix-blog/prioritization-100-dollar-method-and-scale-9c3ccfcfe9f1") to do this. 
-
+  5～8個のアイデアのリストに優先順位をつけたら、その中から、成功の阻害要因について考え、他の重要な目標領域が浮かび上がってこないことを確認するだけでも価値があります。次に、トップ3～5のアイデアを特定します。これは優先順位付けであり、これを行うために[プライオリティスライダー](https://openpracticelibrary-ja.netlify.app/practice/priority-sliders/)や[$100 game](https://medium.com/devlix-blog/prioritization-100-dollar-method-and-scale-9c3ccfcfe9f1)のようなプラクティスがおすすめです。
+  
 
   ## Step 3
 
 
 
 
-  F﻿or your top 3-5 "outcomes", i﻿terate on the wording to rephrase these as Objectives. A good Objective should be designed to get people jumping out of bed in the morning with excitement.  It tells everyone, "*what are we aiming to achieve?*"
+  上位3～5の”成果(Outcomes)"については、表現を変えて"目標(Objectives)"と言い換えてください。良い目標は、人々が朝ベッドから飛び起きて興奮するようなデザインであるべきです。*私たちは何を目指しているのか？*
 
 
-  #### **G﻿ood Objectives Guidance**
+  #### **優れた目標のガイダンス**
 
 
-  1. Outcome Focussed - Focus on the destination not how to get there, a task list or a predetermined solution. Leave space for learning, adapting and innovation
+  1. アウトカム重視 - 目的地にフォーカスするのであって、そこに到達する方法やタスクリスト、決められた解決策にフォーカスしていない。また、学習、適応、革新のためのスペースを残している。
 
-  2. Inspiring - Describe an important and/or worthwhile goal that inspires people to act 
+  2. インスピレーション - 人々に行動を促すような、重要かつ／または価値のある目標を説明する。
 
-  3. Ambitious but Achievable - Objectives should be ambitious and challenging but still achievable
+  3. 野心的だが達成可能 - 目標は野心的で挑戦的なものでなければならないが、達成可能なものでなければならない。
 
-  4. Qualitative - Describe the goal or problem. Numbers come later with KRs.
+  4. 定性的 - 目標や問題を記述する。数字はKRsとして後から補足できる。
 
-  5. Time Bound - Set a target date so things don’t drift and you know if you’re on track.
+  5. 時間的制約 - 目標期日を設定することで、物事が流されるのを防ぎ、予定通りに進んでいるかどうかを知ることができる。
 
-  6. Clear and Memorable - Remove the jargon. Expressed so all can understand
+  6. 明確で記憶に残る - 門用語を取り除く。誰もが理解できるように表現する。
 
-  7. Limit to 5 - To enable focus on the highest priorities and keep tracking effort sensible
+  7. 最大5つ - 最優先事項への集中を可能にし、追跡作業が継続可能なもの。
 
-  8. Owned by Team - The team who are part of defining their Objectives will be motivated and take accountability
+  8. チームが所有 - 目標を定義する一員であるチームが、モチベーションを持ち、説明責任を果せるもの。
 
-  9. Support your company mission - It should be clear and understood how Objectives support your organisation’s mission
+  9. 企業のミッションをサポートする - 目的が組織の使命をどのように支えるかを明確にし、理解すること。
 
 
   ## Step 4
 
 
-  For each Objective, brainstorm key results.  Use dot voting and 1-2-4-All practices to iterate to a set of 3-5 Key Results. Key Results take all the inspirational language in your Objective and quantify it. To create, ask: “*How would we know if we met our Objective?*” Generally ideate as a group for KRs, iterate to final wording and numbers solo or in a pair.
+  各目標について、主要な結果をブレインストーミングする。 ドット投票と1-2-4-Allを使い、3～5個の主要な結果を設定します。主要な結果は、目標の中にあるインスピレーションを与える言葉をすべて取り出し、それを数値化したものです。作成するには、次のように問いかけます。通常、KRs（主要な結果）はグループとしてアイデアを出し、最終的な文言や数値は一人または二人一組で繰り返し検討します。
 
 
-  #### G﻿ood Key Results Guidance
+  #### 優れた主要な結果のガイダンス
 
 
-  1. Q﻿uantitative measurement of value - Measure desired outcomes and impact, i.e. results, not tasks completed.  Consider how your stakeholders/customers/users measure success. 
+  1. 価値の定量的測定 - 望ましい成果とインパクト、すなわち完了したタスクではなく結果を測定できること。 ステークホルダー、顧客、ユーザーがどのように成功を測定するかを検討する。
 
-  2. Necessary and Sufficient - Taken together, your KRs should be necessary and sufficient to achieve the related Objective. Mix leading and lagging indicators.
+  2. 必要かつ十分 - KRsは、関連する目標を達成するために必要かつ十分でなければならない。先行指標と遅行指標を混ぜる。
 
-  3. Stretch (within reason) - Each KR should be a challenge but not so difficult that it becomes demotivating. The rule of thumb is that over time, you should average 50-70%.
+  3. ストレッチ（無理のない範囲で）- 毎回のKRsはチャレンジであるべきだが、やる気をなくすほど難しくはない。経験則では、時間をかけて平均50～70％にする。
 
-  4. Specific & Measurable - There should be no room for debate on how to score a KR. This will help surface assumptions and misalignments.
+  4. 具体的かつ測定可能 - KRsのスコアリング方法について議論の余地はないはずだ。そうすることで、思い込みやズレを表面化させることができる。
 
-  5. Limit to 5 - To enable focus on the highest priorities and keep tracking efforts sensible.
+  5. 最大5つ - 最優先事項への集中を可能にし、追跡作業が継続可能なもの。
 
-  6. Owned by team - Teams should define their own Key Results to create a culture and environment where people are empowered to do amazing innovative work.
+  6. チームが所有 - チームは、従業員が素晴らしい革新的な仕事をする権限を与えられるような文化と環境を創造するために、独自の「主要結果」を定義すべきである。
 
-  7. Easily understandable - Remove the jargon and describe your KRs in a way anyone can understand
-
-
-  P﻿S - You can also use AI tools to help you generate ideas for KRs, like [this one](https://www.stellafai.com/product-page/coaching-and-ai).
+  7. 簡単に理解できる - 専門用語を取り除き、誰にでも理解できる方法でKRsを説明する。
 
 
-  Last of all, don't forget to assign owners for all Objectives and Key Results, those responsible for iterating, finalising and writing your OKRs down somewhere where everyone can see them. 
+  PS - また、AIツールを使ってKRのアイデアを生み出すこともできます。, like [this one](https://www.stellafai.com/product-page/coaching-and-ai).
 
 
-  N﻿B - OKRs are simple but hard. Consider getting support from someone in your team with experince or an external expert.
+  最後に、すべての「目標」と「主要な結果」にオーナーを割り当て、OKRsを繰り返し検討後、最終決定し、誰もが見られる場所に書き留める責任を負うことを忘れないでください。
+
+
+  注意 - OKRはシンプルだが難しいです。チーム内の経験者や外部の専門家にサポートしてもらうことを検討しよう。
 mediaGallery:
   - link: https://raw.githubusercontent.com/openpracticelibrary/opl-media/master/images/Stellafai%20KR%20rules.png
 resources:
