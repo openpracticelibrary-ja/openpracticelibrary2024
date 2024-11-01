@@ -1,7 +1,7 @@
 ---
 templateKey: practice-page
-title: Open Leader Persona
-subtitle: " Identify the mindset, challenges, behaviours, and strengths of open leaders"
+title: オープン・リーダー・ペルソナ
+subtitle: "オープンリーダーの考え方、課題、行動、強みを特定する"
 date: 2023-07-25T12:30:58.266Z
 authors:
   - shabnoorshah
@@ -13,130 +13,126 @@ tags:
 mobiusTag: foundation
 icon: /images/screenshot-2023-07-25-at-14.32.05.png
 whatIs: >-
-  T﻿his practice invites participants to collectively create an "Open Leader
-  Persona" that reflects the mindset, challenges, behaviors, and strengths of an
-  open leader. The objective is to create a collective understanding of what it
-  means to embody the five characteristics of open leadership 
+  このプラクティスでは、オープン・リーダーのマインドセット、チャレンジ、振る舞い、強みを反映した「オープ ン・リーダー・ペルソナ」を参加者全員で作成します。その目的は、オープン・リーダーシップの5つの特徴を体現するとはどういうことかを集団的に理解することです。 
 
 
-  1. transparency
+  1. 透明性：transparency
 
-  2. inclusivity
+  2. 包括性：inclusivity
 
-  3. community
+  3. 共同体：community
 
-  4. collaboration
+  4. 協調性：collaboration
 
-  5. adaptability
-
-
-  Through group collaboration, participants jointly construct a persona that encapsulates an open leader's mindset, challenges they might face, behaviours they exhibit, and outline their strengths.
+  5. 適応性：adaptability
 
 
-  By reflecting on each of the five characteristics, and developing a persona, participants collaboratively develop a clear understanding of what it means to embody these traits. 
+  参加者は、グループでのコラボレーションを通じて、オープンリーダーのマインドセット、直面する可能性のあるチャレンジ、示すべき振る舞い、そして強みのアウトラインをまとめたペルソナを共同で作成します。
 
 
-  The exercise aims to empower participants to apply these principles in their leadership roles, fostering a culture of inclusivity, collaboration, and continuous improvement within their organisation. This will help them to drive positive change and nurture a more transparent and collaborative work environment.
+  5つの特徴をそれぞれ振り返り、ペルソナを作成することで、参加者はこれらの特徴を体現することが何を意味するかについて、協力しながら明確な理解を深めます。
+
+
+  このエクササイズは、参加者がリーダーシップの役割にこれらの原則を適用し、組織内に包括性、協調性、継続的改善の文化を醸成することを目的としています。これにより、前向きな変化を促進し、より透明で協力的な職場環境を育むことができます。
 whyDo: >-
-  The "Open Leader Persona Practice" is conducted for several important reasons:
+  ”オープン・リーダー・ペルソナ プラクティス”には、いくつかの重要な目的がある：
 
-  1. Create a Shared Understanding: By collaboratively developing the "Open Leadership Persona," participants contribute to a shared understanding of what it means to be an open leader. This shared vision promotes alignment and consistency in leadership practices within the organization.
+  1. 共通理解をつくる： ”オープン・リーダーシップ・ペルソナ”を共同で開発することで、参加者は、オープン・リーダーであることの意味を共有することができます。この共有ビジョンは、組織内のリーダーシップ実践の整合性と一貫性を促進します。
 
-  2. Encourage Application of Open Leadership Principles: The exercise empowers participants to apply the principles of open leadership in their own leadership roles. By creating a persona that embodies these traits, participants are inspired to emulate open leadership behaviors and foster a more inclusive and collaborative work environment.
+  2. オープン・リーダーシップの原則の適用を促す： このエクササイズは、参加者がオープン・リーダーシップの原則を自分のリーダーとしての役割に適用することを促します。これらの特徴を体現するペルソナを作成することで、参加者はオープンリーダーシップの行動を模倣し、より包括的で協力的な職場環境を促進するよう促されます。
 
-  3. Foster Collaborative Problem-Solving: Through group discussions and brainstorming, the exercise encourages collaborative problem-solving. Participants work together to identify challenges and potential solutions, leveraging diverse perspectives for more comprehensive and innovative outcomes.
+  3. 共同での問題解決を促進する： グループ・ディスカッションやブレーンストーミングを通じて、共同での問題解決を促します。参加者は、より包括的で革新的な成果を得るために、多様な視点を活用しながら、課題や潜在的な解決策を特定するために協力します。
 
-  4. Strengthen Organizational Culture: The exercise promotes the integration of open leadership principles into the organization's culture. It emphasizes transparency, inclusivity, and collaboration as essential values, contributing to a more positive and cohesive work environment.
+  4. 組織文化の強化： このエクササイズは、オープンリーダーシップの原則を組織文化に統合することを促進するものです。透明性、包括性、コラボレーションを本質的な価値として強調し、より前向きで結束力のある職場環境に貢献します。
 
-  5. Empower Participants: By actively involving participants in the creation of the "Open Leadership Persona," the exercise empowers them to take ownership of open leadership principles. Participants feel more accountable for implementing positive changes in their leadership styles and team dynamics.
+  5. 参加者に力を与える： ”オープン・リーダーシップ・ペルソナ”の作成に参加者を積極的に参加させることで、この演習は、参加者がオープン・リーダーシップの原則を所有する力を与えます。参加者は、自分のリーダーシップスタイルやチームのダイナミクスを前向きに変化させる責任をより強く感じるようになります。
 
-  6. Drive Continuous Improvement: The exercise reinforces the idea of continuous improvement. As participants identify challenges and behaviors, they are encouraged to seek opportunities for growth and adaptability in their leadership roles.
+  6. 継続的改善を推進する： この演習は、継続的な改善という考え方を強化するものです。参加者は、課題や行動を特定しながら、リーダーシップの役割における成長と適応の機会を模索するよう奨励されます。
 
-  7. Inspire Positive Change: Through the creation of actionable personas, the exercise inspires participants to take concrete steps towards becoming open leaders. It motivates them to lead with transparency, empathy, and inclusivity, ultimately driving positive change within the organization.
+  7. 前向きな変化を促す： 実践可能なペルソナを作成することで、参加者はオープンリーダーになるための具体的なステップを踏み出すことができます。透明性、共感性、包括性をもって指導する意欲を高め、最終的に組織内の前向きな変化を促します。
 howTo: >-
-  Open Leader Persona Practice Instructions:
+  オープン・リーダー・ペルソナ　実践手順:
 
 
-  Step 1: Set Up the Flip Chart
+  Step 1: フリップチャートをセットアップする
 
 
-  1. Prepare a flip chart with the following headings: "Open Leader Persona."
+  1. 次の見出しをつけたフリップチャートを用意する。: "Open Leader Persona."
 
-  2. Create four workspaces under the respective headings: "Mindset," "Challenges," "Behaviors," and "Strengths."
-
-
-  Step 2: Explore Open Leader Characteristics
+  2. それぞれの見出しの下に4つのワークスペースを作成する。: "Mindset," "Challenges," "Behaviors," and "Strengths."
 
 
-  1. Begin the practice by outlining the five characteristics of open leadership; transparency, inclusivity, community, collaboration, and adaptability.
-
-  2. Highlight the importance of fostering a collaborative and transparent leadership style that embraces inclusivity and continuous improvement.
+  Step 2: オープンリーダーの特徴を知る
 
 
-  Step 3: Create the Persona as a Group
+  1. オープン・リーダーシップの5つの特徴（透明性、包括性、コミュニティ、コラボレーション、適応性）を概説することからプラクティスを始める。
+
+  2. 包括性と継続的改善を受け入れ、協力的で透明性のあるリーダーシップ・スタイルを育成することの重要性を強調する。
 
 
-  1. Invite participants to work together as a group to jointly create the "Open Leader Persona."
-
-  2. Explain that they will collectively capture their understanding of an open leader's mindset, challenges they might face, behaviours they exhibit, and their strengths in these roles.
+  Step 3: グループとしてのペルソナを作成する
 
 
-  Step 4: Fill in the Mindset Section
+  1. 参加者にグループで協力してもらい、”オープン・リーダー・ペルソナ ”を共同で作成する。
+
+  2. オープンリーダーのマインドセット、彼らが直面する可能性のあるチャレンジ、彼らが示す振る舞い、こうした役割における強みについて、自分たちの理解をまとめてから説明する。
 
 
-  1. Start with the "Mindset" section and ask participants to share their insights and understanding of the mindset an open leader should possess.
-
-  2. Encourage them to discuss qualities such as empathy, adaptability, openness to feedback, and a commitment to collaboration.
-
-  3. Facilitate a group discussion to reach a consensus and record their agreed-upon points under the "Mindset" heading.
+  Step 4: マインドセット・セクションを埋める
 
 
-  Step 5: Explore the Challenges Faced
+  1. ”マインドセット”のセクションから始め、オープンなリーダーが持つべきマインドセットについて、参加者の見識や理解を共有する。
+
+  2. 共感力、適応力、フィードバックに対するオープンさ、協調性へのコミットメントといった資質について話し合う。
+
+  3. 合意形成のためのグループ討論を進行し、合意した点を「マインドセット」の見出しの下に記録する。
 
 
-  1. Move on to the "Challenges" section and prompt participants to identify the challenges an open leader might encounter.
-
-  2. Discuss potential obstacles, such as managing diverse perspectives, navigating organizational resistance to change, or fostering a culture of open communication.
-
-  3. Encourage participants to share real-world examples or experiences related to open leadership challenges.
+  Step 5: 直面するチャレンジを探る
 
 
-  Step 6: Define Behaviours of an Open Leader
+  1. ”チャレンジ”のセクションに移り、オープンリーダーが遭遇する可能性のあるチャレンジを挙げてもらう。
+
+  2. 多様な視点の管理、変化に対する組織の抵抗への対処、オープンなコミュニケーション文化の醸成など、潜在的な障害について話し合う。
+
+  3. 参加者に、オープン・リーダーシップのチャレンジに関連する実例や経験を共有してもらう。
 
 
-  1. Proceed to the "Behaviours" section and ask participants to brainstorm the specific behaviours an open leader would exhibit.
-
-  2. Discuss behaviours like active listening, encouraging diverse input, promoting transparency, and giving credit to team members.
-
-  3. Encourage participants to draw from the workshop learnings and share practical examples of these behaviours in action.
+  Step 6: オープン・リーダーの振る舞いを定義する
 
 
-  Step 7: Identify Strengths of an Open Leader
+  1. 「振る舞い 」のセクションに進み、参加者にオープンなリーダーが示す具体的なな振る舞いをブレインストーミングしてもらう。
+
+  2. 積極的な傾聴、多様な意見の奨励、透明性の促進、チームメンバーに信用を与えるなどの振る舞いについて話し合う。
+
+  3. 参加者に、ワークショップの学びを生かし、これらの行動の実践例を共有してもらう。
 
 
-  1. Finally, focus on the "Strengths" section and invite participants to list the strengths an open leader possesses.
-
-  2. Discuss attributes such as adaptability, resilience, visionary thinking, and the ability to build strong relationships.
-
-  3. Encourage participants to recognize these strengths in themselves and in others they admire as open leaders.
+  Step 7: オープン・リーダーの強みを見極める
 
 
-  Step 8: Review and Finalise
+  1. 最後に、”強み”のセクションに焦点を当て、オープンリーダーの持つ強みを参加者に挙げてもらう。
+
+  2. 適応力、回復力、先見的思考、強い人間関係を構築する能力などの特性について話し合う。
+
+  3. 参加者に、自分自身や、オープン・リーダーとして尊敬している人のこうした強みを認識するよう促す。
 
 
-  1. Once the group has collaboratively filled in each section, review the "Open Leadership Persona" together.
-
-  2. Discuss any additional insights, refinements, or adjustments that the group deems necessary to accurately capture the essence of an open leader.
+  Step 8: レビューと最終仕上げ
 
 
-  Step 9: Concluding Remarks
+  1. 各項目をグループで協力して記入したら、”オープン・リーダーシップ・ペルソナ”を全員で見直す。
+
+  2. オープン・リーダーの本質を的確に捉えるために必要と思われる追加的な洞察、改良、調整についてグループで話し合う。
+
+  Step 9: まとめ
 
 
-  1. Conclude the practice by thanking participants for their active participation in creating the "Open Leader Persona."
+  1. 最後に、”オープン・リーダー・ペルソナ ”の作成に積極的に参加してくれた参加者に感謝し、プラクティスを終了する。
 
-  2. Emphasise the importance of embracing open leadership principles and applying them to foster an inclusive, collaborative, and empowering work environment.
+  2. オープンリーダーシップの原則を受け入れ、包括的で協力的な、力を与える職場環境を育むために適用することの重要性を強調する。
 
-  3. Encourage participants to apply the learnings from the exercise in their leadership roles to drive positive change and promote a culture of open leadership within the organisation.
+  3. 参加者に、プラクティスで学んだことをリーダーシップの役割に活かし、前向きな変化や、組織内に開かれたリーダーシップの文化を推進するよう促す。
 resources:
   - link: https://theopenorganization.org/definition/open-leadership-definition/
     linkType: web
