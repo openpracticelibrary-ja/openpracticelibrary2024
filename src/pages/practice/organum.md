@@ -1,7 +1,7 @@
 ---
 templateKey: practice-page
-title: The Organum
-subtitle: Structuring project knowledge to save time and reduce cognitive overload.
+title: オルガヌム
+subtitle: 時間を節約し、認知的過負荷を軽減するために、プロジェクトのナレッジを構造化する。
 date: 2023-08-10T06:21:03.759Z
 authors:
   - berhauz
@@ -10,92 +10,80 @@ tags:
 mobiusTag: foundation
 icon: /images/speam-activities.jpg
 whatIs: >-
-  It is essential to structure knowledge in order to share it efficiently. Well
-  documented code is just one aspect. Tasks, plans, reports, and project
-  presentations are also much known. But there's much more, ranging from early
-  sketches to specifications, deployment tips, knowledge route maps, training
-  materials, test samples, operational procedures, project's organization,
-  meeting notes, formal models, development techniques, and so forth.
+  ナレッジを効率的に共有するためには、構造化することが不可欠です。上手に文書化されたコードは一つの側面に過ぎません。タスク、計画、報告書、プロジェクトのプレゼンテーションも同様です。初期のスケッチから仕様書、デプロイメントのヒント、ナレッジのルートマップ、トレーニング資料、テストサンプル、運用手順、プロジェクトの組織、会議のメモ、正式なモデル、開発手法など、他にもたくさんあります。
 
 
-  How can you organize all that knowledge cleanly, notably using a wiki... so that it would not just be useful to developers and frustrate managers hardly finding the information they seek, or vice-versa ? How so many people with so different information requirements can all be satisfied at the same time?
+  開発者にとって有益な情報であるばかりで、管理職が求める情報をなかなか見つけられなかったり、あるいはその逆にならないために、ナレッジをすべてきれいに整理するにはどうしたらいいでしょうか？多くの人々が、異なる情報要求を同時に満たすにはどうすればいいでしょうか？
 
 
-  W﻿iki's with rich **hyperlinked** pages definitely help providing multiple navigation paths into the same information. A good bunch of **tags and keywords** significantly accelerate searches. Yet a wiki is basically organized as a hierarchical set of pages whose structure is also often used to navigate.  
+  リッチな**ハイパーリンク**ページを持つWikiは、同じ情報への複数のナビゲーションパスを提供するのに役立ちます。**タグとキーワード**は検索を加速させます。しかし、Wikiは基本的に階層的なページのセットとして構成され、その構造はナビゲートするためにもよく使われます。 
 
 
-  W﻿hat kind of structure would be most efficient?
+  どのような構造が最も効率的でしょうか？
 whyDo: >-
-  Save time organizing and structuring all kinds of information about a
-  project. 
+  プロジェクトに関するあらゆる情報を整理し、構造化する時間を節約できます。
 
 
-  Start with a structure that will be sustainable and can cleanly host new information categories as the project progresses. Stop wondering where the hell this team (or a colleague) has stored the kind of information you look for. Provide a clean - repeatable - project knowledge structure that can become a common template for all kinds of projects. 
+  持続可能で、プロジェクトが進むにつれて新しい情報カテゴリーをきれいに保存できる構造から始めましょう。このチーム（または同僚）は、いったいどこに、あなたが探している種類の情報を保存しているのだろう、と考えるのはやめましょう。あらゆる種類のプロジェクトで共通のテンプレートとなる、きれいで再現可能なプロジェクトナレッジ構造を提供しましょう。
 
 
-  Foster considerable time savings when you search info about a project, either when you join it, either when the project is rich and complex and drives ["cognitive overloads"](https://openpracticelibrary.com/practice/cognitive-loadometer/) forcing you to permanently refresh your knowledge to be productive.
+  プロジェクトに参加するとき、あるいはプロジェクトが豊富で複雑なために[認知負荷（Cognitive Load）](https://openpracticelibrary-ja.netlify.app/practice/cognitive-loadometer/)の過負荷を引き起こし、生産性を上げるためにナレッジを常に更新しなければならなくなったとき、プロジェクトに関する情報を検索する際にかなりの時間節約を実現できます。
 howTo: >-
-  F﻿ollow the "Organum" structure illustrated further down as source of
-  inspiration for adding pages to your project's wiki. The structure is borrowed
-  from the methodology [Praxeme](https://en.wikipedia.org/wiki/Praxeme) whose
-  *Enterprise System Topology* is supported by means to organize all the
-  information about a project from design to delivery. A simplified
-  [Organum](https://www.praxeme.org/thesaurus/organum/?lang=en) is proposed here
-  that is sufficient for 90% of IT projects.
+  あなたのプロジェクトのwikiにページを追加する時、以下の”Organum”構造を参考にしてください。この構造は方法論[Praxeme](https://en.wikipedia.org/wiki/Praxeme)から借用したもので、その*Enterprise System Topology*は設計から提供までのプロジェクトに関するすべての情報を整理する手段によってサポートされています。ここでは、90%のITプロジェクトに十分な簡略化された[Organum](https://www.praxeme.org/thesaurus/organum/?lang=en) が提案されています。
 
 
-  ## G﻿et Started:
+  ## Get Started:
 
 
-  *(﻿follow the illustrated mind map)*
+  *(図のマインドマップに従う)*
 
 
-  A﻿t the root, your project's home page would typically provide a short project summary, a who's who contact list, summarize milestones and progress, a picturesque sketch or architecture diagram, and provide quick links (recent activities, FAQ, route maps for different profiles, abbreviations, ...)
+  プロジェクトのトップページには、短いプロジェクト概要、連絡先リスト、マイルストーンと進捗状況の要約、絵のようなスケッチや アーキテクチャ図、クイックリンク（最近の活動、FAQ、さまざまなプロフィールのルートマップ、略語など）を掲載するのが一般的です。
 
 
-  B﻿elow, we can organise knowledge in four categories:
+  以下では、知識を4つのカテゴリーに整理する：
 
 
-  1. a﻿ "Repository" of all external source materials: client specs / initial statement / contract, links to 3rd party products or libraries used in the project, docs, test data samples, standards, regulations, methods, tips, market data, technologies, patterns, etc.
+  1. すべての外部ソースの **”リポジトリ(Repository)”**： クライアントの仕様書／初期声明／契約書、プロジェクトで使用されたサードパーティ製品やライブラリへのリンク、ドキュメント、テストデータのサンプル、標準、規制、方法、ヒント、市場データ、技術、パターンなど。
 
-  2. a﻿ "Products" section hosting all project's productions from the vision/strategy to (links to) code, including, sketches, models, API design notes and links to API specs, coding practices, naming rules, available tools, etc.
+  2. ビジョン/戦略からコード（へのリンク）に至るまで、すべてのプロジェクトの成果物をホストする **”プロダクト(Products)”** セクション、スケッチ、モデル、API設計メモ、API仕様へのリンク、コーディングプラクティス、命名規則、利用可能なツールなど。
 
-  3. a﻿n "Operations" section holding all the bits of knowledge necessary to configure, build, test, deploy, and operate the application(s). Here we document the staging environments and provide manuals / tutorials for administrators, developers, testers, operators, and end users. 
+  3. **”運用(Operations)”** セクションは、アプリケーションの設定、ビルド、テスト、デプロイ、運用に必要なすべての知識を保持します。ここでは、ステージング環境を文書化し、管理者、開発者、テスター、オペレーター、エンドユーザー向けにマニュアルやチュートリアルを提供します。
 
-  4. a﻿n "Organisation" describing who does what (project organisation and management), why (decisions, meeting notes, quality plan, risks and mitigation), when (updated plans, time line) and resources / budget. This section will also archive all the project's presentations to the team or stakeholders / clients. 
-
-
-  I﻿n other words, these four categories respectively hold:
+  4. 誰が何をするのか（プロジェクト組織とマネジメント）、なぜするのか（決定事項、ミーティングノート、品質計画、リスクとその軽減策）、いつするのか（更新計画、タイムライン）、リソース／予算を記述した **”組織(Organisations)”**。また、このセクションには、チームやステークホルダー、クライアントに対するプロジェクトのすべてのプレゼンテーションがアーカイブされます。
 
 
-  1. a﻿ll the knowledge you shall bring along before starting; mostly as commented pointers, be it internal (e.g. the Enterprise Continuum of TOGAF) or external / generic;
-
-  2. t﻿he "what" (current): up-to-date descriptions, specifications, statements;
-
-  3. t﻿he "how" (current): up-to-date procedures and processes;
-
-  4. t﻿he "who" "why" and "when" (with timeline/history), with all collaboration (meeting notes) and communication activities (presentations). 
+  言い換えれば、この4つのカテゴリーがそれぞれ次のようなものになります:
 
 
-  C﻿learly, there will be many hyperlinks between contents in different sections and to external platforms / information sources.
+  1. 始める前に持ち込むすべてのナレッジ。主に、内部的なもの（TOGAFのEnterprise Continuumなど）であれ、外部的なものであれ、一般的なものであれ、コメント付きのポインタとして；
+
+  2. ”What”（現在）：最新の記述、仕様、声明；
+
+  3. ”how”（現在）：最新の手順とプロセス；
+
+  4. “who””why””when”（時系列／履歴付き）、すべての共同作業（会議メモ）とコミュニケーション活動（プレゼンテーション）。
 
 
-  ## Reminder:
+  異なるセクションのコンテンツ間や、外部のプラットフォーム／情報源へのハイパーリンクが多数存在することは言うまでもありません。
 
 
-  * T﻿he first purpose of a knowledge repository is to **save time**: finding the right information in minimum time.
+  ## 備忘:
 
-  * A﻿void pure hierachical project pages in a wiki; i.e. 'empty' pages that only hold a path to (or group) child pages and contain no information but at most a listing of sub-pages. There is always something to tell about any level of information and surely helpful guidance and links to provide.
 
-  * N﻿ever forget to **tag** wiki pages with keywords, and provide a cloud of tags elsewhere
+  * ナレッジ・リポジトリの第一の目的は、**時間の節約**です。
 
-  * N﻿ever forget that your wiki bears a complete history of all pages & attachment updates, built-in! so do not lose time maintaining inventories of versions/changes but for true chronological stuff like meeting notes, major releases (past and ahead) or key decisions.
+  * wikiにおける純粋な階層的プロジェクトページは避ける；すなわち、子ページ(もしくはグループページ)へのパスだけを保持し、情報を含まず、多くてもサブページのリストを含む'空の'ページを作るイメージです。どのようなレベルの情報に関しても、伝えるべきことが常にあり、きっと役に立つガイダンスやリンクを提供することができるはずです。
 
-  * **H﻿yperlink** your content. The page hierarchy is only your storage structure. Navigation is most efficient via hyperlinks that help navigate in all directions, not only top-down.
+  * Wikiページにキーワードで**タグ**を付けること、そして他の場所にタグのクラウドを提供することを決して忘れないでください。
 
-  * A﻿ **link** to the information is as useful as the information itself; henceforth avoid copying and duplicating but link it.
+  * あなたのWikiには、すべてのページと添付ファイルの更新の完全な履歴が組み込まれていることを決して忘れないでください！そのため、バージョン/変更のインベントリを維持するために時間を費やすのではなく、会議のメモ、主要なリリース（過去とその先）、または重要な決定のような真の時系列的なもののために時間を費やしてください。
 
-  * The Organum is not about a project wiki alone, but about everything that concerns a software project. Part of this global information is better hosted by specialized servers for source control and source code documentation (e.g. GitHub / GitLab), project management (e.g. JIRA), bug tracking, modelling (e.g. Modelio, Enterprise Architect, Mega), and of course API Management (e.g. Swagger, Postman, and many vendors). Do not duplicate this information but link it abundantly. The project's wiki will become the entry point to everything about a project.
+  * あなたのコンテンツを**ハイパーリンク**してください。ページ階層は、あなたの記憶構造に過ぎません。ナビゲーションは、トップダウンだけでなく、あらゆる方向へのナビゲーションを助けるハイパーリンクが最も効率的です。
+  
+  * 情報への**リンク**は、情報そのものと同じくらい有用であるため、今後はコピーや複製を避けて、リンクしてください。
+
+  * Organumは、プロジェクトWikiだけでなく、ソフトウェアプロジェクトに関係するあらゆるものを対象としています。このグローバルな情報の一部は、ソース管理およびソースコード文書化（GitHub / GitLabなど）、プロジェクト管理（JIRAなど）、バグ追跡、モデリング（Modelio、Enterprise Architect、Megaなど）、そしてもちろんAPI管理（Swagger、Postman、多くのベンダーなど）に特化したサーバーでホストする方がよいでしょう。これらの情報は重複せず、ふんだんにリンクしてください。プロジェクトのwikiは、プロジェクトに関するすべてのエントリポイントになります。
 mediaGallery:
   - link: https://raw.githubusercontent.com/openpracticelibrary/openpracticelibrary/main/static/images/organum_bh2.jpg
 participants: []
