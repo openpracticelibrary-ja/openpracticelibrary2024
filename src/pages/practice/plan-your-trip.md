@@ -1,8 +1,7 @@
 ---
 templateKey: practice-page
-title: Plan Your Trip
-subtitle: "Manage risks by considering the 4Cs: Costs, Consequences, Context,
-  and Choices."
+title: 旅行の計画
+subtitle: 「4Cを考慮してリスクを管理する： コスト、結果、背景、選択肢」
 date: 2021-12-15T17:38:05.761Z
 authors:
   - daveesra
@@ -10,55 +9,36 @@ tags:
   - methods
 mobiusTag: foundation
 icon: /images/woodland-trail-1229089.jpg
-whatIs: The name of the exercise “Plan your trip” speaks to the goal of
-  determining the appropriate level of rigor. Most people can associate with
-  planning for a walk or hike and this is the context we use for the activity
-  called the 4Cs. Early in any collaborative workshop, get people working. If
-  you let them spectate for too long, some will retreat into “observer” rather
-  than “participator” mode.
+whatIs: 「旅の計画 」というエクササイズ名は、適切な厳格さのレベルを決定するという目標を物語っています。 ほとんどの人は、散歩やハイキングの計画を思い浮かべることができるため、これが4Cと呼ばれるアクティビティに使われる背景です。共同作業のワークショップでは、早い段階で人々に動いてもらいます。あまりに長い間見守っていると、何人かは「参加者」モードではなく「観察者」モードに後退してしまうからです。
 whyDo: >-
-  Collaborative, visual, activities can break down barriers to effective risk
-  management. Facilitators should help the team identify the level of rigor used
-  to effectively manage risk for their unique project. Outputs of risk
-  management activities for the project team should be updated project documents
-  and stories for the project backlog.
+  協力的で可視的な活動により、効果的なリスク管理への障壁を取り除くことができます。ファシリテーターは、チームが、そのプロジェクト独自のリスクマネジメントを効果 的に行うための厳密さのレベルを特定するのを支援します。プロジェクトチームに対するリスクマネジメント活動のアウトプットは、更新されたプロジェ クト文書とプロジェクトバックログのストーリーになります。
 
 
-  This practice is about deciding and defining how to conduct risk management activities for the project. Goals are:
+  このプラクティスは、プロジェクトのリスクマネジメント活動の方法を決定し、定義することです。目標は以下のとおり：
 
-     1. Tailored risk management process - to ensure that the degree, type, and visibility of risk management are commensurate with both the risks and the importance of the project to the organization
+     1. オーダーメイドのリスクマネジメントプロセス - リスクマネジメントのレベル、種類、及び可視性が、リスク及び組織にとってのプロジェクトの重要性の双方に見合ったものとなるようにする。
 
-     2. Teach some risk basics to the team - since they may not be familiar with the concepts or terminology
+     2. チームにリスクの基本を教える - チームは概念や用語に馴染みがないかもしれないので
 howTo: >-
-  Working individually (again to encourage active engagement and avoid
-  groupthink) ask the team to consider what they would pack for a two-mile hike
-  in the country on a warm day. Give them a couple of minutes to create lists on
-  Post-it notes and review their responses as a group. Some will suggest taking
-  nothing, or just a bottle of water; others will suggest rain jackets, bear
-  spray (I live near the Rocky Mountains in Canada) and all sorts of other
-  things. Then review the pros and cons of these items. They are useful if you
-  need them, but a burden to carry. We then repeat the exercise, changing some
-  parameters such as making it a ten-mile hike, or multi-day trip, in the
-  mountains, in the winter time. Now the lists get longer as people prepare for
-  more eventualities.
+  個人で行動し（ここでも積極的な参加を促し、集団思考を避けるため）、チームに、暖かい日に田舎で2マイル（約3.5キロ）のハイキングをする場合の持ち物を考えてもらいます。数分間、ポスト・イット・ノートにリストを作成させ、その回答をグループで確認します。何も持っていかない、あるいは水のボトルだけという人もいれば、レインジャケットや熊よけスプレー（私はカナダのロッキー山脈の近くに住んでいる）、その他いろいろなものを提案する人もいると思います。そして、これらのアイテムの長所と短所を検討します。必要であれば便利だが、持ち運ぶには荷物になったりします。そして、冬の山で10マイルのハイキングにするとか、数日間の旅にするとか、いくつかのパラメーターを変えてプラクティスを繰り返します。より多くの事態に備えるため、リストはさらに長くなっていきます。
 
 
-  For each situation review the 4Cs—the Costs, Consequences, Context and Choices. What we bring (and how we prepare for risk management) varies based on the Cost of bringing/using it, the Consequence of not having it (rain coat — get wet, warm jacket — cold/hypothermia). Examine the Context talked about, preparations for elite ultra-marathoners who are hardy, capable, and resourceful or a kids' group who need more protection. Finally, the Choices we make should be an informed balance of Cost versus Consequence in the frame of the Context.
+  それぞれの状況について、4C（Cost、Consequences、Context、Choices）を見直します。私たちが何を持ってくるか（そしてリスク管理のためにどう準備するか）は、持ってくる／使うことによるコスト、持ってこないことによる結果（雨合羽は濡れる、防寒着は寒い／低体温症）によって異なります。丈夫で能力があり、機知に富んだエリート・ウルトラマラソン選手のための準備、あるいは、より多くのプロテクションを必要とする子供たちのグループのための準備など、今話題の背景を検証してみましょう。最後に、私たちがする選択は、背景の枠の中で、コストと結果のバランスを十分に考慮したものでなければなりません。
 
 
-  Another tool to relate the need to tailor the process appropriately is to ask the team to consider the decision rigor they put into their purchases. They way we consider buying a Coffee (US$2), a Couch (US$2,000), a Car (US$20,000), or a Condo (US$200,000) vary as the figures involved escalate.
+  プロセスを適切に調整する必要性を関連付けるもう1つの手段は、チームに購入にかける意思決定の厳密さを考えてもらうことである。コーヒー（US$2）、ソファー（US$2,000）、車（US$20,0000）、マンション（US$200,000）の購入を検討する方法は、数字が大きくなるにつれて変わってきます。
 
 
-  For a coffee, we probably just find something close, maybe at our favorite coffee-brand store. For a couch, people will shop around and likely buy the one they like the best without much further research. When it gets up to car territory, safety, economy and resale factors are routinely examined. For a condo purchase the stakes are so high that most people engage professional help from home inspectors and condo document review companies. We need to do the same for our projects, asking what is appropriate for the endeavor.
+  コーヒーなら、行きつけのコーヒー・ブランドの店で近いものを探すでしょう。ソファーの場合、人々はあちこち見て回り、あまり詳しく調べずに一番気に入ったものを買うこともあります。車の領域になると、安全性、経済性、リセールの要素が日常的に検討するはずです。マンションの購入では、ほとんどの人がホームインスペクターやコンドミニアムの書類審査会社といった専門家の助けを借りるほど、利害関係が大きくなります。私たちのプロジェクトでも同じように、何がその取り組みにふさわしいかを問う必要があります。
 
 
-  Finally, if the team is new to risk management, then a discussion on trade off between business value and risks might be necessary. We undertake projects usually for the potential upside (or for compliance projects to avoid the downside). Getting business value out of a project is like receiving deposits into our bank account; we want them as often as possible, and preferably as large as possible. Given the uncertainty in the world, we want the biggest gains as soon as possible, before anything changes that may threaten future deposits.
+  最後に、チームがリスクマネジメントに慣れていない場合は、ビジネス価値とリスクのトレードオフについて議論する必要があるかもしれません。私たちは通常、潜在的なプラス面（あるいは、マイナス面を回避するためのコンプライアンス・プロジェクト）のためにプロジェクトを実施します。プロジェクトからビジネスバリューを得ることは、銀行口座に預金を受け取るようなものです。世の中の不確実性を考えると、将来の預金を脅かすような変化が起こる前に、できるだけ早く最大の利益を得たいはずです。
 
 
-  In this bank analogy risks are like withdrawals; or bank fees, should they occur, set the project back, take away resources from delivering business value, and threaten the delivery of future value. So, to get the most out of a project we need to maximize business value while avoiding or reducing risks.
+  この銀行の例えでは、リスクは引き出しのようなものであり、銀行手数料のようなものです。リスクが発生すると、プロジェクトは後退し、ビジネス価値の提供からリソースが奪われ、将来の価値の提供が脅かされます。つまり、プロジェクトを最大限に活用するためには、リスクを回避または低減しながら、ビジネス価値を最大化する必要があります。
 
 
-  These exercises and discussions aim to get the team thinking about the appropriate level of risk management for the project and gain consensus and support for the strategy that is agreed upon. Without this shared understanding of “why?” we will not get people invested in the process.
+  このようなエクササイズや ディスカッションの目的は、プロジェクトに適切なリスクマネジメントのレベルについてチー ムに考えさせ、合意された戦略に対するコンセンサスと支持を得ることです。この「なぜ？」という共通理解がなければ、プロセスへの参加は得られません。
 mediaGallery:
   - link: https://www.oregonlive.com/resizer/LPl99aYPGQsUDyl-EwHc-doWbw0=/800x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/5JRLM5D7BZGW5G6X2ZK7LLUQBA.jpg
 time: 10 minutes
