@@ -1,7 +1,7 @@
 ---
 templateKey: practice-page
-title: $100 Prioritisation
-subtitle: To help groups prioritise anything
+title: $100 優先順位付け
+subtitle: グループの優先順位を決める
 date: 2024-01-11T17:39:02.688Z
 authors:
   - stellabella2022
@@ -11,39 +11,35 @@ tags:
   - insight
 mobiusTag: options
 icon: /images/100.webp
-whatIs: W﻿hen you need to narrow down your options or prioritise.  This is a
-  democratic relative prioritisation exercise where people get $100 each to
-  distribute across whatever needs prioritising, be it objectives, requirements,
-  user stories, your team to-do list or perhaps your friends!
-whyDo: P﻿rioritising is hard. This is a method that helps everyone be heard, but
-  also navigates you towards consensus in an equitable way.
+whatIs: 選択肢を絞ったり、優先順位をつけたりする必要があるとき。 これは、民主的な相対的優先順位付けのプラクティスであり、優先順位付けが必要なもの（目的、要件、ユーザーストーリー、チームのToDoリスト、友人など）に対して、各人100ドルずつ分配します！
+whyDo: 優先順位をつけるのは難しい。これは、全員の意見を聞き、公平な方法でコンセンサスへと導く方法です。
 howTo: >-
-  ## M﻿ethod
+  ## 方法
 
 
-  1. F﻿ind a way of giving people $100.
+  1. 人々に100ドルを与える方法を見つけます。
 
-  2. P﻿eople can allocate their dollars however they want to. All on one item or spread their cash about!  They have to decide how much they value that thing and then use their dollars to represent that.  
+  2. 人々は好きなようにお金を配分することができます。1つの品目に全部使うか、分散して使うか！ そのことにどれだけの価値を見出すかを決め、それを表すためにドルを使います。 
 
-  3. The result is usually a well-spread priority list.
+  3. その結果、通常、優先順位リストが十分に行き渡ります。
 
 
   ## Tips:
 
 
-  * Recommend keeping allocations of money secret until people have finished working out where they are putting their $100 to avoid any tactical voting and maintain the suspense
+  * 戦術的な投票を避け、疑念を抱かせないために、各自が100ドルをどこに投じるかを検討し終えるまで、資金配分を秘密にしておくことを勧めます。
 
-  * ﻿I often use monopoly money for this that I bought off eBay but my favourite is to create customer currency that personalises the exercise to the group e.g. Bella Bucks or Red Hat Rupeesed. You can also just use post-its! 
+  * 私はよくeBayで購入したモノポリーマネーを使いますが、私のお気に入りは、ベラ・バックスやレッド・ハット・ルピーズドなど、そのグループ独自の通貨を作ることです。ポストイットを使ってもいいです！
 
-  * W﻿hen sharing back the final results - I often convert to a % to help people understand final numbers more easily. 
-
-
-  ## V﻿ariations: 
+  * 最終的な結果を共有する際、最終的な数字をより理解しやすくするために、私はしばしば％に換算します。
 
 
-  1. You can force people to pick their clear top priority buy giving people certain  notes. For example 2x $50 means they can only pick two things, where 10x $10 gives them more flexibility to spread or back certain things more highly. My preference is combination of both with 1x$50, 1x$20, 2x$10 2x$5. 
+  ## バリエーション: 
 
-  2. D﻿epending on the group size there are variations where people share a $100 allowance. This can be the whole group, or pairs small group or pairs. This can make counting easier in large groups and also gives rise to some really good conversations. My preference is to use [1-2-4-All ](https://openpracticelibrary.com/practice/1-2-4-all/)practice because, like planning poker, the conversation is super valuable and drives alignment.
+
+  1. 優先順位の高いものを選ぶように強制することができます。例えば、2x$50は2つのものしか選べないことを意味し、10x$10は特定のものをより高くスプレッドしたり、バックしたりする柔軟性を与えます。私の好みは、1x$50、1x$20、2x$10、2x$5の両方の組み合わせです。
+
+  2. グループの人数によって、100ドルのお小遣いを分け合うバリエーションもあります。これは、グループ全体であったり、少人数のグループやペアであったりする。大人数でも数えやすいし、会話も弾みます。私の好みは、[1-2-4-All](https://openpracticelibrary-ja.netlify.app/practice/1-2-4-all/)のプラクティスをすることです。なぜなら、ポーカーを計画するのと同じように、会話は非常に価値があり、整列を促すからです。
 mediaGallery:
   - link: https://github.com/openpracticelibrary/opl-media/blob/master/100-prioritise-1.jpeg?raw=true
   - link: https://github.com/openpracticelibrary/opl-media/blob/master/100-prioritise-2.jpeg?raw=true
