@@ -1,7 +1,7 @@
 ---
 templateKey: practice-page
-title: "Team Story "
-subtitle: Tracing the evolution of your teams.
+title: "チームストーリー"
+subtitle: チームの進化をたどる
 date: 2023-07-25T10:52:29.516Z
 authors:
   - shabnoorshah
@@ -11,128 +11,117 @@ tags:
   - culture
 mobiusTag: foundation
 icon: /images/screenshot-2023-07-25-at-13.19.36.png
-whatIs: "Team Story: Tracing the Evolution of Teams, is an engaging exercise
-  designed to explore the evolution of teams within your organization.
-  Participants are asked to recount the story of a specific team, from its
-  inception to its present status, by incorporating significant events that have
-  shaped its journey."
+whatIs: "チームストーリー：「チームの進化をたどる 」は、組織内のチームの進化を探るために考案された魅力的なエクササイズです。参加者は、特定のチームの創設から現在に至るまでのストーリーを、その道のりを形作った重要な出来事を織り交ぜながら語るよう求められます。"
 whyDo: >-
-  The purpose of this exercise is to encourage participants to reflect on the
-  process of team formation and development within their organization. By
-  recounting the journey from a team's inception to its current state,
-  participants will gain insights into the dynamics of successful team building
-  and effective collaboration. Moreover, this exercise aims to foster a deeper
-  understanding of how teams operate within the broader ecosystem of their
-  organization, promoting a sense of interconnectedness and cohesion among
-  teams.
+  このエクササイズの目的は、参加者に組織内でのチーム結成と育成のプロセスを振り返ってもらうことです。チームが発足してから現在の状態に至るまでの道のりを振り返ることで、参加者はチーム作りを成功させ、効果的なコラボレーションを実現するためのダイナミクスに関する洞察を得ることができます。さらに、このエクササイズは、チームが組織のより広範なエコシステムの中でどのように運営されているかについての理解を深め、チーム間の相互連携と結束を促進することを目的としています。
 
 
-  By engaging in this exercise, participants will:
+  この演習に参加することで、参加者は次のことを学べます:
 
 
-  * Gain insights into successful team formation and development, learning from past experiences and challenges faced by the chosen team.
+  * 選ばれたチームが直面した過去の経験や課題から学ぶことで、成功するチームの形成と発展に関する洞察を得る。
 
-  * Develop a deeper appreciation for the interdependencies and connections between teams within the organization, recognizing the importance of cross-functional collaboration.
+  * 組織内のチーム間の相互依存関係やつながりをより深く理解し、部門を超えたコラボレーションの重要性を認識する。
 
-  * Discover effective strategies for managing team workflows and responsibilities, drawing inspiration from the experiences of their chosen team.
+  * 選んだチームの経験からインスピレーションを得ながら、チームのワークフローと責任を管理するための効果的な戦略を発見する。
 
-  * Foster a culture of knowledge-sharing and mutual learning, as participants can draw lessons from various team stories shared during the exercise.
+  * 参加者は、演習中に共有されたさまざまなチーム・ストーリーから教訓を引き出すことができるため、知識の共有と相互学習の文化が育まれる。
 
-  * Strengthen their abilities to analyze team dynamics, identify areas for improvement, and apply the knowledge gained to enhance their own team-building efforts.
+  * チームダイナミクスを分析し、改善すべき点を特定する能力を強化し、得られた知識を自らのチームビルディングの取り組み強化に応用する。
 howTo: >-
-  **Materials Needed:**
+  **必要な材料:**
 
 
-  * Wall space or a large board for displaying posters
+  * ポスター掲示用の壁面スペースまたは大型ボード
 
-  * Posters with the following sections: a) Team Creation Process, b) Forming, c) Storming, d) Norming, e) Performing, f) Adjourning
+  * 以下のセクションのあるポスター： a) チーム創設プロセス、b) 結成（フォーミング）、c) 暴風雨（ストーミング）、d) 規範化（ノーミング）、e) 実行（パフォーミング）、f) 閉会（アジャーニング）
 
-  * Marker pens or sticky notes for participants to write their team stories
-
-
-  **Step 1: Set up the Wall**
+  * 参加者がチームストーリーを書くためのマーカーペンまたは付箋紙
 
 
-  1. Find an appropriate wall or board in a well-lit and easily accessible area.
-
-  2. C﻿reate a flip chart , slide or poster with the following question on easy display **"Tell us how you form a new team by adding events from when the team was created to where it is now.**
-
-     (﻿say or write: Think of a team in your org, tell us the story, how this team came to be, where are they now, how they manage their work, and how they operate within the other teams ecosystem)
-  3. Arrange the posters in a linear manner, following the order of team development stages: Team Creation Process, Forming, Storming, Norming, Performing, and Adjourning.
-
-  4. R﻿emember to create two quadrants/ that sections with the Title Poster on top : "Things that are working well" a﻿nd the Title Poster at the bottom : Things that are not working well
+  **Step 1: 壁のセットアップ**
 
 
-  **Step 2: Introduce the Exercise**
+  1. 明るくてアクセスしやすい場所で、適切な壁やボードを見つけます。
+
+  2. フリップチャート、スライド、またはポスターに、次のような質問を簡単に表示できるようにします。**チームができてから現在に至るまでの出来事を加えながら、新しいチームをどのように結成するか教えてください。**
+
+     (言う、または書くこと： あなたの組織内のあるチームを思い浮かべ、そのチームがどのようにして生まれたのか、現在どこにいるのか、どのように仕事を管理しているのか、他のチームのエコシステムの中でどのように活動しているのか、そのストーリーを教えてください。）
+  3. チーム開発段階の順序に従って、ポスターを直線的に並べます：「チーム創設プロセス」、「結成（フォーミング）」、「暴風雨（ストーミング）」、「規範化（ノーミング）」、「実行（パフォーミング）」、「閉会（アジャーニング）」。
+
+  4. タイトルポスターの上部に「うまくいっていること」、下部に「うまくいっていないこと」というように、2つの象限／セクションを作ることを忘れないようにしてください。
 
 
-  1. Gather the participants and explain the purpose of the exercise: to explore the evolution of teams within the organization, their journey from inception to the present, and their role within the organizational ecosystem.
-
-  2. Emphasize the significance of learning from each other's experiences and fostering a collaborative environment.
+  **Step 2: エクササイズの紹介**
 
 
-  **Step 3: Start Exercise** 
+  1. 参加者を集め、演習の目的を説明する：組織内のチームの進化、設立から現在までの道のり、組織のエコシステム内での役割を探ります。
+
+  2. 互いの経験から学び、協力的な環境を育むことの意義を強調します。
 
 
-  1. Allow each participant some time for individual reflection.
-
-  2. Encourage them to capture their thoughts and observations related to a specific team within the organization on separate sticky notes.
-
-  3. Instruct participants to place each sticky note under the relevant section on the posters. It is okay if they do not have thoughts or observations for every section.
-
-  4. Cluster any common themes or topics under each section
+  **Step 3: エクササイズ開始** 
 
 
-  **Step 4: Recall Team Journey**
+  1. 参加者一人一人に考えるの時間を与えます。
+
+  2. 組織内の特定のチームに関連する考えや観察を、別の付箋に書き留めるように促します。
+
+  3. 参加者に、それぞれの付箋をポスターの該当セクションの下に貼るよう指示します。すべての項目に感想や意見がなくても構いません。
+
+  4. 各セクションに共通するテーマやトピックを分類します。
 
 
-  1. Instruct participants to recall the team's journey from its creation to its current state.
-
-  2. Encourage them to think about significant events, challenges, and achievements the team experienced during each stage (Forming, Storming, Norming, Performing, and Adjourning).
-
-  3. Participants should also consider the team's role within the larger organizational context and how it interacts with other teams.
+  **Step 4: チームジャーニーを振り返る**
 
 
-  **Step 5: Write Key words or short sentences**
+  1. 参加者に、チームの創設から現状に至るまでの道のりを思い起こすよう指示します。
+
+  2. 各ステージ（フォーミング, ストーミング, ノーミング, パフォーミング, アジャーニング）でチームが経験した重要な出来事、課題、成果について考えるよう促します。
+
+  3. 参加者は、より大きな組織的背景の中でのチームの役割や、他のチームとの相互作用についても考慮する必要があります。
 
 
-  1. Provide marker pens or sticky notes to each participant.
-
-  2. Ask them to write keywords  for each stage on the corresponding posters.
-
-     * For the "Team Creation Process" poster, they can describe how the team was formed and the reasons behind its creation.
-     * For the "Forming" poster, they can outline the early stages of the team's development, initial challenges, and the process of familiarization among team members.
-     * For the "Storming" poster, they can highlight conflicts and struggles the team faced as it started to work together.
-     * For the "Norming" poster, they can describe the development of team norms, improved communication, and the emergence of team cohesion.
-     * For the "Performing" poster, they can showcase the team's accomplishments, successful collaboration, and high productivity.
-     * For the "Adjourning" poster, they can share how the team managed its conclusion or transformation, and the lessons learned from the experience.
-
-  **Step 6: Display Team Stories**
+  **Step 5: キーワードや短い文章を書く**
 
 
-  1. Invite participants to come forward one by one and stick their written summaries on the respective posters.
+  1. 参加者一人一人にマーカーペンか付箋紙を用意します。
 
-  2. Encourage participants to share their team stories with the group, highlighting any unique experiences or valuable lessons learned.
+  2. 各ステージのキーワードを対応するポスターに書いてもらいます。
 
+     * 「チーム結成のプロセス」のポスターでは、チームがどのように結成されたのか、その理由を説明することができます。
+     * 「フォーミング」のポスターでは、チーム結成の初期段階、初期の課題、チームメンバー間の親睦のプロセスについて概説することができます。
+     * 「ストーミング」のポスターでは、チームが協力し始めたときに直面した対立や葛藤を強調することができます。
+     * 「ノーミング」のポスターでは、チーム規範の発展、コミュニケーションの改善、チームの結束力の出現について説明することができます。
+     * 「パフォーミング」ポスターの場合は、チームの業績、コラボレーションの成功、高い生産性をアピールすることができます。
+     * 「アジャーニング」のポスターでは、チームがどのように終結や変革を管理したか、またその経験から学んだ教訓を共有することができます。
 
-  **Step 7: Group Discussion**
-
-
-  1. Facilitate a group discussion after all team stories have been displayed.
-
-  2. Encourage participants to ask questions, seek clarifications, and share insights gained from other team stories.
-
-  3. Prompt discussions about similarities and differences between various teams' journeys and how they operated within the organizational ecosystem.
-
-
-  **Step 8: Reflection and Closing**
+  **Step 6: チームのストーリーを掲示する**
 
 
-  1. Conclude the exercise by emphasizing the importance of learning from past experiences and fostering collaboration among teams.
+  1. 参加者に一人ずつ前に出てきてもらい、書いた要約をそれぞれのポスターに貼ってもらいます。
 
-  2. Encourage participants to apply the knowledge gained from this exercise to their own teams and team-building efforts.
+  2. 参加者に、ユニークな経験や貴重な教訓を強調しながら、チームのストーリーをグループで共有するよう勧めます。
 
-  3. Thank the participants for their active participation and contribution to the exercise.
+
+  **Step 7: グループディスカッション**
+
+
+  1. すべてのチームのストーリーが掲示された後、グループディスカッションをしてもらいます。
+
+  2. 参加者に質問を促し、説明を求め、他のチームのストーリーから得た洞察を共有します。
+
+  3. さまざまなチームの旅路の共通点や相違点、組織のエコシステムの中での運営方法についてディスカッションを促します。
+
+
+  **Step 8: 振り返りとクロージング**
+
+
+  1. 最後に、過去の経験から学び、チーム間の協力関係を育むことの重要性を強調します。
+
+  2. 参加者に、この演習で得た知識を自分のチームやチームビルディングの取り組みに応用するよう促します。
+
+  3. 参加者の積極的な参加とエクササイズへの貢献に感謝します。
 mediaGallery: []
 resources:
   - link: https://psychsafety.co.uk/psychological-safety-88-tuckmans-model/

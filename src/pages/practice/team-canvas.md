@@ -1,7 +1,7 @@
 ---
 templateKey: practice-page
-title: Team Canvas
-subtitle: Achieve better team alignment, collaboration, and productivity.
+title: チームキャンバス
+subtitle: チームの連携、コラボレーション、生産性を向上させます。
 date: 2023-08-17T15:09:14.659Z
 authors:
   - moimero
@@ -11,106 +11,103 @@ tags:
 mobiusTag: foundation
 icon: /images/team-canvas.png
 whatIs: >-
-  Team Canvas is a collaborative framework that visually outlines roles, goals,
-  rules, and communication strategies within a team. It improves alignment,
-  communication, and productivity by providing a structured format for team
-  members to work together effectively.\
+  チームキャンバスは、チーム内の役割、目標、ルール、コミュニケーション戦略を視覚的に示すコラボレーションフレームワークです。チームメンバーが効果的に協働するための構造化されたフォーマットを提供することで、連携、コミュニケーション、生産性を向上させます。\
 
   \
 
-  *Attribution: I﻿nspired by Alex Osterwalder's Business Model Canvas, the Team canvas was originally created by Alex Ivanov and Mitya Voloshchuk.*
+  *Attribution: Inspired by Alex Osterwalder's Business Model Canvas, the Team canvas was originally created by Alex Ivanov and Mitya Voloshchuk.*
 whyDo: >-
-  Using Team Canvas offers several benefits for teams:
+  チームキャンバスを使用する効果:
 
 
-  1. **Alignment:** Team members gain a shared understanding of roles, goals, and processes, reducing misunderstandings and keeping everyone on the same page.
+  1. **調整:** チームメンバーは、役割、目標、プロセスについて共通の理解を得ることで、誤解を減らし、全員が同じ見解を持つことができる。
 
-  2. **Clear Communication:** Clearly defined communication strategies prevent information gaps and enhance effective information exchange.
+  2. **明確なコミュニケーション:** 明確に定義されたコミュニケーション戦略は、情報格差を防ぎ、効果的な情報交換を促進する。
 
-  3. **Collaboration:** Collaborative canvas creation fosters engagement, ownership, and diverse perspectives, promoting better teamwork.
+  3. **コラボレーション:** 共同でキャンバスを作成することで、エンゲージメント、オーナーシップ、多様な視点が育まれ、より良いチームワークが促進される。
 
-  4. **Efficiency:** Defined roles and processes streamline task execution, boosting overall team efficiency and productivity.
+  4. **効率化:** 役割とプロセスを明確にすることでタスクの実行が効率化され、チーム全体の効率と生産性が向上する。
 
-  5. **Conflict Resolution:** Established rules and guidelines minimize conflicts by providing structured approaches to addressing issues.
+  5. **コンフリクトの解決:** 確立されたルールとガイドラインは、問題に対処するための構造化されたアプローチを提供することで、対立（コンフリクト）を最小限に抑える。
 
-  6. **Adaptability:** The canvas can be adjusted as the project evolves, ensuring the team remains adaptable and responsive to changes.
+  6. **適応性:** このキャンバスは、プロジェクトの進展に合わせて調整することができ、チームの適応性と変化への対応力を維持することができる。
 
-  7. **Accountability:** Team members' involvement in creating the canvas increases accountability for project success.
+  7. **説明責任:** チームメンバーがキャンバスの作成に参加することで、プロジェクトの成功に対する説明責任が高まる。
 
-  8. **Visual Representation:** The canvas provides a visual snapshot of team dynamics, helping identify strengths, weaknesses, and opportunities.
+  8. **ビジュアル表現:** キャンバスは、チームダイナミクスの視覚的なスナップショットを提供し、強み、弱み、機会を特定するのに役立つ。
 
 
-  Using Team Canvas ultimately leads to improved collaboration, better decision-making, and successful project outcomes.
+  Team Canvasを使用することで、最終的にコラボレーションが向上し、意思決定が改善され、プロジェクトが成功に導かれる。
 howTo: >-
-  1. **Step 1: Access the Team Canvas Template**
+  **Step 1: チームキャンバスのテンプレートにアクセス**
 
-     1. Get a copy of the Team Canvas template, or create one yourself.
-     2. Create a new canvas or select an existing template to work with.
+     1. チームキャンバスのテンプレートを入手するか、自分で作成します。
+     2. 新しいキャンバスを作成するか、既存のテンプレートを選択して作業します。
 
-     **Step 2: Familiarize Yourself with Sections**
+     **Step 2: 各セクションを理解する**
 
-     1. The complete Team Canvas typically includes sections like "People," "Goals," "Roles," "Rules," "Events," and "Communication."
-     2. Familiarize yourself with each section's purpose before proceeding.
+     1. チーム・キャンバスには通常、「人」、「ゴール」、「役割」、「ルール」、「イベント」、「コミュニケーション 」といったセクションが含まれます。
+     2. 先に進む前に、各セクションの目的をよく理解しましょう。
 
-     **Step 3: Populate the Sections:**
+     **Step 3: 各セクションの入力:**
 
-     **People:**
+     **人（People）:**
 
-     1. In the "People" section, list all team members' names.
-     2. Specify their roles, responsibilities, and areas of expertise.
+     1. People "セクションに、チーム・メンバー全員の名前を列挙します。
+     2. それぞれの役割、責任、専門分野を明記します。
 
-     **Goals:**
+     **ゴール（Goals）:**
 
-     1. Move to the "Goals" section.
-     2. Outline the specific objectives the team aims to achieve.
-     3. Make goals measurable and time-bound for clarity.
+     1. 「ゴール」のセクションに移動します。
+     2. チームが達成しようとする具体的な目標を概説します。
+     3. 目標を明確にするために、測定可能で期限付きのものにします。
 
-     **Roles:**
+     **役割（Roles）:**
 
-     1. Navigate to the "Roles" section.
-     2. Assign team members to specific roles based on their strengths.
-     3. Clarify the responsibilities and tasks associated with each role.
+     1. 「役割」セクションに移動します。
+     2. チームメンバーを、それぞれの強みに基づいて特定の役割を割り当てます。
+     3. 各役割に関連する責任とタスクを明確にします。
 
-     **Rules:**
+     **ルール（Rules）:**
 
-     1. Go to the "Rules" section.
-     2. Define guidelines for decision-making, conflict resolution, and overall team behavior.
-     3. Establish communication norms and preferred tools.
+     1. 「ルール」セクションへ移動します。
+     2. 意思決定、紛争解決、チーム全体の行動指針を定めます。
+     3. コミュニケーションの規範と望ましいツールを決定します。
 
-     **Events:**
+     **イベント（Events）:**
 
-     1. Proceed to the "Events" section.
-     2. Schedule essential milestones, meetings, and deadlines.
-     3. Specify dates, times, and descriptions for each event.
+     1. 「イベント」セクションに進みます。
+     2. 重要なマイルストーン、ミーティング、締め切りをスケジュールします。
+     3. 各イベントの日時と内容を指定します。
 
-     **Communication:**
+     **コミュニケーション（Communication）:**
 
-     1. Reach the "Communication" section.
-     2. Detail communication strategies, channels, and expected frequency.
-     3. Ensure everyone knows how to effectively exchange information.
+     1. 「コミュニケーション」のセクションに到達します。
+     2. コミュニケーション戦略、チャネル、予想される頻度を詳しく説明します。
+     3. 全員が効果的な情報交換の方法を把握できる様にします。
 
-     **Step 4: Collaborate and Input:**
+     **Step 4: コラボレーションとインプット:**
 
-     1. Invite team members to collaborate on the canvas.
-     2. Encourage open discussions and input in each section.
-     3. Allow everyone to contribute their ideas and perspectives.
+     1. チームメンバーにキャンバス上で共同作業をしてもらいます。
+     2. 各セクションでオープンな議論と意見を奨励します。
+     3. 全員が自分のアイデアや視点を提供できるようにします。
 
-     **Step 5: Review and Adjust:**
+     **Step 5: レビューと調整:**
 
-     1. Review the filled-out canvas as a team.
-     2. Make any necessary adjustments to ensure accuracy and alignment.
+     1. 記入したキャンバスをチームで見直します。
+     2. 精度とアライメントを確実にするために、必要な調整を行う。
 
-     **Step 6: Save and Share:**
+     **Step 6: 保存と共有:**
 
-     1. Save the completed Team Canvas.
-     2. Share the canvas with team members to keep everyone informed.
+     1. 完成したチームキャンバスを保存します。
+     2. キャンバスをチームメンバーと共有し、全員に情報を伝えます。
 
-     **Step 7: Regular Updates:**
+     **Step 7: 定期的な更新:**
 
-     1. Periodically revisit the canvas to ensure it reflects the team's current status.
-     2. Update roles, goals, and other sections as needed.
+     1. キャンバスを定期的に見直し、チームの現状が反映されていることを確認します。
+     2. 役割、目標、その他のセクションを必要に応じて更新します。
 
-     By following these steps, you can effectively populate a complete Team Canvas template with your team, fostering collaboration, alignment, and successful project execution.
+     これらのステップに従うことで、チームキャンバスのテンプレートを効果的にチームに入力し、コラボレーション、アライメントを促進し、プロジェクトを成功に導くことができます。
 mediaGallery:
   - link: https://www.theteamcanvas.com/assets/2-canvases.png
   - link: https://www.theteamcanvas.com/assets/team-canvas.png

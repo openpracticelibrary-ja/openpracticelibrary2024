@@ -1,68 +1,62 @@
 ---
 templateKey: practice-page
-title: SWOT Analysis
-subtitle: Review business strengths, weaknesses, opportunities, and threats.
+title: SWOT分析
+subtitle: 事業の強み、弱み、機会、脅威を見直す。
 date: 2022-11-09T12:59:07.159Z
 authors:
   - InfoSec812
 mobiusTag: options
 icon: /images/swot_wikimedia.png
 whatIs: >-
-  SWOT analysis (or SWOT matrix) is a strategic planning and strategic
-  management technique used to help a person or organization identify Strengths,
-  Weaknesses, Opportunities, and Threats related to business competition or
-  project planning. 
+  SWOT分析（またはSWOTマトリックス）は、個人または組織がビジネス競争やプロジェクト計画に関連する強み、弱み、機会、脅威を特定するために使用される戦略的計画および戦略的管理の手法です。
 
-   It is sometimes called situational assessment or situational analysis. Additional acronyms using the same components include TOWS and WOTS-UP.
+  状況判断や状況分析と呼ばれることもあります。同じ構成要素を使った他の略語には、TOWSやWOTS-UPがあります。
 whyDo: >+
-  This technique is designed for use in the preliminary stages of
-  decision-making processes and can be used as a tool for evaluation of the
-  strategic position of organizations of many kinds (for-profit enterprises,
-  local and national governments, NGOs, etc.).
+  この手法は、意思決定プロセスの前段階での使用を想定しており、さまざまな種類の組織（営利企業、地方自治体、国家政府、NGOなど）の戦略的ポジションを評価するツールとして使用できます。
 
 
-  I﻿t helps to work out if something is an internal or external factor, so ask yourself if it would exist even if your business didn't. If it would, then it's an external factor (e.g. new technology)
+  それが内的要因なのか外的要因なのかを判断するのに役立ちます。あなたのビジネスがなかったとしても、それが存在するかどうかを自問してください。もしそうであれば、それは外部要因です（例えば、新しいテクノロジー）。
 
 howTo: >-
-  1. Decide on the **objective** of your SWOT analysis
+  1. SWOT分析の**目的**を決める
+    
+    SWOT分析を最大限に活用するためには、最初から疑問や目的を念頭に置くべきです。例えば、新しいプロダクトやサービスを導入すべきかどうか、あるいはプロセスを変更すべきかどうかを決定するためにSWOT分析を利用することができます。
 
-   To get the most out of your SWOT analysis, you should have a question or objective in mind from the start. For example, you could use a SWOT analysis to help you decide if you should introduce a new product or service, or change your processes.
+  2. あなたのビジネス、業界、市場を**調査**する
 
-  2. **Research** your business, industry and market
+    SWOT分析を始める前に、自社のビジネス、業界、市場を理解するための調査が必要です。スタッフ、ビジネス・パートナー、顧客と話すことで、さまざまな視点から調査することができます。また、市場調査を行い、競合他社についても調べましょう。
 
-   Before you begin the SWOT analysis you need to do some research to understand your business, industry and market. Get a range of perspectives by talking to your staff, business partners and clients. Also conduct some market research and find out about your competitors.
+  3. あなたのビジネスの**強み**を挙げる
 
-  3. List your business's **strengths**
+    最初のステップは、あなたのビジネスの強みと思われるものを特定し、リストアップすることです。例えば、従業員、資金力、事業立地、コスト優位性、競争力などに関する強みを挙げることができます。
 
-   The first step is to identify and list what you think are your business's strengths. Examples could include strengths relating to employees, financial resources, your business location, cost advantages and competitiveness.
+    SWOT分析のこの段階では、リストは決定的なものである必要はありません。どんなアイデアや考えも奨励されます。ステップ7では、リストに優先順位をつけることになります。
 
-   At this stage of the SWOT analysis, the list does not need to be definitive. Any ideas and thoughts are encouraged. Step 7 is where the list is prioritised.
+  4. あなたのビジネスの**弱点**を挙げる
 
-  4. List your business's **weaknesses**
+   あなたのビジネスにおいて、弱み（他者に対して不利になる点）と思われる点を挙げてください。弱みには、新製品や顧客の不在、スタッフの欠勤、知的財産の不足、市場シェアの低下、市場までの距離などが考えられます。
 
-   List things in your business that you consider to be weaknesses (i.e. that put your business at a disadvantage to others). Weaknesses could include an absence of new products or clients, staff absenteeism, a lack of intellectual property, declining market share and distance to market.
+   SWOT分析で指摘された弱点に必ず対処しましょう。弱点のリストは、あなたのビジネスが時間とともにどのように成長したかを示すことができます。１年後にSWOT分析を見直すと、弱点が解消されていることに気づくかもしれません。新たな弱点が見つかるかもしれませんが、古い弱点がなくなったことは進歩の証です。
 
-   Make sure you address the weaknesses raised in your SWOT analysis. The list of weaknesses can indicate how your business has grown over time. When you review the SWOT analysis after a year, you may notice that your weaknesses have been resolved. While you may find new weaknesses, the fact that the old ones are gone is a sign of progress.
+  5. あなたのビジネスにおける潜在的な**機会**を挙げる
 
-  5. List potential **opportunities** for your business
+   あなたのビジネスにとって可能性のある外部機会について考えてみましょう。あなたのビジネスのある側面にとっての機会が、別の側面にとっては脅威となる可能性もあります（例えば、消費者のトレンドに追いつくために新商品の導入を検討するかもしれませんが、競合他社がすでに同様の商品を持っているかもしれません）。SWOT分析では、同じ項目を機会と脅威の両方としてリストアップすべきではありません。
 
-   Think about the possible external opportunities for your business. These are not the same as your internal strengths, and are not necessarily definite – an opportunity for one aspect of your business could be a threat to another (e.g. you may consider introducing a new product to keep up with consumer trends, but your competitors may already have a similar product). Keep this in mind, but for the SWOT analysis, the same item shouldn't be listed as both an opportunity and a threat.
+   機会としては、新技術、研修プログラム、パートナーシップ、多様な市場、政権交代などが考えられる。
 
-   Opportunities could include new technology, training programs, partnerships, a diverse marketplace and a change of government.
+  6. 事業に対する潜在的な**脅威**を挙げる
 
-  6. List potential **threats** to your business
+   あなたのビジネスにとって脅威となりうる、あるいは問題となりうる外部要因を挙げてください。脅威の例としては、失業率の上昇、競争の激化、金利の上昇、グローバル市場の不確実性などが考えられます。
 
-   List external factors that could be a threat or cause a problem for your business. Examples of threats could include rising unemployment, increasing competition, higher interest rates and the uncertainty of global markets.
+  7. SWOTから**優先事項**を設定する
 
-  7. Establish **priorities** from the SWOT
+   上記のステップを完了すると、4つのリストができあがります。理想的には、これらのリストを並べて表示することで、あなたのビジネスがどのように運営されているのか、どのような問題に取り組む必要があるのかの全体像を把握することができます。そして、どの問題が最も重要で、どの問題は後で対処できるかを検討します（つまり、優先順位をつけた4つのリストを作成します）。
 
-   When you have completed the steps above, you will have 4 separate lists. Ideally, these lists can be displayed side-by-side so you can have an overall picture of how your business is running and what issues you need to address. You can then work out what issues are the most important and what can be dealt with later (i.e. develop 4 prioritized lists).
+  8. SWOTの**問題に対処する**ための戦略を立てる
 
-  8. Develop a strategy to **address issues** in the SWOT
+   優先順位をつけた4つのリストを見直し、次のように問いかける:
 
-   Review your 4 prioritized lists by asking:
-
-   Once you have answered these questions and finalised your lists, you can now use the SWOT analysis to develop strategies for achieving your business goals.
+   これらの質問に答え、リストが確定したら、今度はSWOT分析を使ってビジネス目標を達成するための戦略を練ることができます。
 mediaGallery:
   - link: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/SWOT_en.svg/220px-SWOT_en.svg.png
 resources:
