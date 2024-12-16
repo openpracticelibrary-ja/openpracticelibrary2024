@@ -1,59 +1,57 @@
 ---
 templateKey: practice-page
-title: Risk Radar
-subtitle: "Keep risks in view for effective monitoring and control "
+title: リスク・レーダー
+subtitle: "効果的なモニタリングとコントロールのために、リスクを常に視野に入れる"
 date: 2022-01-14T21:16:23.177Z
 authors:
   - daveesra
 mobiusTag: delivery
 icon: /images/istockphoto-1330287885-612x612.jpg
-whatIs: This practice ensures the team continues to update their risk log,
-  analysis, and strategies as the project progresses and the environment
-  changes.
-whyDo: Complacency is a top killer for projects. If a team becomes complacent
-  and fails to monitor risks (or identify new ones), a project can suffer.
+whatIs: このプラクティスにより、プロジェクトが進行し、環境が変化しても、チームはリスクのログ、分析、戦略を更新し続けることができます。
+whyDo: 自己満足はプロジェクトにとって最大の敵です。チームが自己満足に陥り、リスクの監視（あるいは新たなリスクの特定）を怠れば、プロジェクトは苦しむことになります。
 howTo: >-
-  The last step in the process is monitoring and controlling the risk management
-  process by making sure our strategies are effective, continually looking for
-  new or escalating risks and ways to improve.
+  このプロセスの最後のステップでは、私たちの戦略が効果的であることを確認し、継続的に新しいリスクやエスカレーションするリスク、改善策を探すことによって、リスク管理プロセスを監視・管理することです。
 
 
-  Risk Burn-Down Graphs
+  リスク・バーンダウン・グラフ
 
 
-  Risk burn-down graphs are a great way of showing the project's cumulative risk position and trends over time. They are stacked area graphs of risk severity that allow trends, along with new and escalating risks to be easily identified.
+  リスクバーンダウングラフは、プロジェクトの累積リスクの位置と経時的な傾向を示す素晴らしい方法です。これは、リスクの深刻度をエリアグラフとして積み重ねたもので、トレンドや新規リスク、エスカレートするリスクを容易に特定することができます。
 
 
-  Risk retrospectives are periodic reviews of the risk and opportunity log and risk management processes being used on the project. Just as we review the evolving product and team processes throughout the project, so should we be evaluating the effectiveness of the risk management plan and processes being used by the team.
+  リスク・レトロスペクティブ
 
 
-  What are some types of questions we could/should be asking when we regularly review our risk management approach?
+  リスクレトロスペクティブとは、プロジェクトで使用されているリスク・機会ログと リスクマネジメントプロセスを定期的にレビューすることす。プロジェクトを通じて、進化する製品やチームのプロセスをレビューするのと同様に、チームが使用しているリスク管理計画やプロセスの有効性を評価する必要があります。
 
 
-  1. Are we eliminating or reducing our risks?
-
-  2. How is our remaining Risk EMV burning down?
-
-  3. What is our Risk EMV Reduction Velocity per iteration?
-
-  4. When will our remaining Risk EMV be zero?
-
-  5. Do we have any new or escalating risks?
-
-  6. What are the root causes of our risks and can we eliminate any of them?
-
-  7. Which risk avoidance or elimination strategies are working and which are not?
-
-  8. For risks that we chose to transfer, how are the third parties managing them?
-
-  9. What can we learn from them, or would we be better bringing them back internally?
-
-  10. How are our team risk management capabilities developing?
-
-  11. Where do we still need mentoring and support
+  リスクマネジメントのアプローチを定期的に見直す際に、どのような質問をすればよいのか、また、すべきなのか？
 
 
-  Finally, reviewing is not enough — we need to update our risk management artifacts, update our risk lists and EMV scores, and groom the backlog with new features and new risk responses; and always rebalancing the priorities. Update the risk information radiator graphs (like our risk burn-down graphs), and make sure people are not only looking at the impacts of new work in terms of estimates, but potential risks, too.
+  1. リスクを排除しているか、減らしているか？
+
+  2. 残されたリスクEMV(Expected Monetary Value：期待金額価値)はどのように減っている（バーンダウンしている）か？
+
+  3. イテレーションごとのリスクEMV削減ベロシティは？
+
+  4. 残りのリスクEMVはいつゼロになるのか？
+
+  5. 新たなリスクやエスカレートしているリスクはあるか？
+
+  6. リスクの根本的な原因は何か、そしてその原因を取り除くことはできるのか?
+
+  7. どのリスク回避・排除戦略が有効で、どれが有効でないか?
+
+  8. 移管することを選択したリスクについて、第三者はどのように管理しているか?
+
+  9. 我々は彼らから何を学ぶことができるのか、あるいは彼らを内部へ呼び戻した方がいいのか?
+
+  10. チームのリスク管理能力はどのように向上しているか？
+
+  11. まだ指導やサポートが必要なところはどこか
+
+
+  最後に、レビューするだけでは十分ではありません。リスクマネジメントの成果物を更新し、リスクリストとEMVスコアを更新し、新機能と新リスク対応でバックログを整備し、常に優先順位のバランスを見直す必要があります。リスク情報のラジエーターグラフ（リスクのバーンダウングラフなど）を更新し、新しい作業の影響を見積もりだけでなく、潜在的なリスクも見るようにします。
 mediaGallery:
   - link: https://4.bp.blogspot.com/-ZWgssial6Uk/W9GANoS_XiI/AAAAAAAACbk/ezB1zj234Sw4CPBqygTkmvLlPrKJzliBQCLcBGAs/s1600/untitled.png
 participants: []

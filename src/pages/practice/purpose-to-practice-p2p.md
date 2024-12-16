@@ -1,8 +1,7 @@
 ---
 templateKey: practice-page
-title: "Purpose to practice (P2P) "
-subtitle: "Enables stakeholders to collaboratively shape the success of their
-  initiative. "
+title: "プラクティスのための目的(Purpose to practiceP2P) "
+subtitle: "ステークホルダーが共同で取り組みの成功の形を作る"
 date: 2023-10-30T11:14:03.685Z
 authors:
   - shabnoorshah
@@ -13,146 +12,144 @@ tags:
 mobiusTag: discovery
 icon: /images/p2p-worksheet-liberating-structures.jpeg
 whatIs: >-
-  **Five Structural Elements – Min Specs**
+  **5つの構造要素 - 最小スペック**
 
 
-  **What is made possible?** By using **P2P** at the start of an initiative, the stakeholders can shape together all the elements that will determine the success of their initiative. The group begins by generating a shared purpose (i.e., why the work is important to each participant and the larger community). All additional elements—principles, participants, structure, and practices—are designed to help achieve the purpose. By shaping these five elements together, participants clarify how they can organize themselves to adapt creatively and scale up for success. For big initiatives, **P2P** makes it possible to include a large number of stakeholders in shaping their future initiative.
+  **何が可能になるのか？** イニシアチブの開始時に**P2P**を使用することで、関係者はイニシアチブの成功を決定するすべての要素を一緒に形作ることができます。グループはまず、共有の目的（すなわち、なぜその活動が各参加者やより大きなコミュニティにとって重要なのか）を生み出すことから始めます。さらに、原則、参加者、構造、プラクティスのすべての要素が、目的の達成を助けるために設計されます。これら5つの要素を一緒に形作ることで、参加者は、創造的に適応し、成功のために規模を拡大するために、どのように自分たちを組織化できるかを明確にします。大きなイニシアチブの場合、**P2P**は、将来のイニシアチブの形成に多くのステークホルダーを含めることもできます。
+
+  
+
+  **Attribution**: アンリ・リップマノヴィッチとキース・マッキャンドレスによって開発されたLiberating Structure。ディー・ホックにインスパイアされている（彼の著書*Birth of the Chaordic Age*を参照）。
 
 
-  \
-
-  **Attribution**: Liberating Structure developed by Henri Lipmanowicz and Keith McCandless. Inspired by Dee Hock (see his book *Birth of the Chaordic Age*).
-
-
-  V﻿isit : <https://www.liberatingstructures.com/33-purpose-to-practice-p2p/>
+  Visit : <https://www.liberatingstructures.com/33-purpose-to-practice-p2p/>
 whyDo: >-
-  * Engage and focus everyone’s imagination in designing the collective future
-  of participants.
+  * 参加者の集合的な未来をデザインするために、全員の想像力を結集し、集中させます。
 
-  * Avoid “design” by a small group of people or experts-only behind closed doors.
+  * 少人数や専門家だけの密室での”デザイン”は避けます。
 
-  * Pull together all the elements needed to launch and sustain an effort, thereby avoiding a fragmented process.
+  * 取り組みの立ち上げと継続に必要なすべての要素をまとめ、断片的なプロセスを回避します。
 
-  * Develop innovative strategies that can be implemented and spread quickly because there is shared ownership.
+  * 共有のオーナーシップがあるため、迅速に実施・普及できる革新的な戦略を開発します。
 
-  * Increase resilience and the ability to absorb disruptions by distributing power fairly.
+  * 力を公平に分配することで、回復力と障害を吸収する能力を高めます。
 
-  * Build the capacity to rapidly adapt any of the elements to changing circumstances.
+  * 状況の変化に応じて、あらゆる要素を迅速に適応させる能力を構築します。
 howTo: >-
-  1. Structuring Invitation
+  1. 参加者
 
 
-  * Invite all or most stakeholders to participate in the design of their new initiative in order to specify its five essential elements: purpose, principles, participants, structure, and practices.
+  * 目的、原則、参加者、構造、実践という5つの必須要素を特定するために、新しいイニシアチブの設計に全員または大半のステイクホルダーに参加してもらいます。
 
 
-  2. How Space Is Arranged and Materials Needed
+  2. スペースの取り方と必要な材料
 
 
-  * Chairs and small tables for people to work in groups of 4
+  * 4人一組で作業できる椅子と小テーブル
 
-  * A large wall with poster paper for recording the P2P result for each element
+  * 各要素のP2P結果を記録するためのポスター紙が貼られた大きな壁
 
-  * For each participant five worksheets, one for each of the five elements
-
-
-  3. How Participation Is Distributed
+  * 参加者1人につき5枚のワークシート（5つの要素ごとに1枚ずつ）を準備
 
 
-  * All individuals who have a stake in launching the initiative are included
-
-  * Everyone has an equal opportunity to contribute
+  3. どのように参加するか
 
 
-  4. How Groups Are Configured
+  * イニシアチブの立ち上げに利害関係を持つすべての個人が含まれる
+
+  * 誰もが平等に貢献する機会を与えられる
+
+
+  4. グループの構成
 
 
   * [1-2-4-All](https://www.liberatingstructures.com/1-1-2-4-all/)
 
-  * Whole group for finalizing each element
+  * グループ全体で各要素を最終決定
 
 
-  5. Sequence of Steps and Time Allocation
+  5. 手順と時間配分
 
 
-  * Introduce the idea of **P2P**, the five elements, and related questions, and hand out blank worksheets. 5 min.
+  * **P2P**の考え方、5つの要素、関連する質問を紹介し、白紙のワークシートを配布する。5分
 
-  * To clarify the first element, Purpose, ask the question: “Why is the work important to you and the larger community?”
+  * 最初の要素である「目的」を明確にするために、こう質問してみよう： 「なぜその仕事が、あなたやより大きなコミュニティにとって重要なのですか？」
 
-  * Use **1-2-4** to generate individual ideas and stories for Purpose. 10 min.
+  * **1-2-4**を使って、「目的」のための個々のアイデアやストーリーを生み出す。10分
 
-  * In groups of four, compare, sift, and amplify the top ideas. 10 min.
+  * 4人1組のグループで、上位のアイデアを比較し、ふるいにかけ、増幅させる。10分
 
-  * As a whole group, integrate themes and finalize ideas for Purpose. 10 min.
+  * グループ全体として、テーマを統合し、「目的」のアイデアをまとめる。10分
 
-  * Move to the remaining **P2P** elements, in turn, repeating the three steps of **1-2-4-All**. Be prepared to go back and revise previous elements as needed (expect some messy nonlinearity). Use the following questions to guide the development of the next four elements:
+  * 残りの**P2P**要素に順番に移り、**1-2-4-All**の3つのステップを繰り返す。必要に応じて、前の要素に戻って修正する用意をしておくこと（厄介な非直線性が予想される）。次の4つの要素の開発の指針として、以下の質問を使用する：
 
-    * Principles: “What rules must we absolutely obey to succeed in achieving our purpose?”
-    * Participants: “Who can contribute to achieving our purpose and must be included?”
-    * Structure: “How must we organize (both macro- and microstructures) and distribute control to achieve our purpose?”
-    * Practices: “What are we going to do? What will we offer to our users/clients and how will we do it?”
-  * After each element, ask, “Has this element shed new light that suggests revisions to previous elements?” 5 min.
+    * 原則：Principles: “目的を達成するために、絶対に守らなければならないルールとは？”
+    * 参加者：Participants: “目的達成に貢献でき、参加させなければならないのは誰か？”
+    * 構造：Structure: “目的を達成するためには、どのように組織化（マクロとミクロの両構造）し、コントロールを配分しなければならないのか？”
+    * プラクティス：Practices: “我々は何をしようとしているのか？ユーザーや顧客に何をどのように提供するのか？”
+  * 各要素の後に、「この要素は、前の要素の見直しを示唆するような新しい光を当てたか？」と質問して確認する 5分
 
-  * When all elements have been completed, ask participants to step back and take a close look at their draft of the five elements together. Ask them to use **What, So What, Now What?** in small groups to make sense of all of the possible next steps and prioritize them as a whole group. 15 min.
+  * すべての要素が完了したら、参加者に一歩下がって、5つの要素の草案をじっくりと一緒に見てもらう。小グループで「What, So What, Now What?」を確認する。 15分
 
-  * After the initiative has been launched, invite the participants to revisit their P2P design periodically and adapt elements based on their experience.
-
-
-  **Tips and Traps**
+  * イニシアチブが開始された後、参加者に定期的にP2Pの設計を再検討し、経験に基づき要素を修正するよう促がす。
 
 
-  * Crafting a powerful, wildly attractive “purpose” is the most important step: you may want to use [Nine Whys](https://www.liberatingstructures.com/3-nine-whys/), [Appreciative Interviews](https://www.liberatingstructures.com/5-appreciative-interviews-ai/), or [TRIZ](https://www.liberatingstructures.com/6-making-space-with-triz/) to deepen the conversation
-
-  * A purpose may be expressed as something positive you are going to start/create or something negative you are going to stop
-
-  * Work in quick cycles, failing forward iteratively
-
-  * Multiple sessions spread out over weeks or even months may be required
-
-  * “Structure” usually is the element that requires the most imagination and leaps away from top-down to more distributed control.  Using metaphors (e.g., how can we structure ourselves like a spider plant?) and visual representations can help draw out creative designs.
-
-  * Principles: *Must dos* and *must not dos* often come from hard lessons learned in the field (positive and negative)
-
-  * Rely on small groups to do the heavy lifting, and keep it moving
-
-  * Keep rounds on schedule and when more time is needed, do two rounds
-
-  * Rely on and draw out the inspiring-and-despairing experience of group members
-
-  * Invite the participants to use their intuition as the process unfolds
+  **ヒントとワナ**
 
 
-  **Riffs and Variations**
+  * パワフルでワイルドな魅力のある「目的」を作り上げることが最も重要なステップである。会話を深めるために、[Nine Whys](https://www.liberatingstructures.com/3-nine-whys/)、[Appreciative Interviews](https://www.liberatingstructures.com/5-appreciative-interviews-ai/)、[TRIZ](https://www.liberatingstructures.com/6-making-space-with-triz/)を使うことも有効です。
+
+  * 目的とは、何かポジティブなことを始めようとする／創造しようとすること、あるいは何かネガティブなことをやめようとすることとして表現されます。
+
+  * 速いサイクルで仕事を進め、反復的に失敗を繰り返します。
+
+  *  数週間から数ヶ月に渡る複数回のセッションが必要な場合もあります。
+
+  * 「構造」は通常、最も想像力を必要とする要素であり、トップダウンからより分散したコントロールへと飛躍していきます。 メタファー（例：クモの巣のように自分たちを構造化するにはどうしたらいいか）や視覚的な表現を使うことで、創造的なデザインを引き出すことができます。
+
+  * 原則：*しなければならないこと*と*してはならないこと*は、しばしば現場で学んだ厳しい教訓から生まれます（肯定的なものも否定的なものも）。
+
+  * 小グループに大きな仕事を任せ、動き続けます。
+
+  * 予定通りにラウンドし、時間が足りない場合は2ラウンド行います。
+
+  * グループ・メンバーの感動と苦悩の経験を頼りにし、アイデアを引き出します。
+
+  * プロセスの展開に合わせて、参加者に直感を働かせるよう促します。
 
 
-  * Start with one 30-minute, very rapid cycle covering all five elements to illustrate the need for a strong and clear purpose: without one, it is easy to come up with a half-baked design
-
-  * Graphic recording helps to hold attention and focus through the rigorous design process
-
-  * You can add questions to enrich the conversation about Practices: What is happening around us that creates an opportunity? What is at stake if we do not take a risk? Where are we starting, honestly?
-
-  * When integrating all five elements for a project is too much, just do the one or two design elements that seem most important
-
-  * Use the five **P2P** questions routinely as an easy checklist for small projects
-
-  * Use with virtual groups by inviting participants to answer the five questions via a chat version of **1-2-All**. Sift and sort answers with a whiteboard and a person playing a “synthesizer” role. Don’t worry about perfection in the first rounds. Virtual rounds can deepen or complement face-to-face exchanges.
-
-  * Use **P2P** to structure a much longer design session (e.g., a planning or strategy retreat)
-
-  * Invite talented participants to take on roles (e.g., writing, drawing, synthesizing)
+  **リフとバリエーション**
 
 
-  **Examples**
+  * 強く明確な目的が必要であることを説明するために、5つの要素すべてを網羅する30分の超高速サイクルから始めます。
+
+  * グラフィック・レコーディングは、厳格なデザイン・プロセスを通じて、注意と集中力を維持するのに役立ちます。
+
+  * プラクティスに関する会話を充実させるために、質問を加えることができる： チャンスを生み出すようなことが身の回りで起きているのか？リスクを冒さなければ何が危ういのか？正直なところ、私たちは何から始めているのか？
+
+  * プロジェクトのために5つの要素すべてを統合するのは多すぎる場合、最も重要と思われる1つか2つのデザイン要素だけを行います。
+
+  * 小さなプロジェクトの簡単なチェックリストとして、日常的に5つの**P2P**質問を使用します。
+
+  * **1-2-All**のチャットバージョンで参加者に5つの質問に答えてもらい、バーチャルグループで行うことができます。ホワイトボードと「シンセサイザー」役の人を使って、答えをふるいにかけて並べ替えます。最初のラウンドで完璧を求める必要はありません。バーチャルのラウンドは、対面でのやりとりを深めたり、補完したりすることができます。
+
+  * **P2P**を使って、もっと長いデザイン・セッションを構成します（例えば、計画や戦略の撤退）。
+
+  * 才能ある参加者に役割分担をします。（例：書く、描く、合成する）
 
 
-  * By the leaders of the Conversation Café dialogue movement
+  **事例**
 
-  * The Quality Commons, a group of researchers from eight health systems, used **P2P** to successfully create their consortium
 
-  * Going through the first stage of the **P2P**, a management team discovered a much deeper purpose than it expected. The new purpose and shared experience inspired the team to rethink its business model.
+  * 対話運動「カンバセーション・カフェ」のリーダーたちによる事例。
 
-  * To guide the launch of LS user groups
+  * 8つの医療システムの研究者グループであるクオリティ・コモンズは、**P2P**を利用してコンソーシアムの設立に成功した。
 
-  * By the Latin American region of a corporation to launch a new customer-focused business strategy
+  * **P2P**の最初の段階を経て、ある経営チームは予想以上に深い目的を発見した。新しい目的と共有された経験は、チームにビジネスモデルの再考を促した。
+
+  * LSユーザー・グループの立ち上げを指導
+
+  * ある企業のラテンアメリカ地域が、顧客重視の新しいビジネス戦略を立ち上げる。
 mediaGallery:
   - link: https://static1.1.sqspcdn.com/static/f/1272828/23306872/1376411846083/User+Group+P2P.jpg
   - link: https://static1.1.sqspcdn.com/static/f/1272828/24612647/1395633369757/Slide30.jpg

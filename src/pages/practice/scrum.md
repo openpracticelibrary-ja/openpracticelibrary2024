@@ -1,98 +1,91 @@
 ---
 templateKey: practice-page
-title: Scrum
-subtitle: A delivery framework for deliver value early and often
+title: スクラム
+subtitle: 早くかつ、頻繁に価値を提供するためのデリバリー・フレームワーク
 date: 2023-02-20T10:14:45.426Z
 authors:
   - rmarting
 mobiusTag: delivery
 icon: /images/scrum.png
-whatIs: Scrum is a framework that embodies Agile and makes the principles a
-  reality through a group of practices. It is also, by far, the most popular
-  Agile framework. It’s designed to help teams work tougher more effectively and
-  efficiently, by providing a set of roles, events, and artifacts that
-  facilitate collaboration and continuous improvement.
+whatIs: スクラムは、アジャイルを体現するフレームワークであり、プラクティス群を通じて原則（アジャイルプリンシパル）を現実のものとします。また、圧倒的に人気のあるアジャイルフレームワークでもあります。スクラムは、コラボレーションと継続的な改善を促進する役割、イベント、成果物のセットを提供することで、チームがより効果的かつ効率的にタフに働けるように設計されています。
 whyDo: >
-  Scrum is a simplicity framework aligned with Agile values and principles
-  emphasizing iterative and incremental delivery, with a focus on delivering
-  value to the customer early and often.
+  スクラムは、アジャイルの価値観と原則に沿ったシンプルなフレームワークであり、反復的かつ漸進的なデリバリーを重視し、顧客に早期に頻繁に価値を提供することに重点を置いています。
 
 
-  The main benefits of Scrum are:
+  スクラムの主な利点は次のとおり:
 
 
-  * Increase productivity and efficiency by breaking down work into smaller, more manageable pieces.
+  * 仕事を細分化し、管理しやすくすることで、生産性と効率を高める。
 
-  * Improve collaboration and communication within the team and with stakeholders.
+  * チーム内およびステークホルダーとのコラボレーションとコミュニケーションを改善する。
 
-  * Ensure that we’re building the right thing by prioritizing features based on value to the customer.
+  * 顧客にとっての価値に基づいて機能に優先順位をつけることで、より正しいものを作る。
 
-  * Deliver working software early and often, which reduces risk and provides feedback for continuous improvement.
+  * 動作するソフトウェアを早期かつ頻繁に提供することで、リスクを軽減し、継続的な改善のためのフィードバックを提供する。
 
-  * Adapt to changing requirements and priorities throughout the project, rather than sticking to a rigid plan.
+  * 堅苦しい計画に固執するのではなく、プロジェクトを通じて変化する要件や優先順位に適応する。
 howTo: >-
-  Scrum can be explained following the 3-5-3 formation (which sounds a bit like
-  a formation for a sports team, such as rugby):
+  スクラムは、3-5-3フォーメーション（ラグビーなどのスポーツチームのフォーメーションに少し似ている）に従って説明することができます:
 
 
-  * 3 Roles
+  * 3 つの役割
 
-  * 5 Events (sometimes known as ceremonies)
+  * 5 つのイベント (セレモニーとしても知られています)
 
-  * 3 Artifacts
-
-
-  **3 Roles:**
+  * 3 つの成果物
 
 
-  * Product Owner: Conveys the message of the envisioned product and sets priorities for the team.
-
-  * Scrum Master: Coaches the team on Scrum the process and helps iterate towards a productive environment.
-
-  * Development Team Members: Self-organize to transform backlog items into a potentially releasable product increment.
+  **3 つの役割:**
 
 
-  **5 Events:**
+  * **プロダクトオーナー**: 思い描くプロダクトのメッセージを伝え、チームの優先順位を設定する。
+
+  * **スクラムマスター**: スクラムのプロセスについてチームを指導し、生産的な環境に向けた反復作業を支援する。
+
+  * **開発チームメンバー**: バックログアイテムをリリース可能なプロダクトのインクリメントに変換するために自己組織化する。
 
 
-  * Sprint Planning: Commit to a set of defined work as a team for the upcoming sprint cycle. The end result is the Sprint Backlog.
-
-  * Daily Standup: Daily sync to share common understanding of the goals, coordinate the team effort, report on progress of work, and communicate problems and improvements.
-
-  * Sprint Review: Review what was completed during the sprint with all relevant stakeholders to collect feedback.
-
-  * Sprint Retrospective: Help teams reflect on their internal team process with the goal to continuously improve.
-
-  * Sprint: A time-boxed event that moves the team towards the goal set for that iteration and ends with reviewing the product increment.
+  **5 つのイベント:**
 
 
-  **3 Artifacts:**
+  * **スプリントプランニング**: 次のスプリントサイクルのために、チームとして定義された一連の作業にコミットするイベント。その最終結果がスプリントバックログである。
+
+  * **デイリースタンドアップ**: 目標に対する共通の理解を共有し、チームワークを調整し、仕事の進捗状況を報告し、問題点や改善点を伝えるための日次で行う同期イベント。
+
+  * **スプリントレビュー**: スプリント中に完了したことを関係者全員でレビューし、フィードバックを収集するイベント。
+
+  * **スプリントレトロスペクティブ**: 継続的な改善を目標に、チームがチーム内のプロセスを振り返るのを支援するイベント。
+
+  * **スプリント**: そのイテレーションで設定されたゴールに向けてチームを動かし、製品インクリメントをレビューして終了するタイムボックス。
 
 
-  * Product Backlog: Set of all baseline requirements prioritized for the team.
-
-  * Sprint Backlog: Subset of the Product Backlog that the team agreed to pull into the Sprint to work on.
-
-  * Product Increment: The most important artifact that is produced at the end of each Sprint.
+  **3 つの成果物:**
 
 
-  The workflow of Scrum starts with a prioritization of the Product Backlog during the Sprint Planning between the Product Owner and Development Team to create the Sprint Backlog for the next Sprint. The Development Team holds daily stand-up meetings to monitor progress and identify obstacles, where the Scrum Master could help to. At the end of the iteration the Development team will show the Product Increment during a Sprint Review with the Stakeholders. Finally a Sprint Retrospective allows the Development Team to identify areas of improvement and reflect about their internal process.
+  * **プロダクトバックログ**: チームのために優先順位付けされたすべての基本要件のセット。
+
+  * **スプリントバックログ**: プロダクトバックログのサブセットで、チームがスプリントに組み込んで作業することに合意したもの。
+
+  * **プロダクトインクリメント**: 各スプリントの終了時に作成される最も重要な成果物。
+
+
+  スクラムのワークフローは、次のスプリントのためのスプリントバックログを作成するために、プロダクトオーナーと開発チームの間で行われるスプリントプランニングで、プロダクトバックログの優先順位付けすることから始まります。開発チームは毎日スタンドアップミーティングを行い、進捗を監視し、スクラムマスターが支援できる障害を特定します。イテレーションの終わりには、開発チームはステークホルダーとのスプリントレビューでプロダクトインクリメントを示します。最後にスプリントレトロスペクティブを行うことで、開発チームは改善点を特定し、内部プロセスを振り返ることができます。
 mediaGallery:
   - link: https://github.com/openpracticelibrary/openpracticelibrary/blob/main/static/images/scrum.png?raw=true
   - link: https://github.com/openpracticelibrary/openpracticelibrary/blob/main/static/images/sprint-board.png?raw=true
 resources:
-  - link: https://openpracticelibrary.com/practice/iteration-planning/
+  - link: https://openpracticelibrary-ja.netlify.app/practice/iteration-planning/
     linkType: web
-    description: Sprint Planning
-  - link: https://openpracticelibrary.com/practice/daily-standup/
+    description: イテレーション (スプリント) プランニング
+  - link: https://openpracticelibrary-ja.netlify.app/practice/daily-standup/
     linkType: web
-    description: Daily Standup
-  - link: https://openpracticelibrary.com/practice/showcase/
+    description: デイリー スタンドアップ
+  - link: https://openpracticelibrary-ja.netlify.app/practice/showcase/
     linkType: web
-    description: Showcase
-  - link: https://openpracticelibrary.com/practice/retrospectives/
+    description: ショーケース
+  - link: https://openpracticelibrary-ja.netlify.app/practice/retrospectives/
     linkType: web
-    description: Retrospectives
+    description: レトロスペクティブ
   - link: https://scrumguides.org/
     linkType: web
     description: Scrum Guides

@@ -1,7 +1,7 @@
 ---
 templateKey: practice-page
-title: Backlog Filter
-subtitle: Identify and action high complexity backlog items in any context.
+title: バックログ・フィルター
+subtitle: どのような状況においても、複雑性の高いバックログアイテムを特定し、対処する。
 date: 2022-05-24T05:12:19.659Z
 authors:
   - john-remoteaf
@@ -11,59 +11,56 @@ tags:
 mobiusTag: discovery
 icon: /images/remoteaf-backlog-filter.png
 whatIs: >-
-  The backlog filter is a tool used to surface high risk work items. This canvas
-  looks at work through the lens of complexity by focusing on the teams'
-  knowledge. Understanding which work items need attention allows managers to
-  intervene.
+  バックログフィルターは、リスクの高い作業項目を浮上させるためのツールです。このキャンバスは、チームのナレッジに焦点を当てることで、複雑さのレンズを通して仕事を見ることができます。どの作業項目に注意が必要かを理解することで、マネジャーが介入できるようになります。
 
 
-  In most cases, this will lead to identifying and prioritizing the most unknown work higher in the backlog. Doing this will de-risk the backlog and improve predictability for the team. As with all remote:af patterns, the backlog filter is designed to be effective regardless of context and can be used across many types of teams.
+  ほとんどの場合、これはバックログで最も未知の仕事を特定し、優先順位を高くすることにつながります。こうすることで、バックログのリスクを減らし、チームの予測可能性を向上させることができます。他のremote:afパターンと同様に、バックログフィルターはコンテキストに関係なく効果的であるように設計されており、様々なタイプのチームで使用することができます。
 
 
-  The remote:af backlog filter has been made available to the public for use. All copyright in the canvas is owned by Remote Agility Framework Pty Ltd and used under license.
+  remote:afバックログフィルターは一般に公開されています。このキャンバスの著作権はすべてRemote Agility Framework Pty Ltdが所有し、ライセンスに基づき使用されています。
 
 
-  Based on the work of Kim Ballestrin and Dr Saeed Shalbafan
+  Kim Ballestrin と Dr Saeed Shalbafanの研究に基づきます。
 whyDo: >-
-  Common signals for using the remote:af backlog filter are;
+  remote:afバックログフィルターを使用する一般的なタイミングは以下の通り；
 
 
-  * the team is exploring new work that has arrived in its backlog
+  * チームは、バックログにある新しい仕事を探っている
 
-  * the team needs to deliver work outside their regular expertise
+  * チームが通常の専門外の仕事を提供する必要がある場合
 
-  * the team has struggled with forecasting work effectively
+  * チームは効果的な仕事の予測に苦労している
 
-  * the team needs to communicate when things are likely to be delivered and/or the risk to delivery forecasts
+  * チームは、いつ納品されそうなのか、あるいは納品予測に対するリスクを伝える必要がある
 howTo: >-
-  **Preparation:**
+  **準備:**
 
 
-  * Download a copy of the remote:af backlog filter using the link provided
+  * remote:afバックログフィルターのコピーをダウンロードする。
 
-  * Upload the template to your preferred virtual whiteboard tool or print it out for in person workshops
-
-
-  **Filter the backlog:**
+  * テンプレートをお好みのバーチャル・ホワイトボード・ツールにアップロードするか、直接ワークショップに参加する場合はプリントアウトする。
 
 
-  1. Explore the work backlog with the team
-
-  2. Individually and silently map work items in the team backlog to the matrix according to:
-
-     * the involvement required from outside the team
-     * how well the team understands how to do the work
-  3. Explore any disagreements, if consensus can’t be reached err on the side of caution
+  **バックログをフィルタリングする:**
 
 
-  **Actions:**
+  1. チームとワークバックログを検討します
+
+  2. チームのバックログにある作業項目を、マトリクスに従って個別に黙々とマッピングします：
+
+     * チーム外部からの関与の必要性
+     * チームが仕事の進め方をどれだけ理解しているか
+  3. 意見の相違を探り、合意に達しない場合は慎重に進める。
 
 
-  * Action the work based on how each item maps to the matrix
+  **アクション:**
 
-  * * Proceed
-    * Plan
-    * Probe
+
+  * 各項目がマトリックスにどのようにマッピングされるかに基づいて作業を行います。
+
+  * * 続行（Proceed）
+    * 計画（Plan）
+    * 調査（Probe）
 mediaGallery:
   - link: https://d33wubrfki0l68.cloudfront.net/c4462488f8d5d91a69f6b0b90dc5f0c03139deb0/5724c/static/8ea46e003f93c4ac5392f32fdf32d0dc/27a09/remoteaf-backlog-filter.png
 resources:
