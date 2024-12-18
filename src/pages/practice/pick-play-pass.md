@@ -1,6 +1,6 @@
 ---
 templateKey: practice-page
-title: ピック-プレー-パス
+title: ピック, プレー, パス (Pick-Play-Pass)
 subtitle: グループ・エンゲージメントのゲーム化
 date: 2022-08-09T13:35:30.853Z
 authors:

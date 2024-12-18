@@ -1,7 +1,7 @@
 ---
 templateKey: practice-page
-title: Hopes and Fears
-subtitle: Reveal your team's expectations and doubts before starting a new journey
+title: 希望と不安
+subtitle: 新しい旅を始める前に、チームの期待と疑問を明らかにする
 date: 2024-02-04T21:34:42.132Z
 authors:
   - ckavili
@@ -9,37 +9,28 @@ authors:
 tags: null
 mobiusTag: discovery
 icon: /images/screenshot-2024-02-04-at-23.16.28.png
-whatIs: H﻿opes and Fears is a practice used to discover the expectations,
-  desires, and concerns of the team members and the stakeholders involved in the
-  process. It aims to identify both positive aspirations (hopes) about what can
-  be accomplished and potential challenges or apprehensions (fears) associated
-  with the journey ahead.
+whatIs: 「希望と不安」は、チームメンバーやプロセスに関わるステークホルダーの期待、願望、懸念を発見するために用いられるプラクティスです。このプラクティスの目的は、達成できることについての前向きな願望（希望）と、これからの旅に伴う潜在的なチャレンジや 不安（恐れ）の両方を明らかにすることです。
 whyDo: >-
-  By using Hopes and Fears, teams can proactively address potential challenges,
-  and create a more focused and aligned approach to achieving the desired
-  outcomes. \
+  希望と不安を活用することで、チームは潜在的な課題に積極的に対処し、望ましい成果を達成するために、より焦点を絞った一致したアプローチを生み出すことができます。
+
+
+  最初からすべてをオープンにすることで、プロジェクトの緊張感や不確実性を取り除くことができます。また、ステークホルダーそれぞれが最も重要なことを発言し、議論する時間を与えます。\
 
   \
 
-  It takes the tension and uncertainty out of a project, by putting everything out in the open right from the start. It also gives each stakeholder time to voice and discuss what's most important to them.\
-
-  \
-
-  Additionally, it cultivates team spirit as members share their ambitions, aspirations, and concerns, finding resonance and mutual understanding among each other.
+  さらに、メンバーが抱負や願望、懸念を共有し、共鳴や相互理解を見出すことで、チームスピリットが培われます。
 howTo: >-
-  1. The Hopes and Fears exercise works best when everyone is open and honest.
-  The environment should be psychologically safe for the participants to share
-  and discuss their hopes and fears. 
+  1. 希望と不安のエクササイズは、全員がオープンで正直であるときに最も効果的です。参加者が希望と恐れを分かち合い、話し合うには、心理的に安全な環境でなければなりません。
 
-  2. Divide whiteboard, or virtual whiteboard, into two areas. Label one area for “Hopes,” and another for “Fears.”
+  2. ホワイトボード（またはバーチャル・ホワイトボード）を2つのエリアに分けます。1つのエリアに 「希望」、もう1つのエリアに 「不安」のラベルを貼ります。
 
-  3. Have everybody write their hopes or fears to sticky notes (each note should feature just one Hope or Fear).
+  3. 希望や不安を付箋に書いてもらいます（それぞれの付箋には希望か恐れを1つだけ書く）。
 
-  4. Place the sticky notes on the appropriate area of the board.
+  4. 付箋紙をボードの適切な場所に貼ります。
 
-  5. Playback and discuss. Identify emerging and common themes.
+  5. プレイバックとディスカッション。新たなテーマや共通のテーマを抽出します。
 
-  6. Keep the artifact posted where the participants can see it. Refer back to it frequently to track progress and update the board. Celebrate the hopes that are realized, and remove fears that melt away. Make sure to address fears that persist too long.
+  6. 成果物は、参加者の目につくところに掲示しておきます。進捗状況を追跡し、ボードを更新するために、頻繁にそれを参照します。実現した希望を祝い、溶けてなくなった不安を取り除いていきます。長引く不安には必ず対処します。
 mediaGallery:
   - link: https://raw.githubusercontent.com/openpracticelibrary/openpracticelibrary/3ce18dc55175a25371dba03455de9c73f7b61871/static/images/screenshot-2024-02-04-at-23.16.28.png
   - link: https://www.youtube.com/watch?v=zjXxUginAEM

@@ -1,7 +1,7 @@
 ---
 templateKey: practice-page
-title: Burnup Chart
-subtitle: "Burnup Chart main objective is to track the progress of a project over time. "
+title: バーンアップチャート
+subtitle: "バーンアップ・チャートの主な目的は、プロジェクトの進捗状況を時系列で追跡すること "
 date: 2024-01-17T16:29:38.326Z
 authors:
   - moimero
@@ -9,34 +9,29 @@ tags:
   - measure
 mobiusTag: delivery
 icon: /images/dall-e-2024-01-17-11.39.57-a-realistic-and-detailed-burnup-chart-used-in-project-management.-the-chart-should-include-a-horizontal-axis-labeled-time-and-a-vertical-axis-labele.png
-whatIs: 'The **Burnup Chart** is a graphical representation used in project
-  management, particularly within agile methodologies. It tracks the progress of
-  a project by showing the amount of work completed over time against the total
-  scope of the project. This chart typically consists of two main lines: one
-  indicating the total amount of work (often referred to as the "scope line")
-  and the other showing the work completed to date.'
+whatIs: '**バーンアップチャート**は、プロジェクトマネジメント、特にアジャイル手法の中で使われるグラフ表現です。これは、プロジェクトの総スコープに対して、時間の経過とともに完了した作業量を示すことによって、プロジェクトの進捗を追跡するものです。このチャートは通常、2本の線で構成されます。1本は作業の総量を示し（しばしば「スコープライン」と呼ばれる）、もう1本は現在までに完了した作業を示します。'
 whyDo: >-
   
 
-  * **Visibility of Progress:** The Burnup Chart provides a clear and visual representation of how much work has been completed and how much is left. This visibility is crucial for stakeholders and team members to understand the project's progress.
+  * **進捗状況の可視化:** バーンアップチャートは、どれだけの作業が完了し、どれだけの作業が残っているかを明確かつ視覚的に表現します。この可視性は、ステークホルダーやチームメンバーがプロジェクトの進捗を理解する上で非常に重要です。
 
-  * **Scope Tracking:** It uniquely highlights any changes in the project's scope. If the scope increases or decreases, this is reflected in the scope line, making it a useful tool for managing scope creep.
+  * **スコープ追跡:** プロジェクトのスコープが変更された場合、その変更点を一意に強調することができます。スコープが増減した場合、スコープラインに反映されるため、スクープ管理に有効なツールとなります。
 
-  * **Predictability:** By visualizing the rate of progress and comparing it with the total scope, the Burnup Chart helps in forecasting when the project is likely to be completed. This is particularly beneficial for planning and adjusting timelines.
+  * **予測可能性:** 進捗率を可視化し、総スコープと比較することで、バーンアップ・チャートはプロジェクトの完了時期を予測するのに役立ちます。これは、タイムラインの計画や調整に特に有益です。
 
-  * **Team Motivation and Morale:** Seeing the actual progress in comparison to the total work can be motivating for team members. It provides a sense of accomplishment and a clear understanding of what remains to be done.
+  * **チームのモチベーションと士気:** 総作業量と比較して実際の進捗状況を見ることは、チームメンバーのモチベーションアップにつながります。達成感が得られ、何が残っているのかを明確に理解することができます。
 howTo: >-
   
 
-  * **Identify Total Scope:** Begin by identifying the total scope of the project. This includes all the tasks, user stories, or features that need to be completed. Represent this as the upper line on your chart.
+  * **スコープ全体を特定:** プロジェクトの全範囲を特定することから始めます。これには、完了する必要のあるすべてのタスク、ユーザーストーリー、またはフィーチャーが含まれます。これをチャートの上の線で表します。
 
-  * **Track Completed Work:** Regularly update the chart with the amount of work completed. This can be done at the end of each day, sprint, or another consistent time interval. This is represented as a rising line that ideally moves closer to the scope line over time.
+  * **完了した作業の追跡:** 完了した仕事の量を定期的にチャートに更新します。これは、各日、スプリント、または他の一貫した時間間隔の終わりに行うことができます。これは、理想的には時間の経過とともにスコープラインに近づいていく上昇線で表されます。
 
-  * **Update for Scope Changes:** If there are any changes to the project's scope, adjust the scope line accordingly. This ensures the chart accurately reflects the current state of the project.
+  * **スコープ変更に伴う更新:** プロジェクトのスコープに変更があれば、それに応じてスコープラインを調整します。こうすることで、チャートにプロジェクトの現状が正確に反映されます。
 
-  * **Review and Analyze:** Regularly review the Burnup Chart with your team and stakeholders. Use it to discuss the project's progress, forecast completion, and make any necessary adjustments to the project plan.
+  * **レビューと分析:** バーンアップチャートをチームやステークホルダーと定期的に見直します。プロジェクトの進捗状況を話し合い、完了を予測し、プロジェクト計画に必要な調整を行います。
 
-  * **Tools and Software:** Utilize project management tools or software that can automatically generate and update Burnup Charts based on your project data. This simplifies the process and ensures accuracy.
+  * **ツールとソフトウェア:** プロジェクトデータに基づいてバーンアップチャートを自動生成・更新できるプロジェクト管理ツールやソフトウェアを活用しましょう。これにより、プロセスが簡素化され、正確性が保証されます。
 resources:
   - link: https://www.atlassian.com/agile/project-management/burn-up-chart
     description: What is a burn up chart and how to create one

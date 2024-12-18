@@ -1,8 +1,7 @@
 ---
 templateKey: practice-page
-title: Document Review Process
-subtitle: Efficiently review documents in complex environments, avoid loops, and
-  get a more predictable timeline.
+title: ドキュメントレビュープロセス
+subtitle: 複雑な環境でも効率的にドキュメントをレビューし、作業のループを避け、タイムラインを予測しやすくします。
 date: 2023-11-23T13:35:52.847Z
 authors:
   - ericzolf
@@ -10,37 +9,32 @@ tags:
   - methods
 mobiusTag: delivery
 icon: /images/doc-review-process.png
-whatIs: This practice describes how to review a document in a complex
-  environment with possibly a lot of reviewers with diverging interests, and a
-  strong requirement for a very formal review process.
+whatIs: このプラクティスでは、おそらく多くのレビュアーが様々な関心を持ち、非常にフォーマルなレビュープロセスを強く要求される複雑な環境におけるドキュメントのレビュー方法について説明します。
 whyDo: >-
-  Document review processes tend to be convoluted and go into endless loops of
-  review of review of review... This processes makes sure that the review is as
-  straightforward as possible, avoids loop, and optimizes everybody's time and
-  effort. The result is a predictable timeline for any document review.
+  ドキュメントのレビュー・プロセスは複雑になりがちで、レビューのレビューのレビューの......という無限ループに陥りがちです。このプロセスは、レビューが可能な限りわかりやすく、ループを避け、全員の時間と労力を最適化します。その結果、あらゆる文書レビューにおいて予測可能なタイムラインを実現します。
 
 
-  It might not be the best fit in a very simple and small environment.
+  非常にシンプルで小規模な環境では最適ではないかもしれません。
 howTo: >-
-  The most important aspects are:
+  最も重要な点は以下の通り:
 
 
-  1. the 1st review makes sure that all reviewers understand the purpose, the scope and the structure of the document (or its changes), so that their review can be focused on the important aspects.
+  1. 1回目のレビューでは、すべてのレビュアーがドキュメント（またはその変更点）の目的、範囲、構造を理解していることを確認し、レビューが重要な側面に集中できるようにします。
 
-  2. feedback of the multiple reviewers can happen in parallel without blocking the time of the author
+  2. 複数のレビュアーのフィードバックは、著者の時間を妨げることなく並行して行われます。
 
-  3. the 2nd review is reserved to discuss feedback provided before hand, with modifications prepared by the author to address this feedback, no further changes are acceptable and should be discussed; this especially allows to properly time box the 2nd review. Do *not* review the complete document, only the modified parts, the rest has been implicitly agreed.
+  3. 2回目のレビューは、事前に提供されたフィードバックについて議論するためのものであり、そのフィードバックに対応するために著者が作成した修正について議論するためのものです。文書全体をレビューするのではなく、修正部分のみをレビューしてください。
 
-  4. follow-up action items should be an exception to the process and be kept concrete enough that their closing automatically leads to the sign-off of the document
-
-
-  The role of "Review Manager" can be taken by the author themself, but a strong (and neutral) Review Manager can make sure that the above rules are respected.
+  4. フォローアップの行動項目は、プロセスの例外とし、その終了が自動的にドキュメントのサインオフにつながるよう、十分に具体的であるべきです。
 
 
-  The timeline is dependent on the size of the document and the availability of the participants, so the numbers given can only be an estimation.
+  「レビュー・マネージャー」の役割は、著者自身が担うこともできるが、強力な（中立的な）レビュー・マネージャーであれば、上記のルールが順守が徹底されます。
 
 
-  If reviews are numerous and need to be sped up, time for the review sessions can be blocked on a regular cadence (similar to most CAB sessions).
+  スケジュールは、ドキュメントのサイズや参加者の都合に左右されるため、記載されている数字はあくまで推定に過ぎません。
+
+
+  レビューの回数が多く、スピードアップが必要な場合は、レビューセッションの時間を定期的にブロックすることができる（ほとんどのCABセッションと同様）。
 mediaGallery:
   - link: https://raw.githubusercontent.com/openpracticelibrary/openpracticelibrary/ddefbecf22427cc4c60883bb7f02e031488b3f6f/static/images/documents_review_process_image.drawio.png
 people: 3+
