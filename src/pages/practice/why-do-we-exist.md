@@ -1,7 +1,7 @@
 ---
 templateKey: practice-page
-title: Why do we exist
-subtitle: Achieve a shared understanding of the organizational purpose
+title: なぜ我々は存在するのか
+subtitle: 組織の目的について共通の理解を得る
 date: 2023-07-25T10:22:42.378Z
 authors:
   - shabnoorshah
@@ -14,77 +14,69 @@ tags:
 mobiusTag: discovery
 icon: /images/screenshot-2023-07-25-at-12.27.46.png
 whatIs: >-
-  Imagine you had to explain your organization to someone from another planet.
-  How would you do it? This exercise is designed to encourage participants to
-  think beyond the ordinary and inspire creativity within your team.
+  他の惑星から来た人に、あなたの組織を説明しなければならないと想像してみてください。あなたならどうしますか？このエクササイズは、参加者に日常を超えた発想を促し、チーム内の創造性を刺激するようデザインされています。
 
 
-  During this extraterrestrial communication challenge, participants will:
+  この地球外コミュニケーション・チャレンジで、参加者は次のことを行う:
 
 
-  * Reflect individually on the question: "How would you communicate with someone from another planet to tell them about your organization?"
+  * 次の質問について、各自で考えてみてください：「他の星から来た人に、あなたの組織のことを伝えるために、あなたならどのように伝えますか？」
 
-  * Engage in collaborative discussions to align their individual thoughts and create a unified story that effectively represents the organization.
+  * 各自の考えを一致させ、組織を効果的に表現する統一されたストーリーを作成するために、共同ディスカッションを行います。
 
 
-  The ultimate goal is to encourage reflection, inspire innovative thinking, and promote a deeper understanding of the organization's purpose, values, potential and challenges. This practice is the perfect catalyst for initiating productive discussions about your organization.
+  最終的な目標は、振り返りを促し、革新的な思考を刺激し、組織の目的、価値観、可能性、課題についての理解を深めることです。このプラクティスは、組織について生産的な議論を始めるための最適なきっかけとなります。
 whyDo: >-
-  This practice serves as a powerful tool for leaders, influencers, and
-  decision-makers within your organization. By encouraging participants to think
-  beyond traditional communication, we aim to promote a deeper understanding of
-  the following:
+  このプラクティスは、組織内のリーダー、インフルエンサー、意思決定者にとって強力なツールとなります。参加者に従来のコミュニケーションにとらわれない思考を促すことで、以下のような理解を深めることを目指します:
 
 
-  * The purpose of your organization
+  * 組織の目的
 
-  * Your organizational values
+  * 組織の価値
 
-  * Who your customers are
+  * 誰があなたたちの顧客か
 
-  * The potential of your organization
+  * 組織のポテンシャル
 
-  * The challenges your organization faces
+  * あなたの組織が直面している課題
 
 
-  It's an ideal way to kickstart workshops, as it sets the stage for meaningful discussions about your organization's current state and future direction.
+  これは、組織の現状と将来の方向性について有意義な議論をするための舞台を整えるので、ワークショップを始めるには理想的な方法です。
 howTo: >-
-  For creating the story, participants can use various visual aids, such as
-  pictures, drawings, cards (we recommend Dixit cards for this practice), or any
-  tools that simplify the message and make it visually engaging.\
-
-  \
-
-  **Step 1: The Question**
+  ストーリーを作るために、参加者は、写真、絵、カード（この練習にはDixitカードをお勧めします）など、さまざまな視覚教材を使うことができます。
 
 
-  1. On a flip chart or slide, display the question: "How would you communicate with someone from another planet to tell them about your organization?"
+  **ステップ 1: 質問**
 
 
-  **Step 2: Individual Reflection (3 mins)**
+  1. フリップチャートかスライドに、質問を表示する： 「他の惑星から来た人に、あなたの組織のことを伝えるには、どのようにコミュニケーションをとりますか？」
 
 
-  1. Ask each participant to take at least 3 minutes to individually reflect on the question and capture their thoughts on separate sticky notes.
+  **ステップ 2: 各自で考える (3分)**
 
 
-  **Step 3: Creative Teamwork (10-15 mins)**
+  1. 参加者一人一人に少なくとも3分間、個別に質問について考えてもらい、それぞれの考えを別の付箋紙に書き留めてもらいます。
 
 
-  1. Depending on the group size, divide participants into sub-groups or pairs.
-
-  2. Instruct them to create a story or message using virtual props like pictures, drawings, mime, sounds, emojis, icons, gifs, and their imagination to answer the question.
-
-  3. Encourage participants to use this time to discuss the individual thoughts they captured earlier. This discussion will help them align their ideas and collaboratively create a cohesive story that represents the organization.
-
-  4. During this task, ensure that participants consider the topics mentioned earlier, such as the purpose of the organization, values, customers, potential, and challenges.
+  **ステップ 3: 創造的なチームワーク (10-15分)**
 
 
-  **Step 4: Presentation (10-15 mins)**
+  1. グループの人数に応じて、参加者を小グループまたはペアに分けます。
+
+  2. 写真、絵、パントマイム、サウンド、絵文字、アイコン、GIF、想像力などのバーチャルな小道具を使ってストーリーやメッセージを作り、質問に答えてもらいます。
+
+  3. 参加者に、この時間を使って、先に把握した個々の考えについて話し合うよう促します。このディスカッションは、参加者の考えを一致させ、組織を代表するまとまりのあるストーリーを共同で作成するのに役立ちます。
+
+  4. このタスクでは、参加者が、組織の目的、価値観、顧客、将来性、課題など、前述のトピックについて検討するようにします。
 
 
-  1. All sub-groups or pairs present their creations to the whole group.
+  **ステップ 4: プレゼンテーション (10-15分)**
 
 
-  This exercise not only sparks creativity but also fosters shared understanding within the organization. It's a fantastic way to explore different perspectives on the organization's present and future.
+  1. すべてのサブグループまたはペアが、グループ全体に成果物を発表します。
+
+
+  このエクササイズは創造性をかき立てるだけでなく、組織内の共通理解を育みます。組織の現在と未来について、さまざまな視点を探る素晴らしい方法です。
 mediaGallery:
   - link: https://live.staticflickr.com/65535/53304703118_e54ff4b2ca_b.jpg
   - link: https://live.staticflickr.com/65535/53304463721_1bf0e4f365_b.jpg

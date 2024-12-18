@@ -1,7 +1,7 @@
 ---
 templateKey: practice-page
-title: Ubiquitous Language
-subtitle: Unambigulously define the term and concepts of a business domain.
+title: ユビキタス言語
+subtitle: ビジネスドメインの用語と概念を明確に定義する。
 date: 2023-01-10T09:22:39.364Z
 authors:
   - jtudelag
@@ -11,60 +11,51 @@ tags:
 mobiusTag: foundation
 icon: /images/ubiquitous_language_galaxy_stable_difussion.jpeg
 whatIs: >-
-  U﻿biquitous Language is a practice of building up a canonical, rigorous and
-  unambigous language between everyone involved in the software development
-  process. Usually a common shared language between the development team and the
-  users, but not limited to that. The product owner and other stakeholders
-  should adopt it as well.
+  ユビキタス言語とは、ソフトウェア開発プロセスに関わるすべての人の間で、標準的で厳密かつ曖昧性のない言語を構築することです。通常、開発チームとユーザーの間で共通の共有言語となるが、それに限定されるものではありません。プロダクトオーナーやその他のステークホルダーも同様に採用すべきものです。
 
 
-  I﻿t comes from the Domain Driven Design world. I﻿t was first introduced by Eric Evans in his own book ["Domain-Driven Design: Tackling Complexity in the Heart of Software"](https://www.amazon.com/exec/obidos/ASIN/0321125215/domainlanguag-20) in 2003.
+   これはドメイン駆動設計の世界から来ています。これは、エリック・エバンス（Eric Evans）が自身の著書["Domain-Driven Design: Tackling Complexity in the Heart of Software"](https://www.amazon.com/exec/obidos/ASIN/0321125215/domainlanguag-20)で2003年に初めて紹介したものです。
+
 whyDo: >-
-  W﻿hen the business domain is very complex, it is common to find situations
-  where t﻿eam members or users have a different understanding of the same
-  concept.
+  ビジネス・ドメインが非常に複雑な場合、チーム・メンバーやユーザーが、同じコンセプトについて異なる理解をしているという状況がよく見られます。
 
 
-  The lack of a shared understanding has a deep impact in the velocity and quality of what the development team delivers and can also lead to frustration in the users because what they have in mind is not what is finally implemented.
+  共通理解の欠如は、開発チームが提供するものの速度と品質に深い影響を及ぼし、また、ユーザーが思い描いていたものが最終的に実装されたものではないため、ユーザーのフラストレーションにつながることもあります。
 
 
-  Some examples of complex domain concepts:
+  複雑なドメイン・コンセプトの例:
 
 
-  * ﻿*"Time travelling"* in AI model development domain
+  * AIモデル開発領域における *”タイム・トラベリング”*
 
-  * *"Merge vs Join"* in the data engineering domain.
-
-
-  ﻿Developing Ubiquitous Language has many benefits. It helps to 
+  * データエンジニアリングの領域における *”マージ vs ジョイン”*
 
 
-  * better understand the business domain and the users.
+  ユビキタス言語の開発には多くの利点があります。
 
-  * remove ambiguity from the development process.
 
-  * establish a common language between everyone involved in the development process, especially between developers and users.
+  * ビジネス・ドメインとユーザーをよりよく理解する。
+
+  * 開発プロセスから曖昧さを取り除く。
+
+  * 開発プロセスに関わるすべての人、特に開発者とユーザーの間で共通言語を確立する。
 howTo: >-
-  The output of the Ubiquitous Language practice should be a glossary of terms &
-  concepts and their definitions. Ideally this glossary should be available for
-  reading & reviewing by everyone involved in the development process, not only
-  the developers. A git repository where changes can be tracked and suggested
-  could be an ideal place for it.
+  ユビキタス言語プラクティスのアウトプットは、用語・概念とその定義の用語集であるべきです。この用語集は、開発者だけでなく、開発プロセスに関わるすべての人が読んだりレビューしたりできるのが理想的です。変更を追跡し、提案することができるgitリポジトリは、そのための理想的な格納場所となるでしょう。
 
 
-  D﻿on't be afraid of drawing rather than writting. There might be concepts that are better explained in a diagram than in plain words.
+  書くよりも描くことが良い場合もあります。平易な言葉よりも図で説明した方が良い概念もあるかもしれません。
 
 
-  I﻿n order to start developing an Ubiquitous Language:
+  ユビキタス言語の開発を始めるために：
 
 
-  1. S﻿tart collecting domain concepts from other practices. [Event Storming](https://openpracticelibrary.com/practice/event-storming/) is the perfect candidate practice to start capturing concepts that are relevant for the business domain but n﻿ot equally understood by all the participants of the Event Storming. D﻿on't limit yourself to the Event Storming, other discovery practices like [Impact Mapping](https://openpracticelibrary.com/practice/impact-mapping/) or [Empathy Mapping](https://openpracticelibrary.com/practice/empathy-mapping/) are good candidates as well.
+  1. 他のプラクティスからドメインの概念を収集し始めます。[イベントストーミング](https://openpracticelibrary-ja.netlify.app/practice/event-storming/)は、ビジネスドメインに関連するが、イベントストーミングの参加者全員が等しく理解していない概念を収集し始めるのに最適なプラクティスの候補です。イベントストーミングに限定しないでください。[インパクトマッピング](https://openpracticelibrary-ja.netlify.app/practice/impact-mapping/)や[共感マッピング](https://openpracticelibrary-ja.netlify.app/practice/empathy-mapping/)のような他のディスカバリープラクティスも良い選択肢です。
 
-  2. D﻿evelop definitions for those concepts. 
+  2. それらの概念の定義を策定します。
 
-  3. Validate those with the development team, the users, the PO, etc. Ask for feedback.
+  3. 開発チーム、ユーザー、POなどとそれらを検証し、フィードバックを求めます。
 
-  4. I﻿terate ;)
+  4. 反復します ;)
 mediaGallery:
   - link: https://www.youtube.com/watch?v=pMuiVlnGqjk&t=2978s
 resources:

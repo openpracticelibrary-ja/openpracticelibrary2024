@@ -1,8 +1,7 @@
 ---
 templateKey: practice-page
-title: Vision Statement
-subtitle: "Capture and define a strategic destination for strategy or enterprise
-  engagement  "
+title: ビジョン・ステートメント
+subtitle: "戦略または企業エンゲージメントのための戦略的目的地を捉え、定義する"
 date: 2023-09-28T20:03:35.345Z
 authors:
   - geoffprobst
@@ -10,85 +9,73 @@ tags:
   - validate
 mobiusTag: discovery
 icon: /images/graphic-for-opl-vision-statement.png
-whatIs: The Vision statement is a mid- to long-term goal for an organization or
-  a primary goal for an enterprise engagement.  It should be outcome- oriented
-  and should express how an enterprise wants to be perceived by the world or how
-  an engagement wants to be seen by the rest of an organization.  The Vision
-  statement should be an achievable stretch goal.
-whyDo: The Vision Statement should create a mental picture of a future
-  destination for a group of people to realize over a strategic time frame. 
-  Once a Vision is achieved, a new Vision is defined.  This iterative process of
-  realizing multiple Vision statements should bring the organization closer and
-  closer to its Mission statement. If the organization does not have a Mission
-  statement, check out the Mission statement OPL practice from the links below.
+whatIs: ビジョン・ステートメントは、組織の中長期的な目標、あるいは企業活動の主要なゴールです。 ビジョン・ステートメントは、成果志向であるべきであり、企業が世間からどのように見られたいか、あるいは、エンゲージメントが組織全体からどのように見られたいかを表現するものでなければなりません。ビジョン・ステートメントは、達成可能なストレッチ・ゴールであるべきです。
+whyDo: ビジョン・ステートメントは、戦略的な時間枠の中で、ある集団が実現すべき未来の目的地のイメージを描き出すものです。ビジョンが達成されると、新たなビジョンが定義されます。 このように、複数のビジョン・ステートメントを実現するプロセスを繰り返すことで、組織はますますミッション・ステートメントに近づいていくはずです。組織にミッション・ステートメントがない場合は、以下のリンクからミッション・ステートメントOPLの実践方法をチェックしてください。
 howTo: >-
-  aThe Vision Statement can be created from a client meeting, series of
-  interviews, standalone facilitated practice or as part of a workshop. The
-  outcome of this process is to identify a mid- to long-term goal that the
-  organization or engagement must realize in a specific time horizon.aaaaa
+  ビジョン・ステートメントは、クライアントとのミーティング、一連のインタビュー、単独でのファシリテーション、あるいはワークショップの一環として作成することができます。このプロセスの成果は、組織やエンゲージメントが特定の時間軸で実現すべき中長期的な目標を明らかにすることです。
 
 
-  **Interviews:**
+  **インタビュー:**
 
 
-  During interviews with sponsors for an engagement or executives of an entity, the interviewer should focus on main concepts in crafting a Vision statement. Those concepts are addressed via the questions listed below:
+  エンゲージメントのスポンサーや企業幹部とのインタビューでは、ビジョン・ステートメントを作成する際の主要なコンセプトに焦点を当てる必要があります。これらのコンセプトは、以下に挙げる質問を通して取り上げられます:
 
 
-  1. Where does the organization we want to compete?  What is our differentiator (Definition of Niche)? 
+  1. 競合する組織はどこか？ 差別化要因（ニッチの定義）は何か？
 
-  2. How do we know when the Vision is realized?  What is the overall measure of success for the Vision (Stretch Goal)?
+  2. ビジョンが実現したことをどうやって知るのか？ ビジョン（ストレッチゴール）の全体的な成功指標は何か？
 
-  3. When do we need to realize the Vision (Time Horizon)?
-
-
-  Make sure the interviewer asks the same questions to get consistent results. Varying the questions makes it difficult to find patterns in the results. Consistency is key.
+  3. いつまでにビジョンを実現するのか（時間軸）。
 
 
-  From each of the interviews, the information should be aggregated and synthesized into one sentence to be reviewed with sponsors or executives. The Vision statement should incorporate all three components mentioned above.  Depending on the number of sponsors or executives, the review could be handled via email or a short meeting. If there are several participants, a workshop approach is most likely a better option. Results from an interview process with multiple interviewees can be used as the initial draft(s) of the Vision statement.
+  一貫した結果を得るために、インタビューアは必ず同じ質問をします。質問を変えると、結果のパターンを見つけるのが難しくるので、一貫性が重要です。
 
 
-  **Practice/Workshop:**
+  各インタビューから得た情報を集約し、1つの文章にまとめ、スポンサーや経営幹部と検討していきます。ビジョン・ステートメントには、上記の3つの要素をすべて盛り込みます。 スポンサーやエグゼクティブの人数にもよるが、検討はメールや短時間のミーティングでも可能です。参加者が複数いる場合は、ワークショップ方式がよいこともあります。ビジョン・ステートメントを作成する際には、複数の参加者によるインタビュー・プロセスの結果を、最初の草案として使用することができます。
 
 
-  A﻿ vision practice or workshop follows a similar approach to the interviews. All of the main concept questions are addressed as a group. There are a couple of ways to approach this workshop.
+  **プラクティス/ワークショップ:**
 
 
-  1. This approach is good for a small number of executives/leaders.
-
-  2. (40 min) Using silent collaboration, ask the attendees each of the key questions. Give individuals the allotted time to write down their answers and post all answers for each question in place where everyone can view them.
-
-     * Ask: “Where does the organization we want to compete?” & “What is our differentiator?” (15 min)
-     * Ask: “How do we know when the Vision is realized?” & “What is the overall measure of success for the Vision?” (15 min)
-     * Ask: “When do we need to realize the Vision?” (10 min)
-  3. (10 min) Give attendees some time to read each others’ answers silently.
-
-  4. (15 min) Have each individual craft their own personal Vision statement based on all the information shared by all team members.  Once again, remind everyone that the statement must have all three components and be concise (1 sentence).
-
-  5. (30 min) Go around the group and have every individual share their statement.  Note which phrases are inspirational or invoke emotion.
-
-  6. (20-40 min) Keep reviewing and iterating until the group reaches a consensus.
-
-  7. (10 min) Once the final vision statement is agreed to, try asking these questions as a litmus test:
-
-     * Does the Vision statement have a clear 'Finish Line'?
-     * Do associates of the organization see how they contribute to the realization of the vision?
-     * Does the final Vision statement invoke emotion?
-     * Would you wear the Vision statement on a T-shirt?
-
-  **Vision Statement Examples:**
+  ビジョン・プラクティスやワークショップは、インタビューと同様のアプローチをとります。 主要なコンセプトに関する質問は、すべてグループで行います。このワークショップへのアプローチにはいくつかの方法があります。
 
 
-  1. “To have one million customers online by the end of the decade” - Wells Fargo
+  1. このアプローチは、少数のエグゼクティブ／リーダーに適しています。
 
-  2. “In the next two years, GE brands had to be #1 or #2 in their markets” - Jack Welch 
+  2. (40分) 無言の共同作業を用いて、出席者にそれぞれの重要な質問をします。各自に答えを書き留める時間を与え、各質問に対するすべての答えを、全員が閲覧できる場所に掲示します。
 
-  3. “In five years, we will become the respected leader in financial services with a focus on customer relationships and satisfaction, producing financial returns in the top quartile of the industry.” - financial service company
+     * Ask: 「我々が競争したい組織はどこにあるのか？」&「我々の差別化要因は何か？」 (15分)
+     * Ask: 「ビジョンが実現したことをどうやって知るのか？」 &「ビジョンの全体的な成功の尺度は何か？」  (15分)
+     * Ask: 「いつまでにビジョンを実現する必要があるのか？」 (10分)
+  3. (10分) 出席者にお互いの答えを黙読する時間を与えます。
 
-  4. “To put a man on the moon by the end of the decade” - John F Kennedy for NASA
+  4. (15分) チームメンバー全員が共有したすべての情報をもとに、各自が「ビジョン・ステートメント」を作成します。 もう一度、ステートメントには3つの要素をすべて含み、簡潔でなければならない（1文）ことを全員に認識してもらいます。
+
+  5. (30分) グループを回り、一人一人に自分の発言を発表してもらいます。 どのフレーズがインスピレーションを与えるか、感情を呼び起こすかをメモします。
+
+  6. (20-40分) グループのコンセンサスが得られるまで、レビューと反復を続けます。
+
+  7. (10分) 最終的なビジョン・ステートメントに合意したら、リトマス試験紙として以下の質問をしてみよう:
+
+     * ビジョン・ステートメントには明確な「ゴールライン」があるか？
+     * 組織の従業員は、ビジョンの実現に自分がどのように貢献しているかを理解しているか？
+     * 最終的なビジョンステートメントは感情を呼び起こすか？
+     * ビジョン・ステートメントをTシャツに書いて着ますか？
+
+  **ビジョン・ステートメントの例:**
+
+
+  1. 「10年後までに100万人の顧客をオンライン化する」 - Wells Fargo
+
+  2. 「今後2年間で、GEブランドはそれぞれの市場で1位か2位にならなければならない。」 - Jack Welch 
+
+  3. 「5年後には、顧客との関係と満足度に重点を置き、業界の上位4分の1の財務リターンを生み出す、尊敬される金融サービスのリーダーになる」 - financial service company
+
+  4. 「10年後までに人類を月に送り込む」 - John F Kennedy for NASA
 resources:
-  - link: https://openpracticelibrary.com/practice/mission-statements/
+  - link: https://openpracticelibrary-ja.netlify.app/practice/mission-statements/
     linkType: web
-    description: OPL practice on Mission Statement
+    description: ミッションステートメント
 people: 2+
 time: 1-3 hours
 difficulty: moderate

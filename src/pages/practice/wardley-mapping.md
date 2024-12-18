@@ -1,7 +1,7 @@
 ---
 templateKey: practice-page
-title: Wardley Mapping
-subtitle: Strategic decisioning through visualization of a value chain's evolution.
+title: ワードリー・マッピング
+subtitle: バリューチェーンの進化の可視化による戦略的意思決定。
 date: 2022-07-14T09:48:17.086Z
 authors:
   - karstengresch
@@ -12,41 +12,37 @@ tags:
 mobiusTag: discovery
 icon: /images/wardleymap.jpg
 whatIs: >-
-  Wardley Mapping is a framework of practices, invented by [Simon
-  Wardley](https://uk.linkedin.com/in/simonwardley) in 2005. 
+  ワードリー・マッピングは、[Simon Wardley](https://uk.linkedin.com/in/simonwardley) により2005年に考案されたプラクティスのフレームワークです。
 
 
-  Inspired by Sun Tzu's *[Art of War](https://en.wikipedia.org/wiki/The_Art_of_War)* and the historical use of geographical maps in battle situations, Wardley used geographic maps as a paradigm for strategic orientation in business to gain "topographical intelligence".
+  ワードリーは、*[孫子の兵法：Art of War](https://en.wikipedia.org/wiki/The_Art_of_War)* や歴史的な戦場での地理的地図の使用からヒントを得て、ビジネスにおける戦略的方向付けのパラダイムとして地理的地図を使用し、「地形的インテリジェンス（topographical intelligence）」を獲得しました。
+  
 
 
 
-
-  Without knowing the geography of the battlefield, the location of one's own forces, or the enemy's whereabouts, it makes absolutely no sense to start a battle. Or, translated, to start or run a business.
+  戦場の地理、自軍の位置、敵の居場所がわからなければ、戦闘を開始する意味はまったくありません。言い換えると、ビジネスを始めたり、運営したりすることです。
 whyDo: >-
-  Transferred to business outcomes, Wardley Mapping helps identifying the
-  strategic landscape (i.e., creating the Wardley Map) and derive knowledge- and
-  awareness-driven decision making and collaboration.
+  ワードリー・マッピングは、戦略的状況の特定（ワードリー・マップの作成）と、知識・認識主導の意思決定とコラボレーションを導き出すのに役立ちます。
 
 
-  *Wardley Mapping* helps people to gain strategic orientation. It can deliver clear insights about what needs to be done to deliver desired value, identify unknowns and prioritize.
-
+  *ワードリー・マッピング*により、戦略的な方向付けが可能になり、望ましい価値を提供するために何をすべきかについて明確な洞察をもたらし、未知数を特定し、優先順位をつけることができます。
 
 
 
-  *Wardley Maps* in particular greatly support common DDD practices (see this presentation: <https://www.kaiser-consulting.net/conferences/slides/serverlessdays-virtual-2020.pdf>).
+  また特筆すべき点として、*ワードリー・マップ*は、一般的なDDDのプラクティスを大いにサポートします。 
 
 
-  They can be used as an ad-hoc tool by the facilitator to quickly gain insights in value chain discussions and add a strategic dimension to it.
+  ファシリテーターが、バリューチェーンの議論において素早く洞察を得たり、戦略的な次元を加えたりするためのアドホックなツールとして使うことができます。
 howTo: >-
-  1. Identify the **users** being served by the business.
+  1. ビジネスが提供する**ユーザー**を特定する。
 
-  2. Identify the user's **needs** to be satisfied (think of these as top-level product offerings (== *capabilities*)).
+  2. ユーザーが満たすべき**ニーズ**を特定する（これをトップレベルの製品提供（== *能力*）と考える）。
 
-  3. Identify the **capabilities** needed to meet the needs identifyied.
+  3. 特定されたニーズを満たすために必要な**能力**を特定する。
 
-  4. For each capability, determine the stage of **evolution**. Evaluate its characteristics using tools such as  (if it’s difficult to decide, try breaking the Capability down into multiple, smaller Capabilities)
+  4. 各能力について、**進化**の段階を決定する。以下のようなツールを使用して、その特性を評価します（判断が難しい場合は、能力を複数の小さな能力に分解してみてください）。
 
-  5. Draw the complete value chain — User at the top, Needs and Capabilities underneath, with dependency relationships included and Capabilities placed in Stages I, II, III, or IV of Evolution
+  5. ユーザを最上位に、ニーズと能力をその下に、依存関係を含めて、能力を進化のステージI、II、III、またはIVに配置して、完全なバリューチェーンを描く。
 
 
   Wardley Mapping is licensed by courtesy of Simon Wardley under a [Creative Commons Attribution-ShareAlike 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode) license.
