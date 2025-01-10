@@ -1,8 +1,7 @@
 ---
 templateKey: practice-page
 title: Is – Is not – Does – Does not
-subtitle: Provide a structured approach for clearly understanding and defining a
-  problem, object, concept, or situation.
+subtitle: 議論の対象となる問題、トピック、概念、状況の明確な理解を得て定義するための体系的なアプローチ。
 date: 2024-01-23T15:21:32.625Z
 authors:
   - moimero
@@ -11,86 +10,121 @@ tags:
 mobiusTag: discovery
 icon: /images/image.png
 whatIs: >-
-  This method helps in breaking down complex or ambiguous scenarios into more
-  manageable and distinct components. Here's a breakdown of the objectives for
-  each part of the analysis:
+  この手法は、複雑または曖昧な状況をより扱いやすく明確な要素に分割・分類するための手法です。以下に、分析の各パートが狙う目的をまとめました:
+
+  1. **Is**:
+     「分析対象が実際に何なのか」を特定し、説明するパートです。
+     ここでは、対象が確実に持っている特徴や性質に注目します。
+     対象をきちんと定義することで、後続の分析に必要な明確な土台を築くことができます。
+
+  2. **Is Not**:
+     「対象が何ではないのか」を明らかにするパートです。
+     類似する他のものと混同しないため、はっきりと境界を引く役割を果たします。
+     ここで範囲をしっかり定義しておくことで、スコープが際限なく広がるのを防ぎ、本当に必要な部分に集中できます。
+
+  3. **Does**:
+     「対象がどのような動作や機能、役割を持っているか」を洗い出すパートです。
+     問題解決や製品開発では、対象の具体的な能力や影響範囲を把握することが非常に重要です。
+
+  4. **Does Not**:
+     最後に、「対象がどのようなことをしないか」を明示します。
+     これは対象の限界や未対応の領域を知るために大切です。
+     現実的な期待値を設定したり、改善や新しいアイデアの余地を見つけたりする際に役立ちます。
 
 
-  1. **Is**: The goal here is to identify and describe what the subject of the analysis actually is. This part focuses on the characteristics, attributes, qualities, or properties that are definitively present. By specifying what the subject is, you provide a clear and concise description that forms the foundation for further analysis.
-
-  2. **Is Not**: This section aims to clarify what the subject is not. It's about distinguishing the subject from other similar or related entities. This helps in avoiding confusion and setting clear boundaries for what is being considered. By understanding what the subject is not, you prevent scope creep and keep the focus on the relevant aspects.
-
-  3. **Does**: The objective here is to determine and describe what the subject does. This involves outlining the actions, functions, behaviors, or roles of the subject. It's crucial for understanding the capabilities or effects of the subject, which is particularly important in problem-solving and product development.
-
-  4. **Does Not**: Finally, this part outlines what the subject does not do. It's about understanding the limitations or non-functions of the subject. This is particularly useful for setting realistic expectations, understanding constraints, and identifying potential areas for improvement or innovation.
-
-
-  **Is – Is Not – Does – Does Not** practice is part of Paulo Caroli's Lean Inception methodology, it's a versatile and effective tool that can be applied in many other contexts, independently of Lean Inception.
+  **Is – Is Not – Does – Does Not** は、
+  Paulo CaroliのLean Inceptionで用いられるプラクティスですが、
+  Lean Inceptionに限定されず、幅広い分野で活用できる柔軟で有用な手法です。
 whyDo: >-
-  **Clear Definition and Focus**: One of the most significant challenges in
-  addressing any problem or developing any product is accurately defining what
-  it is and what it isn't. Without clear boundaries, there's a risk of scope
-  creep, where the project or problem becomes larger and more unwieldy than
-  initially intended. This practice helps in setting clear boundaries, ensuring
-  that the focus remains on the relevant aspects. It reduces ambiguity and helps
-  all stakeholders have a shared understanding of what is being discussed or
-  addressed.
+  **明確な定義と集中**:
+  どんな問題を取り扱う場合でも、「それが何で、何ではないか」を明確にするのは大きな課題です。
+  境界が不明確だと、プロジェクトや課題が当初想定した範囲を超えて膨れ上がってしまうリスクがあります。
+  このプラクティスでは、明確な線引きによって必要な部分にきちんと集中できます。
+  また、あいまいさを減らすことで、全ての関係者が同じ認識を共有しやすくなります。
 
+  **問題解決の推進**:
+  問題を効果的に解決するためには、問題そのものを深く正確に理解する必要があります。
+  対象が何で何ではないか、何をし何をしないかを明確に整理することで、本質的な原因を見落とさずに探し出し、
+  適切な解決策を考えやすくなります。
 
-  **Improved Problem-Solving**: Effective problem-solving requires a deep and precise understanding of the problem. By breaking down what the problem is and isn’t, and what it does and doesn’t do, you can identify the root cause more effectively. This methodical breakdown can lead to more effective solutions, as it prevents overlooking critical aspects of the problem and ensures that the solutions are targeted and appropriate.
-
-
-  **Enhanced Communication and Collaboration**: In any team or collaborative environment, communication is key. The "Is – Is Not – Does – Does Not" practice provides a common language and framework for discussion. It helps in aligning team members’ understanding and perspectives, reducing misunderstandings and misinterpretations. This clarity is crucial, especially in complex projects or when dealing with interdisciplinary teams, where each member might have different areas of expertise and viewpoints.
+  **コミュニケーションとコラボレーションの向上**:
+  チームや共同作業の場では、分かりやすいコミュニケーションが欠かせません。
+  「Is – Is Not – Does – Does Not」という枠組みを使うと、みんなが共通の言葉と視点で議論できます。
+  認識のずれや誤解が減り、特に複雑なプロジェクトや多様な専門分野のメンバーが参加する場合でも
+  スムーズに進めやすくなります。
 howTo: >-
-  ### Preparing for the Session
+  ### セッションの準備
+
+  1. **目的の定義**:
+     セッションの目的を明確に定め、何を分析または解決したいのかをチームに周知しましょう。
+
+  2. **メンバー選定**:
+     対象となる分野に幅広い知識と視点を持つメンバーを選び、多様な意見を取り入れるようにします。
+
+  3. **スケジューリング**:
+     全員が参加できる日時を調整し、会議室やオンライン環境を用意して、活発な議論ができる状況を作ります。
 
 
-  1. **Define the Objective**: Clearly understand and communicate the purpose of the session to the team. What are you trying to analyze or solve?
+  ### セッションの進行
 
-  2. **Select Participants**: Choose a diverse group of team members who have different perspectives or expertise related to the subject.
+  1. **イントロ**:
+     * **このプラクティスの説明**:
+       最初に、「Is – Is Not – Does – Does Not」の手法やその意義を簡潔に説明しましょう。
+     * **ルールぎめ**:
+       他者の意見を尊重し、建設的な議論を行うためのルールを共有します。
 
-  3. **Schedule and Set Up**: Organize a meeting at a time convenient for all. Ensure the meeting space (physical or virtual) is conducive to open discussion.
-
-
-  ### Conducting the Session
-
-
-  1. **Introduction**:
-
-     * **Explain the Technique**: Start by explaining the "Is – Is Not – Does – Does Not" method and its importance.
-     * **Set Ground Rules**: Encourage openness, respect for different opinions, and a non-judgmental environment.
   2. **Is**:
+     * **ディスカッションの開始**:
+       「対象は何か？」という問いを投げかけて、思いつく特徴や性質を挙げてもらいます。
+     * **ファシリテートと記録**:
+       全員が意見を出せるように誘導しながら、重要なポイントをホワイトボードや共有ドキュメントに書き留めます。
 
-     * **Prompt Discussion**: Ask, "What is \[the subject]?" Encourage team members to describe what they believe the subject definitely is.
-     * **Facilitate and Record**: Facilitate the discussion, ensuring all voices are heard. Record all valid points on a visible medium like a whiteboard or shared document.
-  3. **Is Not**:
+  1. **Is Not**:
+     * **議論のスコープ決め**:
+       次に、「対象は何ではないか？」を考え、類似する他のものとの違いを明確にします。
+     * **スコープの境界決め**:
+       ここでは対象に含まれない要素にフォーカスして、境界線を明確にします。
 
-     * **Guide the Conversation**: Next, ask, "What is \[the subject] not?" This helps in setting boundaries and clarifying misconceptions.
-     * **Encourage Clarity**: Ensure that the contributions here are focused on what the subject explicitly is not, avoiding overlaps with the "Is" category.
-  4. **Does**:
+  2. **Does**:
+     * **対象にフォーカスする**:
+       「対象は何をするのか？」に注目し、機能や動作、役割をリストアップします。
+     * **議論を深める**:
+       意見の漏れがないかチェックし、必要に応じてヒアリングを深めます。
 
-     * **Focus on Actions/Functions**: Ask, "What does \[the subject] do?" This should bring out the functions, actions, or roles of the subject.
-     * **Ensure Comprehensive Coverage**: Make sure all aspects of what the subject does are covered, prompting the team as needed.
-  5. **Does Not**:
+  3. **Does Not**:
+     * **制限や不足ポイントの確認**:
+       最後に、「対象は何をしないのか？」を洗い出し、制限や不足している部分を明確にします。
+     * **できないことを明確にする**:
+       無理な期待をしないためにも、できないことを率直に確認するのが大切です。
 
-     * **Discuss Limitations**: Finally, ask, "What does \[the subject] not do?" This part is crucial for understanding limitations or misconceptions about the subject's capabilities.
-     * **Promote Honesty**: Encourage the team to be realistic about the limitations, which is often crucial for problem-solving.
 
-     ### Post-Session Activities
+     ### セッション後の活動
 
-     1. **Synthesize Information**: After the session, compile all the points discussed into a coherent document.
-     2. **Review and Refine**: Share this document with the team for review. Ask for any additional thoughts or refinements.
-     3. **Distribute Final Document**: Once finalized, distribute this document to the team and relevant stakeholders.
-     4. **Action Plan**: Depending on the purpose of the session, develop an action plan based on the insights gained.
+     1. **情報共有**:
+        セッションで出た内容を整理し、一貫性のあるドキュメントとしてまとめましょう。
+     2. **内容の確認と修正**:
+        そのドキュメントをチームで見直し、追加の意見や修正を反映します。
+     3. **ドキュメントの最終化**:
+        完成版をチームおよび関連するステークホルダーに共有し、認識をそろえます。
+     4. **アクションプラン**:
+        セッションの目的に応じて、得られた知見に基づく具体的な行動計画を作成しましょう。
 
-     ### Tips for Effective Facilitation
+     ### 効果的な議論のためのTips
 
-     * **Encourage Participation**: Make sure everyone gets a chance to speak. Be attentive to quieter team members who might have valuable insights.
-     * **Manage Dominant Voices**: Ensure that no one person dominates the conversation. Facilitate a balanced discussion.
-     * **Keep the Discussion on Track**: Steer the conversation back if it strays too far from the topic.
-     * **Ask Open-Ended Questions**: This encourages deeper thinking and more detailed responses.
-     * **Summarize and Clarify**: Regularly summarize points for clarity and to ensure accurate recording of ideas.
-     * **Be Neutral**: As a facilitator, maintain neutrality and focus on guiding the discussion rather than contributing content.
+     * **Encourage Participation**:
+       全員が発言しやすい環境を整え、発言をうながします。
+     * **Manage Dominant Voices**:
+       特定の参加者が話を独占しないように配慮しましょう。
+     * **Keep the Discussion on Track**:
+       話題が逸れすぎる場合は、やんわりと軌道に戻すようにします。
+     * **Ask Open-Ended Questions**:
+       「はい/いいえ」ではなく、深堀りができる質問を心がけます。
+     * **Summarize and Clarify**:
+       要所で議論をまとめ、全員の理解が一致しているか確認します。
+     * **Be Neutral**:
+       ファシリテーターは自分の意見を押しつけず、中立的な立場から進行をサポートします。
+     * **Be Respectful**:
+       互いの考えや意見を尊重し、相手が安心して発言できるように配慮しましょう。
 mediaGallery:
   - link: https://raw.githubusercontent.com/openpracticelibrary/openpracticelibrary/8ee1cfb30dcebea8f0f283a826974606502a1d3a/static/images/dall-e-2024-01-23-10.52.43-a-flip-chart-divided-into-four-sections-labeled-is-is-not-does-and-does-not-.-each-section-is-filled-with-colorful-sticky-notes-containing-.png
   - link: https://raw.githubusercontent.com/openpracticelibrary/opl-media/master/is-isnot-does-doesnot.jpg
