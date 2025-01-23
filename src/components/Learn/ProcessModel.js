@@ -34,13 +34,13 @@ const ProcessModel = () => {
           <Link href="/tags/foundation">Foundation</Link> - 基本的なレイヤーにおける文化的プラクティスや技術的プラクティスが、Mobius Loopの利用を加速させ、最大化することがわかりました。
         </Typography>
         <Typography variant="h6" gutterBottom>
-          <Link href="/tags/discovery">Discovery</Link> - プラクティスによって、目標とする成果を明確にします。
+          <Link href="/tags/discovery">Discover</Link> - プラクティスによって、目標とする成果を明確にします。
         </Typography>
         <Typography variant="h6" gutterBottom>
-          <Link href="/tags/options">Options</Link> - プラクティスによって、正しい結果への道筋を明らかにします。
+          <Link href="/tags/options">Decide</Link> - プラクティスによって、正しい結果への道筋を明らかにします。
         </Typography>
         <Typography variant="h6" gutterBottom>
-          <Link href="/tags/delivery">Delivery</Link> - プラクティスは、あなたのアイデアをテストします。そして、何がうまくいき、何がうまくいかないかを学びます。
+          <Link href="/tags/delivery">Deliver</Link> - プラクティスは、あなたのアイデアをテストします。そして、何がうまくいき、何がうまくいかないかを学びます。
         </Typography>
       </Box>
     </Box>

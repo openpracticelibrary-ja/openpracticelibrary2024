@@ -22,7 +22,7 @@ const FilterBar = ({ selectedFilter }) => {
       </Grid>
       <Grid item xs={6} md={2}>
         <Button
-          color={selected === "foundation" ? "primary" : "grey"}
+          color={selected === "foundation" ? "mobiusFoundation" : "grey"}
           disableElevation={selected === "foundation"}
           fullWidth
           data-testid="foundation-button"
@@ -36,7 +36,7 @@ const FilterBar = ({ selectedFilter }) => {
       </Grid>
       <Grid item xs={6} md={2}>
         <Button
-          color={selected === "discovery" ? "secondary" : "grey"}
+          color={selected === "discovery" ? "mobiusDiscover" : "grey"}
           data-testid="discovery-button"
           disableElevation={selected === "discovery"}
           fullWidth
@@ -45,12 +45,12 @@ const FilterBar = ({ selectedFilter }) => {
           startIcon={mobiusContent["discovery"].icon}
           variant="contained"
         >
-          Discovery
+          Discover
         </Button>
       </Grid>
       <Grid item xs={6} md={2}>
         <Button
-          color={selected === "options" ? "error" : "grey"}
+          color={selected === "options" ? "mobiusDecide" : "grey"}
           data-testid="options-button"
           disableElevation={selected === "options"}
           fullWidth
@@ -59,12 +59,12 @@ const FilterBar = ({ selectedFilter }) => {
           startIcon={mobiusContent["options"].icon}
           variant="contained"
         >
-          Options
+          Decide
         </Button>
       </Grid>
       <Grid item xs={6} md={2}>
         <Button
-          color={selected === "delivery" ? "warning" : "grey"}
+          color={selected === "delivery" ? "mobiusDeliver" : "grey"}
           data-testid="delivery-button"
           disableElevation={selected === "delivery"}
           fullWidth
@@ -73,7 +73,7 @@ const FilterBar = ({ selectedFilter }) => {
           startIcon={mobiusContent["delivery"].icon}
           variant="contained"
         >
-          Delivery
+          Deliver
         </Button>
       </Grid>
     </Grid>

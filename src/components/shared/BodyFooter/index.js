@@ -11,9 +11,9 @@ import {
   Mic,
   MailOutline,
   GitHub,
-  Instagram,
-  Twitter,
   LinkedIn,
+  Sell,
+  AccountBalanceWallet
 } from "@mui/icons-material";
 import { CCHeart } from "../../../assets/icons/index";
 import Logo from "../../../components/shared/Logo";
@@ -76,29 +76,29 @@ const BodyFooter = () => {
               </Grid>
               <Grid item>
                 <Link
-                  href="https://www.instagram.com/openpracticelibrary/?hl=en"
-                  rel="noreferrer"
-                  target="_blank"
-                >
-                  <Instagram />
-                </Link>
-              </Grid>
-              <Grid item>
-                <Link
-                  href="https://www.twitter.com/practicelibrary/?hl=en"
-                  rel="noreferrer"
-                  target="_blank"
-                >
-                  <Twitter />
-                </Link>
-              </Grid>
-              <Grid item>
-                <Link
                   href="https://www.linkedin.com/company/openpracticelibrary/"
                   rel="noreferrer"
                   target="_blank"
                 >
                   <LinkedIn />
+                </Link>
+              </Grid>
+              <Grid item>
+                <Link
+                  href="https://www.redbubble.com/shop/ap/153791137"
+                  rel="noreferrer"
+                  target="_blank"
+                >
+                  <Sell />
+                </Link>
+              </Grid>
+              <Grid item>
+                <Link
+                  href="https://opencollective.com/openpracticelibrary"
+                  rel="noreferrer"
+                  target="_blank"
+                >
+                  <AccountBalanceWallet />
                 </Link>
               </Grid>
             </Grid>

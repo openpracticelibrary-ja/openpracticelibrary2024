@@ -3,16 +3,13 @@ import { Box, Typography } from "@mui/material";
 const FoundationDescription = () => (
   <Box>
     <Typography gutterBottom variant="body2">
-      Foundational practices focus on creating a team culture, collaborative
-      environments, and technical practices.
+    基礎(Foundation)のプラクティスは、チーム文化の創造、協力的な環境、技術的な練習に重点を置いています。
     </Typography>
     <Typography gutterBottom variant="body2">
-      These support fast and iterative journeys through the other parts of the
-      loop.
+    これらは、ループの他の部分を高速で反復するジャーニーをサポートします。
     </Typography>
     <Typography variant="body2">
-      Without the foundation, teams cannot reach sustainable, continuous
-      delivery.
+    基礎がなければ、チームは持続可能な継続的デリバリーに到達できません。
     </Typography>
   </Box>
 );

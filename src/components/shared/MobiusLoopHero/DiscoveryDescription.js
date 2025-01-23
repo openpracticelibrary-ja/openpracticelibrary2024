@@ -3,13 +3,11 @@ import { Box, Typography } from "@mui/material";
 const DiscoveryDescription = () => (
   <Box>
     <Typography gutterBottom variant="body2">
-      Discovery practices start with the current as-is state and help you ask
-      important questions about outcomes.
+      ディスカバリー(Discover)のプラクティスは、現状のありのままの状態から出発し、結果について重要な質問をするのに役立ちます。
     </Typography>
     <Typography variant="body2">
       <i>
-        Why are you doing this? What problems are you trying to solve, and for
-        whom? How will you measure the results?
+      なぜこんなことをするのか？誰のために、どんな問題を解決しようとしているのか？結果をどのように測定するのか？
       </i>
     </Typography>
   </Box>
