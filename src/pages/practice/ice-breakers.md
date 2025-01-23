@@ -1,6 +1,6 @@
 ---
 templateKey: practice-page
-title: アイスプレーカー
+title: アイスブレイカー
 subtitle: 心理的な障壁を取り除き、メンバーを打ち解けさせる
 date: 2023-02-14T18:38:56.727Z
 authors:

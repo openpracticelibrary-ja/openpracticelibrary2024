@@ -27,16 +27,14 @@ howTo: C4ダイアグラムは、各オプション・ピボットでリファ�
   C4ダイアグラムが定期的に更新されれば、新しい開発者の受け入れが迅速になり、
   異なるチーム同士での共通理解を達成し、ステークホルダーに対する状況報告もシンプルになります。
 mediaGallery:
-  - link: https://c4model.com/img/sketch-1.jpg
-  - link: https://c4model.com/img/sketch-2.jpg
-  - link: https://c4model.com/img/sketch-3.jpg
+  - link: https://static.structurizr.com/workspace/76749/diagrams/SystemContext.png
+  - link: https://static.structurizr.com/workspace/36141/diagrams/Containers.png
+  - link: https://static.structurizr.com/workspace/76749/diagrams/Components.png
+  - link: https://static.structurizr.com/workspace/36141/diagrams/MainframeBankingSystemFacade.png
 resources:
   - link: https://c4model.com/
     linkType: web
     description: C4 Website
-  - link: https://www.infoq.com/jp/articles/C4-architecture-model/
-    linkType: web
-    desciprion: ソフトウェアアーキテクチャのためのC4モデル
 people: 3+
 time: Initially, 2 hours
 difficulty: easy
