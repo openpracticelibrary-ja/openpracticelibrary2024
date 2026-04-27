@@ -38,8 +38,60 @@ export default function SearchContainer(props) {
 
   React.useEffect(() => {
     const dataToSearch = new JsSearch.Search(["node", "id"]);
-    dataToSearch.addIndex(["node", "frontmatter", "title"]); // sets the index attribute for the data
-    dataToSearch.addDocuments(practiceData); // adds the data to be searched
+
+    // AllSubstringsIndexStrategy enables partial matching (required for CJK text)
+    dataToSearch.indexStrategy = new JsSearch.AllSubstringsIndexStrategy();
+
+    // Custom tokenizer: groups consecutive CJK characters as a single token
+    // so that substring indexing works correctly for Japanese/Chinese/Korean.
+    // The default SimpleTokenizer uses /[^a-zа-яё0-9\-']+/i which discards CJK chars entirely.
+    dataToSearch.tokenizer = {
+      tokenize(text) {
+        const tokens = [];
+        let currentToken = "";
+        let isCurrentCJK = false;
+
+        for (const char of text) {
+          const code = char.codePointAt(0);
+          const isCJK =
+            (code >= 0x3000 && code <= 0x9fff) || // CJK, Hiragana, Katakana
+            (code >= 0xac00 && code <= 0xd7af) || // Hangul
+            (code >= 0xf900 && code <= 0xfaff); // CJK Compatibility Ideographs
+
+          if (isCJK) {
+            if (currentToken && !isCurrentCJK) {
+              tokens.push(currentToken.toLowerCase());
+              currentToken = "";
+            }
+            currentToken += char;
+            isCurrentCJK = true;
+          } else if (/[a-zA-Zа-яёА-ЯЁ0-9\-']/.test(char)) {
+            if (currentToken && isCurrentCJK) {
+              tokens.push(currentToken);
+              currentToken = "";
+            }
+            currentToken += char;
+            isCurrentCJK = false;
+          } else {
+            if (currentToken) {
+              tokens.push(isCurrentCJK ? currentToken : currentToken.toLowerCase());
+              currentToken = "";
+            }
+            isCurrentCJK = false;
+          }
+        }
+
+        if (currentToken) {
+          tokens.push(isCurrentCJK ? currentToken : currentToken.toLowerCase());
+        }
+
+        return tokens.filter((t) => t.length > 0);
+      },
+    };
+
+    dataToSearch.addIndex(["node", "frontmatter", "title"]);
+    dataToSearch.addIndex(["node", "frontmatter", "subtitle"]);
+    dataToSearch.addDocuments(practiceData);
     setState({
       ...state,
       search: dataToSearch,
