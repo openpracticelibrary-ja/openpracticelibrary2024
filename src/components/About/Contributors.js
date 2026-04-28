@@ -16,7 +16,7 @@ const Contributors = () => (
         <Grid item>
           <ContentCircle>
             <Typography variant="h1" component="h5" color="primary">
-              221
+              265
             </Typography>
             <Typography variant="h6" align="center">
               Product Lifecycle Practices
@@ -26,7 +26,7 @@ const Contributors = () => (
         <Grid item>
           <ContentCircle>
             <Typography variant="h1" component="h5" color="primary">
-              137
+              151
             </Typography>
             <Typography variant="h6" align="center">
               Creative Commons Contributors
